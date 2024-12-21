@@ -1,4 +1,5 @@
-The Foundational Paradox
+
+2. Institutional ManifestThe Foundational Paradox
 
 At the heart of human psychology lies a peculiar paradox: our simultaneous desire for both stability and change. The compulsion to balance, manifested through phenomena like the moral license effect and Snackwell effect, reveals how this paradox shapes our behavior in both conscious and unconscious ways. It’s not simply a drive to keep a steady state, but a response to deep-seated, sometimes conflicting, needs for continuity and transformation.
 
@@ -43,8 +44,7 @@ Folk wisdom that warns, “Pride comes before a fall,” reinforcing that joy or
 Media portrayals of “rags-to-riches” and “rise-and-fall” stories that suggest extreme success must be precarious.
 
 Such narratives not only serve as cautionary tales but also embed a deep-seated expectation of balancing highs with lows, shaping how individuals interpret and respond to their own experiences.
-
-2. Institutional Manifestations
+ations
 
 This compulsion to balance extends to institutions, which frequently mirror the same cycles of compensation and opposition:
 
