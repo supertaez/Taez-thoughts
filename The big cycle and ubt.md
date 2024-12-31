@@ -65,4 +65,3 @@ The key insight from combining these frameworks is that these aren't just coinci
 - Rising powers balance declining ones
 - Internal balance affects external power
 
-Would you like me to elaborate on any of these connections or explore how understanding these patterns might help navigate current global transitions?
