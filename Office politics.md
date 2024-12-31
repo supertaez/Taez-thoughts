@@ -1,8 +1,3 @@
-- **Accept Criticism Gracefully**: View feedback as an opportunity for growth, even when it’s delivered poorly. This approach disarms critics and earns respect[1].
-
-## **6. Document Your Work**
-- **CYA (Cover Your Assets)**: Keep records of agreements, contributions, and decisions to protect yourself from misunderstand> a well-rounded guide to navigating office politics while maintaining integrity.
-
 The unspoken rules of office politics: How to play the game without losing your integrity.
 
 Office politics.
@@ -333,7 +328,10 @@ Navigating office politics while maintaining integrity is a delicate balance but
 
 ## **5. Manage Your Emotions**
 - **Stay Composed**: Practice mindfulness or breathing techniques to remain calm under pressure. Responding thoughtfully rather than impulsively helps maintain control in tense situations[1][5].
-ings or disputes[1].
+- **Accept Criticism Gracefully**: View feedback as an opportunity for growth, even when it’s delivered poorly. This approach disarms critics and earns respect[1].
+
+## **6. Document Your Work**
+- **CYA (Cover Your Assets)**: Keep records of agreements, contributions, and decisions to protect yourself from misunderstand> a well-rounded guide to navigating office politics while maintaining integrity.ings or disputes[1].
 - **Use Tools Effectively**: Leverage digital tools like OneNote or email follow-ups for transparency without appearing overly cautious[1].
 
 ## **7. Advocate for Yourself Diplomatically**
