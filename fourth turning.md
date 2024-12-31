@@ -21,4 +21,3 @@ According to the theory, we are currently in a Fourth Turning that began around 
 
 The key insight of the theory is that these cycles are predictable based on generational dynamics - as each generation ages into new life phases, they collectively shape the social mood and create the conditions for the next turning. The theory suggests that understanding these patterns can help society better prepare for and navigate through crisis periods.
 
-Would you like me to expand on any particular aspect of the theory?
