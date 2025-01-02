@@ -276,33 +276,3 @@ Our Favorite Advice on Work, Change, and Life
 ](https://hbr.org/2023/12/our-favorite-advice-on-work-change-and-life "Our Favorite Advice on Work, Change, and Life")
 
 Read more on [**Personal purpose and values**](https://hbr.org/topic/subject/personal-purpose-and-values?ab=articlepage-topic) or related topics [**Personal growth and transformation**](https://hbr.org/topic/subject/personal-growth-and-transformation?ab=articlepage-topic), [**Personal strategy and style**](https://hbr.org/topic/subject/personal-strategy-and-style?ab=articlepage-topic), [**Career planning**](https://hbr.org/topic/subject/career-planning?ab=articlepage-topic), [**Work-life balance**](https://hbr.org/topic/subject/work-life-balance?ab=articlepage-topic), [**Corporate strategy**](https://hbr.org/topic/subject/corporate-strategy?ab=articlepage-topic) and [**Career coaching**](https://hbr.org/topic/subject/career-coaching?ab=articlepage-topic)
-
-## Recommended For You
-
-[![](https://hbr.org/resources/images/article_assets/2024/11/R2502W_PIETRACCI-383x215.jpg)
-
-Strategy in an Era of Abundant Expertise
-
-
-
-](https://hbr.org/2025/03/strategy-in-an-era-of-abundant-expertise?ab=at_art_art_1x4_s01 "Strategy in an Era of Abundant Expertise")[![](https://hbr.org/resources/images/article_assets/2023/08/A_Sep23_01_OurFavReads_Setting-goals_1297916126-383x215.jpg)
-
-The Problem with Setting Goals: Our Favorite Reads
-
-
-
-](https://hbr.org/2023/08/the-problem-with-setting-goals-our-favorite-reads?ab=at_art_art_1x4_s02 "The Problem with Setting Goals: Our Favorite Reads")[![](https://hbr.org/resources/images/article_assets/2015/12/HBR-Ideacast-HP-feed.png)
-
-Podcast
-
-Best of IdeaCast: To Build Stronger Teams, Ask Better Questions
-
-
-
-](https://hbr.org/podcast/2024/12/best-of-ideacast-to-build-stronger-teams-ask-better-questions?ab=at_art_pod_1x4_s03 "Best of IdeaCast: To Build Stronger Teams, Ask Better Questions")[![](https://hbr.org/resources/images/article_assets/2024/10/Nov24_01_82859202-383x215.jpg)
-
-Let's End Toxic Productivity
-
-
-
-](https://hbr.org/2024/11/lets-end-toxic-productivity?ab=at_art_art_1x4_s04 "Let's End Toxic Productivity")
