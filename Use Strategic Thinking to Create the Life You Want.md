@@ -242,17 +242,6 @@ Now, go and do the same. Your life is your top strategic priority.
 
 [Allison Bailey](https://hbr.org/search?term=Allison%20Bailey&amp;search_type=search-all) is a senior partner and a managing director at BCG. She leads the firm’s People & Organization practice globally and is a coauthor of several publications on the future of work, the bionic company, digital learning, and upskilling. She is also a fellow of the BCG Henderson Institute.
 
-- [![](https://hbr.org/assets-mfe-articles/_next/static/media/Twitter.7ac71c2c.svg)](https://twitter.com/intent/tweet?&original_referer=https%3A%2F%2Fhbr.org%2F2023%2F12%2Fuse-strategic-thinking-to-create-the-life-you-want&ref_src=twsrc%5Etfw&related=twitterapi%2Ctwitter&tw_p=tweetbutton&url=https%3A%2F%2Fhbr.org%2F2023%2F12%2Fuse-strategic-thinking-to-create-the-life-you-want)
-- ![](https://hbr.org/assets-mfe-articles/_next/static/media/Facebook.f94faecd.svg)
-- ![](https://hbr.org/assets-mfe-articles/_next/static/media/LinkedIn.c9a4114a.svg)
-- ![](https://hbr.org/assets-mfe-articles/_next/static/media/Save.635e3a71.svg)
-
-[The Big Idea Series](https://hbr.org/2023/12/use-strategic-thinking-to-create-the-life-you-want)Strategize Your Life
-
-[
-
-01
-
 ![](https://hbr.org/resources/images/article_assets/2023/12/lifestrategy_strack_feature-383x215.jpg)
 
 Use Strategic Thinking to Create the Life You Want
