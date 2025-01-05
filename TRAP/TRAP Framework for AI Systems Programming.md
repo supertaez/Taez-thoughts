@@ -1,4 +1,3 @@
-# TRAP Framework for AI Systems Programming
 
 ## Training (Transit transformed to Training)
 - **Definition:** Managing and processing training data through different stages of the AI pipeline
