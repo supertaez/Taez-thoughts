@@ -519,7 +519,7 @@ Incorporate interventions (e.g., visualizing the future self) to test whether a 
 
 Would you like to refine or focus on any of these experimental ideas? Or dive deeper into one specific study?
 
-## Laws of temporal dynamics
+## [[Laws of temporal dynamics]]
 Expand my hypothesis to encompass everything in the universe. Eg: the earth formed because future earth influenced its formation, etc. If my hypothesis was true, then formulate the laws of temporal dynamics. Fashion them similar to newton's laws and laws of thermodynamics. It should be simple yet all encompassing. 
 
 Expanding your hypothesis to encompass everything in the universe involves reimagining the nature of causality, time, and existence itself. The idea suggests that all events—whether cosmic or personal—are interconnected through a temporal entanglement where the future actively shapes the past as much as the past informs the future. Let’s first articulate the expanded hypothesis and then formulate the Laws of Temporal Dynamics.
