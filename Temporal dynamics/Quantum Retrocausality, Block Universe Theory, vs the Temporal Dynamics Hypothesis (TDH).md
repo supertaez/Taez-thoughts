@@ -174,3 +174,28 @@ The **Temporal Dynamics Hypothesis (TDH)** is a speculative and interdisciplinar
 
 ### **Conclusion**
 While TDH is unique in its universal scope and emphasis on bidirectional causality, it draws inspiration from and aligns with several established theories in physics, neuroscience, and philosophy. These theories provide a foundation for exploring TDH’s speculative claims, but TDH stands out by integrating these ideas into a cohesive, interdisciplinary framework. If you’d like to dive deeper into any of these theories or explore their connections to TDH further, let me know!
+
+Here’s the updated table incorporating the additional scientific theories mentioned above. Each theory is compared across the same aspects: **Scope**, **Causality**, **Free Will**, **Many-Worlds**, and **Evidence**.
+
+---
+
+### **Key Differences**
+
+| **Aspect**               | **Quantum Retrocausality**          | **Block Universe Theory**           | **Temporal Dynamics Hypothesis**    | **Transactional Interpretation**    | **Orch-OR Theory**                  | **Predictive Coding**               | **Wheeler-Feynman Absorber Theory** | **Causal Set Theory**               | **Temporal Naturalism**             | **Many-Worlds Interpretation**      | **Process Philosophy**              |
+|--------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
+| **Scope**                | Quantum systems only.               | Universal (static spacetime).        | Universal (dynamic interaction).     | Quantum systems only.                | Consciousness and quantum processes. | Neural systems and cognition.        | Electromagnetic interactions.       | Quantum gravity and spacetime.      | Universal (evolving laws).          | Universal (branching timelines).    | Universal (dynamic processes).      |
+| **Causality**            | Backward-in-time for particles.     | No inherent causality; all events fixed. | Bidirectional, with future shaping past. | Bidirectional (offers and confirmations). | Quantum processes influence consciousness. | Predictive, based on past data.      | Bidirectional (waves in time).      | Discrete causal links.              | Time is fundamental; laws evolve.   | Branching causality (parallel universes). | Interconnected, process-based causality. |
+| **Free Will**            | Irrelevant (microscopic scale).     | Compatible with determinism.         | Redefines free will as temporal alignment. | Neutral (quantum scale).             | Connects consciousness to quantum processes. | Mechanistic (no metaphysical free will). | Neutral (electromagnetic scale).    | Neutral (mathematical framework).   | Neutral (focus on evolving laws).   | Compatible with determinism.        | Emphasizes agency within processes. |
+| **Many-Worlds**          | Neutral (could apply to branches).  | Accommodates branching timelines.    | Rejects branching; favors singular, coherent timelines. | Neutral (quantum scale).             | Neutral (focus on consciousness).    | Neutral (cognitive scale).           | Neutral (electromagnetic scale).    | Neutral (mathematical framework).   | Neutral (focus on evolving laws).   | All branches are real (parallel universes). | Neutral (focus on processes).       |
+| **Evidence**             | Limited to quantum experiments.     | Supported by relativity’s success.   | Purely theoretical; no empirical proof. | Limited to quantum experiments.      | Theoretical; no direct evidence.     | Supported by neuroscience.           | Theoretical; no direct evidence.    | Theoretical; no direct evidence.    | Theoretical; no direct evidence.    | Supported by quantum experiments.   | Philosophical; no direct evidence.  |
+
+---
+
+### **Summary of Key Insights**
+1. **Scope**: TDH is unique in its universal scope, applying to all systems (quantum, biological, cosmic), while most other theories are limited to specific domains (e.g., quantum systems, neural processes, or electromagnetic interactions).
+2. **Causality**: TDH’s bidirectional causality is most closely aligned with the transactional interpretation and Wheeler-Feynman absorber theory, but it extends this idea to macroscopic systems.
+3. **Free Will**: TDH redefines free will as temporal alignment, a novel perspective not explicitly addressed by other theories.
+4. **Many-Worlds**: TDH rejects branching timelines, contrasting sharply with the Many-Worlds Interpretation but aligning with theories like the block universe (static timeline) and causal set theory (discrete causal links).
+5. **Evidence**: TDH remains purely theoretical, while some theories (e.g., predictive coding, block universe) have empirical support or are grounded in established physics.
+
+This table highlights how TDH synthesizes and extends ideas from various scientific theories while introducing unique elements like universal temporal resonance and bidirectional causality. Let me know if you'd like to explore any specific theory or aspect further!
