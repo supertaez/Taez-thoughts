@@ -16,7 +16,7 @@ related: [[DIY Projects for Repurposing Old Monitors]]
 ---
 
 ## Layout Design  
-![DAKboard Layout](https://static.dakboard.com/EXAMPLE/layouts/family.png)  
+![DAKboard Layout](https://dakboard.com/img/dakboard-smarthome-dashboard.jpg)  
 *Recommended widgets: Calendar, Task List, Weather, Photo Slideshow.*
 
 ---
