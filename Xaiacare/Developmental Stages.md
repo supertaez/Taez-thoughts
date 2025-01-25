@@ -3,7 +3,6 @@ title: Developmental Stages
 date: 2025-01-25
 tags: #developmental-milestones #cognitive-development #emotional-development
 ---
-
 ## Infancy (0–12 Months)  
 ### Social-Emotional Milestones  
 - **0–6 Months**: Smiles at caregivers, minimal stranger anxiety.  
