@@ -57,7 +57,7 @@ This mechanism becomes a way for communities to manage underlying discomfort by 
 ## Psychological Strategies for Managing Balance Compulsion
 To navigate this paradoxical desire for both stability and change, we can employ several strategies:
 
-### Cognitive Reframing
+### [[cognitive reframing]]
 Adopting healthier perspectives on balance can help reduce anxiety and compulsive compensation:
 - Awareness of balance-seeking tendencies helps in recognizing when thoughts and actions are driven by a subconscious urge to counteract positive states.
 - Challenging negative predictions and questioning the inevitability of "downturns" can help break self-fulfilling prophecies.
