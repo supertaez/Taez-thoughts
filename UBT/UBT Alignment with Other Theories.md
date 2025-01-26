@@ -1,6 +1,11 @@
 ---
-aliases: [UBT Alignment with Other Theories]
-tags: [Universal_Balance_Theory, psychology, philosophy, systems_thinking]
+aliases:
+  - UBT Alignment with Other Theories
+tags:
+  - Universal_Balance_Theory
+  - psychology
+  - philosophy
+  - systems_thinking
 links:
   - "[[Ubt meta.md]]"
   - "[[ubt-theoretical-connections.md]]"
