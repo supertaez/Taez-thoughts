@@ -1,4 +1,5 @@
 
+---
 aliases: [Cyclical Systems]
 tags: [philosophy, history, systems_thinking]
 links:
@@ -20,3 +21,7 @@ links:
 ## Key Differences
 - **Progression**: Hegel’s synthesis is linear; UBT sees balance as perpetually unstable.
 
+---
+
+**Tags**: #UBT_Theories #ComparativeAnalysis  
+**Related Notes**: [[UBT Alignment with Other Theories]], [[Balance in Modern Life]] 
