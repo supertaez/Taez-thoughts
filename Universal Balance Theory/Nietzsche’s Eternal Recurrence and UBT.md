@@ -3,7 +3,7 @@
 aliases: [Existential Cycles]
 tags: [philosophy, existentialism]
 links:
-  - "[[The big cycle and ubt.md#Dalio’s Big Cycle]]"
+  - "[[The big cycle and ubt#Dalio’s Big Cycle]]"
 ---
 
 ## Core Concepts
@@ -11,7 +11,7 @@ links:
 - **Existential Challenge**: "Would you relive your life the same way?"
 
 ## UBT Connections
-- **Cyclicality**: Both acknowledge repeating patterns (e.g., [[The big cycle and ubt.md|Kondratiev Waves]]).
+- **Cyclicality**: Both acknowledge repeating patterns (e.g., [[The big cycle and ubt|Kondratiev Waves]]).
 
 ## Key Differences
 - **Purpose**: Nietzsche focuses on existential meaning; UBT explains balance mechanics.

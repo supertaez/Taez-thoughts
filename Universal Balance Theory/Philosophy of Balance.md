@@ -1,7 +1,7 @@
 aliases: [Philosophy of Balance]
 tags: [eastern_philosophy, metaphysics]
 links:
-  - "[[Ubt meta.md#Eastern Philosophy]]"
+  - "[[Ubt meta#Eastern Philosophy]]"
 ---
 
 # Taoist Yin-Yang and UBT

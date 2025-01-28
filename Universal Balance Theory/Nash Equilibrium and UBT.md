@@ -1,8 +1,11 @@
 ---
-aliases: [Strategic Equilibrium]
-tags: [economics, game_theory]
+aliases:
+  - Strategic Equilibrium
+tags:
+  - economics
+  - game_theory
 links:
-  - "[[ubt-theoretical-connections.md#Economic Theories]]"
+  - "[[ubt-theoretical-connections#Economic Theories]]"
 ---
 
 ## Core Concepts
@@ -10,7 +13,7 @@ links:
 - **Competitive Balance**: Seen in markets, diplomacy, and biology.
 
 ## UBT Connections
-- **Equilibrium Concept**: Both describe balanced states (e.g., [[ubt-theoretical-connections.md#Economic Theories|supply-demand equilibrium]]).
+- **Equilibrium Concept**: Both describe balanced states (e.g., [[ubt-theoretical-connections#Economic Theories|supply-demand equilibrium]]).
 
 ## Key Differences
 - **Motion**: Nash Equilibrium is static; UBT requires perpetual adjustment.

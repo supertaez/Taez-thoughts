@@ -1,9 +1,13 @@
 ---
-aliases: [UBT and Psychology]
-tags: [Universal_Balance_Theory, psychology, social_dynamics]
+aliases:
+  - UBT and Psychology
+tags:
+  - Universal_Balance_Theory
+  - psychology
+  - social_dynamics
 links:
-  - "[[Ubt meta.md]]"
-  - "[[ubt-theoretical-connections.md#Psychological Theories]]"
+  - "[[Ubt meta]]"
+  - "[[ubt-theoretical-connections#Psychological Theories]]"
 ---
 
 # Adam Grant’s Givers/Takers/Matchers and UBT

@@ -3,8 +3,8 @@
 aliases: [Cyclical Systems]
 tags: [philosophy, history, systems_thinking]
 links:
-  - "[[The big cycle and ubt.md]]"
-  - "[[ubt-theoretical-connections.md#Dialectical Theories]]"
+  - "[[The big cycle and ubt]]"
+  - "[[ubt-theoretical-connections#Dialectical Theories]]"
 ---
 
 # Hegelian Dialectic and UBT
@@ -15,7 +15,7 @@ links:
 - **Synthesis**: New equilibrium merging both.
 
 ## UBT Connections
-- **Cyclical Balance**: Both frameworks view conflict as necessary for progress (e.g., [[The big cycle and ubt.md|empire rise/fall cycles]]).
+- **Cyclical Balance**: Both frameworks view conflict as necessary for progress (e.g., [[The big cycle and ubt|empire rise/fall cycles]]).
 - **Temporary Equilibrium**: Synthesis aligns with UBT’s iterative balance points.
 
 ## Key Differences

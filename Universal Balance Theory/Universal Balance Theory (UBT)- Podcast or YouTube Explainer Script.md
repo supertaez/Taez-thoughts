@@ -1,13 +1,19 @@
 ---
-aliases: [UBT Explained, Balance Theory Script]
-tags: [Universal_Balance_Theory, podcast_script, systems_thinking, interdisciplinary]
+aliases:
+  - UBT Explained
+  - Balance Theory Script
+tags:
+  - Universal_Balance_Theory
+  - podcast_script
+  - systems_thinking
+  - interdisciplinary
 links:
-  - "[[Foundational Paradox.md]]"
-  - "[[Ubt meta.md]]"
-  - "[[ubt-theoretical-connections.md]]"
-  - "[[The big cycle and ubt.md]]"
-  - "[[UBT.md]]"
-  - "[[fourth turning.md]]"
+  - "[[Foundational Paradox]]"
+  - "[[Ubt meta]]"
+  - "[[ubt-theoretical-connections]]"
+  - "[[The big cycle and ubt]]"
+  - "[[UBT]]"
+  - "[[fourth turning]]"
 ---
 
 ## **Opening Hook (0:00–1:30)**
@@ -23,7 +29,7 @@ links:
   - *Example*: Your body’s temperature regulation (homeostasis) mirrors how societies balance progress and tradition.  
 - **Three Laws**:  
   1. **Perpetual Motion**: Perfect balance is a myth—systems oscillate like a dancer adjusting their stance.  
-  2. **Compensatory Action**: Extreme success breeds backlash (think [[The big cycle and ubt.md|Dalio’s Big Cycle]]).  
+  2. **Compensatory Action**: Extreme success breeds backlash (think [[The big cycle and ubt|Dalio’s Big Cycle]]).  
   3. **Collective Amplification**: Individual behaviors scale into societal trends (e.g., viral social movements).  
 
 🎞️ *Cut to animation of a pendulum swinging between "Stability" and "Change"*  
@@ -38,7 +44,7 @@ links:
 
 ### **2. Real-World Patterns**  
 - **Economic Cycles**: Kondratiev Waves and Minsky’s "stability breeds instability."  
-- **Social Pendulum**: Cultural shifts between individualism and collectivism ([[ubt-theoretical-connections.md#Cultural Theories|Cultural Pendulum Theory]]).  
+- **Social Pendulum**: Cultural shifts between individualism and collectivism ([[ubt-theoretical-connections#Cultural Theories|Cultural Pendulum Theory]]).  
 
 🎞️ *Montage of historical events: stock market crashes, civil rights movements, tech revolutions*  
 
@@ -56,7 +62,7 @@ links:
 - **UBT Feedback Loops**: Use quarterly "balance audits" to prevent burnout.  
 
 ### **Societal Solutions**  
-- **Policy Design**: Sunset clauses to force renewal (like [[fourth turning.md|Fourth Turning]] cycles).  
+- **Policy Design**: Sunset clauses to force renewal (like [[fourth turning|Fourth Turning]] cycles).  
 - **Urban Planning**: Balance skyscrapers with green spaces.  
 
 🎞️ *Quick cuts of people meditating, teams brainstorming, cityscapes*  
@@ -79,7 +85,7 @@ links:
 
 ## **Closing Call-to-Action (12:30–13:30)**  
 **Host**:  
-"UBT isn’t just a theory—it’s a lens to navigate life’s chaos. Want to go deeper? Check the links below for our curated notes on [[UBT.md|UBT’s laws]], [[Foundational Paradox.md|the stability-change paradox]], and how to apply this to your daily grind. And remember: balance isn’t about standing still—it’s about dancing with the rhythms of the universe."  
+"UBT isn’t just a theory—it’s a lens to navigate life’s chaos. Want to go deeper? Check the links below for our curated notes on [[UBT|UBT’s laws]], [[Foundational Paradox|the stability-change paradox]], and how to apply this to your daily grind. And remember: balance isn’t about standing still—it’s about dancing with the rhythms of the universe."  
 
 🎵 *Upbeat outro music fades in*  
 "Thanks for watching! Smash that like button, subscribe, and let us know: How will *you* harness the power of balance?"
@@ -114,9 +120,9 @@ Why do empires collapse at their peak? Why do billion-dollar startups implode af
 - Anyone who’s ever wondered, *"Why can’t I just enjoy winning?"*  
 
 🔗 **Links & Resources**:  
-- [[UBT.md]]: Dive deeper into the Laws of Balance.  
-- [[The big cycle and ubt.md]]: Explore Dalio’s take on empires and economics.  
-- [[Foundational Paradox.md]]: Understand why humans crave *both* stability and chaos.  
+- [[UBT]]: Dive deeper into the Laws of Balance.  
+- [[The big cycle and ubt]]: Explore Dalio’s take on empires and economics.  
+- [[Foundational Paradox]]: Understand why humans crave *both* stability and chaos.  
 
 📣 **Closing Thought**:  
 "Success isn’t the finish line—it’s the starting gun for the next challenge. UBT doesn’t just explain why crises follow wins… it reveals how to dance with the rhythm instead of fighting it."  

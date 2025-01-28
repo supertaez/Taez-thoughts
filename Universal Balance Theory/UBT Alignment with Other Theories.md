@@ -7,9 +7,9 @@ tags:
   - philosophy
   - systems_thinking
 links:
-  - "[[Ubt meta.md]]"
-  - "[[ubt-theoretical-connections.md]]"
-  - "[[The big cycle and ubt.md]]"
+  - "[[Ubt meta]]"
+  - "[[ubt-theoretical-connections]]"
+  - "[[The big cycle and ubt]]"
 ---
 
 ## 1. **Adam Grant’s Givers/Takers/Matchers Theory**
@@ -34,7 +34,7 @@ Progress occurs through conflict between opposing ideas (thesis vs. antithesis),
 
 ### UBT Alignment:
 - **Similarities**:  
-  - Mirrors UBT’s cyclical balance-seeking (e.g., [[ubt-theoretical-connections.md#Dialectical Theories|political reform cycles]]).  
+  - Mirrors UBT’s cyclical balance-seeking (e.g., [[ubt-theoretical-connections#Dialectical Theories|political reform cycles]]).  
   - Both frameworks view conflict as necessary for growth.  
 - **Misalignments**:  
   - Hegel’s synthesis is a linear progression; UBT sees balance as temporary and iterative.  
@@ -47,7 +47,7 @@ Opposing forces (light/dark, action/rest) are interdependent and create harmony.
 
 ### UBT Alignment:
 - **Similarities**:  
-  - Direct parallel to UBT’s **dynamic equilibrium** (e.g., [[Ubt meta.md#Eastern Philosophy|Taoism in UBT]]).  
+  - Direct parallel to UBT’s **dynamic equilibrium** (e.g., [[Ubt meta#Eastern Philosophy|Taoism in UBT]]).  
   - Both reject static balance in favor of fluid interaction.  
 - **Misalignments**:  
   - Taoism is metaphysical; UBT is a pragmatic, systems-based theory.  
@@ -60,7 +60,7 @@ The universe infinitely repeats all events.
 
 ### UBT Alignment:
 - **Similarities**:  
-  - Both acknowledge cyclical patterns in systems (e.g., [[The big cycle and ubt.md|Dalio’s Big Cycle]]).  
+  - Both acknowledge cyclical patterns in systems (e.g., [[The big cycle and ubt|Dalio’s Big Cycle]]).  
 - **Misalignments**:  
   - Nietzsche’s focus is existential repetition, not balance-seeking.  
 
@@ -72,7 +72,7 @@ A stable state in competitive systems where no player benefits from changing str
 
 ### UBT Alignment:
 - **Similarities**:  
-  - Both describe equilibrium states (e.g., [[ubt-theoretical-connections.md#Economic Theories|economic balance]]).  
+  - Both describe equilibrium states (e.g., [[ubt-theoretical-connections#Economic Theories|economic balance]]).  
 - **Misalignments**:  
   - Nash Equilibrium is static; UBT emphasizes **perpetual motion**.  
 
@@ -84,7 +84,7 @@ Avoiding extremes to achieve enlightenment.
 
 ### UBT Alignment:
 - **Similarities**:  
-  - Both advocate moderation and reject binary thinking (e.g., [[Foundational Paradox.md#Buddhism’s Middle Way|UBT’s avoidance of extremes]]).  
+  - Both advocate moderation and reject binary thinking (e.g., [[Foundational Paradox#Buddhism’s Middle Way|UBT’s avoidance of extremes]]).  
 - **Misalignments**:  
   - The Middle Way is a spiritual path; UBT is a descriptive framework for systemic behavior.  
 
