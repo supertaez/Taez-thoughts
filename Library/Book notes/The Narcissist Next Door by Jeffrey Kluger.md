@@ -32,7 +32,7 @@ tags: [psychology, narcissism, self-help, relationships]
 
 ## Related Notes
 
-- [[Understanding Narcissistic Personality Disorder]]
+- [[Understanding Narcissistic Personality Disorder (NPD)]]
 - [[Impact of Narcissism on Relationships]]
 - [[Recognizing Narcissistic Behavior in the Workplace]]
 
