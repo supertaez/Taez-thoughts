@@ -42,6 +42,8 @@ The book delves into various therapeutic approaches—such as EMDR (Eye Movement
 
 - **Meaning**: While society emphasizes individualism, humans are inherently social creatures. Our well-being depends on our interconnectedness with others. Trauma isolates us, but healing requires re-engaging with community.
 
+[[The Body Keeps the Score by Bessel van der Kolk - quotebook]]
+
 ---
 
 ## Practical Applications in Daily Life
