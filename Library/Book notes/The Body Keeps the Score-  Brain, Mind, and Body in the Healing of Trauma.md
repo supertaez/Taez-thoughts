@@ -34,12 +34,10 @@ The book delves into various therapeutic approaches—such as EMDR (Eye Movement
 
 ## Quotes and Their Meanings
 
-### Quote 1:
 *"Being able to feel safe with other people is probably the single most important aspect of mental health; safe connections are fundamental to meaningful and satisfying lives."*
 
 - **Meaning**: Human beings are wired for connection. Trauma often disrupts our ability to trust others and form healthy relationships. Restoring this capacity for safe, secure attachments is essential for healing.
 
-### Quote 2:
 *"Our culture teaches us to focus on personal uniqueness, but at a deeper level, we barely exist as individual organisms."*
 
 - **Meaning**: While society emphasizes individualism, humans are inherently social creatures. Our well-being depends on our interconnectedness with others. Trauma isolates us, but healing requires re-engaging with community.
