@@ -18,6 +18,7 @@ related:
   - - - Blockchain Technology Explained
   - - - Resilience Strategies in Governance
 author: "@theaudhdfuturist"
+source: https://www.threads.net/@theaudhdfuturist/post/DFZa7SZxoln?xmt=AQGzqIRmsbkNx5S_teu1juX_w7tWi1sRbmbtT_mIgWge4w
 ---
 
 # 🚨 The Time I Taught Blockchain to a Sheikh - And What It Reminds Me of Saving Democracy
