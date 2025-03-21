@@ -123,7 +123,9 @@ This has been *The Infinite Loop*. I’m [Your Name], and I’ll see you in the 
 
 **[End of Podcast]**
 
-[Host 1] onyx 
+Voice - Onyx or Echo
+
+[Host 1] 
 Accent/Affect: Warm, refined, and gently instructive, reminiscent of a friendly art instructor.
 
 Tone: Calm, encouraging, and articulate, clearly describing each step with patience.
