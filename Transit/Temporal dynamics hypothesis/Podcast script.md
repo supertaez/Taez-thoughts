@@ -123,7 +123,7 @@ This has been *The Infinite Loop*. I’m [Your Name], and I’ll see you in the 
 
 **[End of Podcast]**
 
-[Host1 ]
+[Host 1] onyx 
 Accent/Affect: Warm, refined, and gently instructive, reminiscent of a friendly art instructor.
 
 Tone: Calm, encouraging, and articulate, clearly describing each step with patience.
@@ -135,3 +135,14 @@ Emotion: Cheerful, supportive, and pleasantly enthusiastic; convey genuine enjoy
 Pronunciation: Clearly articulate artistic terminology (e.g., "brushstrokes," "landscape," "palette") with gentle emphasis.
 
 Personality Affect: Friendly and approachable with a hint of sophistication; speak confidently and reassuringly, guiding users through each painting step patiently and warmly.
+
+[Host 2]
+Voice: High-energy, upbeat, and encouraging, projecting enthusiasm and motivation.
+
+Punctuation: Short, punchy sentences with strategic pauses to maintain excitement and clarity.
+
+Delivery: Fast-paced and dynamic, with rising intonation to build momentum and keep engagement high.
+
+Phrasing: Action-oriented and direct, using motivational cues to push participants forward.
+
+Tone: Positive, energetic, and empowering, creating an atmosphere of encouragement and achievement.
