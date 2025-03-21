@@ -85,31 +85,11 @@ In states like Florida, where legislation has been passed to mandate later schoo
 Potential Drawbacks and Obstacles
 The debate over school start times has gained significant attention in recent years, with numerous studies and expert opinions highlighting both the potential benefits and drawbacks of starting the school day later[49]. While the benefits, such as improved academic performance and better health outcomes for students, are well-documented, there are several potential drawbacks and obstacles to implementing a later start time.
 
-One of the primary challenges is the logistical impact on extracurricular activities. Delaying the start of the school day means that after-school sports, clubs, and other activities would also have to be pushed back[49][54]. This could result in students getting home much later in the evening, which could be particularly problematic during winter months when daylight hours are limited. Additionally, it could conflict with students' after-school jobs, potentially reducing their opportunities to earn money and gain work experience[52]
+One of the primary challenges is the logistical impact on extracurricular activities. Delaying the start of the school day means that after-school sports, clubs, and other activities would also have to be pushed back[49][54]. This could result in students getting home much later in the evening, which could be particularly problematic during winter months when daylight hours are limited. Additionally, it could conflict with students' after-school jobs, potentially reducing their opportunities to earn money and gain work experience[52].
 
+Family routines would also be disrupted by a later school start. Many parents' work schedules are aligned with the current school start times, and changing these times could create significant childcare challenges[49]. Parents might find it difficult to adjust their work hours, and younger children who rely on older siblings for after-school care would be affected[54].
 
-
-
-.
-
-Family routines would also be disrupted by a later school start. Many parents' work schedules are aligned with the current school start times, and changing these times could create significant childcare challenges[49]
-
-
-
-
-. Parents might find it difficult to adjust their work hours, and younger children who rely on older siblings for after-school care would be affected[54]
-
-
-
-
-.
-
-Furthermore, transportation logistics present another major hurdle. School buses often serve multiple routes, including elementary, middle, and high schools. A shift in start times for one level could necessitate a complete overhaul of the entire transportation schedule, leading to increased costs and complexities for school districts[54]
-
-
-
-
-.
+Furthermore, transportation logistics present another major hurdle. School buses often serve multiple routes, including elementary, middle, and high schools. A shift in start times for one level could necessitate a complete overhaul of the entire transportation schedule, leading to increased costs and complexities for school districts[54].
 
 Finally, there are concerns about the overall cost implications of such a change. Adjusting start times may require additional funding for transportation, and it could also impact budget allocations for extracurricular activities and other school programs[54]
 
