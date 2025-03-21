@@ -45,31 +45,10 @@ In the 1950s and 1960s, most schools started between 8:30 and 9:00 AM, allowing 
 
 Sleep deprivation in adolescents is a critical issue, as it is inversely related to academic performance across various educational levels[43]. Teenagers experience a shift in their circadian rhythms during puberty, leading them to fall asleep later and wake up later[3] [42]. This biological change is misaligned with early school start times, which exacerbates sleep deprivation and its associated risks[45]. Research indicates that later school start times can improve students' grades, attendance, and overall academic performance[46].
 
-Furthermore, the health benefits of later school start times are substantial. Adolescents require more than eight hours of sleep each night for optimal health, safety, and quality of life[47]. When schools start later, students are able to get the necessary amount of sleep, which positively impacts their mental and physical well-being[44]. Improved sleep among teenagers is associated with reduced anxiety, better mood, and enhanced cognitive function[46]
-[47]
-
-
-
-
-. Consequently, many experts advocate for shifting school start times to align better with teenagers' natural sleep patterns to support their developmental and learning needs more effectively[45]
-
-
-
-
-.
+Furthermore, the health benefits of later school start times are substantial. Adolescents require more than eight hours of sleep each night for optimal health, safety, and quality of life[47]. When schools start later, students are able to get the necessary amount of sleep, which positively impacts their mental and physical well-being[44]. Improved sleep among teenagers is associated with reduced anxiety, better mood, and enhanced cognitive function[46] [47]. Consequently, many experts advocate for shifting school start times to align better with teenagers' natural sleep patterns to support their developmental and learning needs more effectively[45].
 
 Logistical Challenges
-Shifting school start times to later in the day can present several logistical challenges that need to be addressed to ensure a smooth transition. One of the most significant hurdles is the impact on transportation schedules. Many school districts have established bus routes and timings that accommodate the current early start times. Changing these schedules to later in the day would require a complete overhaul of the transportation system, potentially leading to increased costs and logistical complexities[12]
-
-
-
-
-[57]
-
-
-
-
-. In some cases, districts have reported difficulties in coordinating new bus routes and ensuring timely arrivals, which can disrupt the entire school day's flow[13]
+Shifting school start times to later in the day can present several logistical challenges that need to be addressed to ensure a smooth transition. One of the most significant hurdles is the impact on transportation schedules. Many school districts have established bus routes and timings that accommodate the current early start times. Changing these schedules to later in the day would require a complete overhaul of the transportation system, potentially leading to increased costs and logistical complexities[12][57]. In some cases, districts have reported difficulties in coordinating new bus routes and ensuring timely arrivals, which can disrupt the entire school day's flow[13]
 
 
 
