@@ -41,34 +41,9 @@ Among these diverse approaches, Finland stands out with its notably shorter scho
 These global examples highlight that while later start times can have positive outcomes on student well-being and academic performance, the overall structure of the school day, including the balance of instructional time and extracurricular activities, also plays a crucial role in shaping students' experiences and success.
 
 Effects of Early Morning School Start Times on Children and Teenagers
-In the 1950s and 1960s, most schools started between 8:30 and 9:00 AM, allowing students to get a reasonable amount of sleep[1]. However, by the year 2000, many high schools had shifted to start times as early as 7:30 AM or even earlier, which had several negative consequences for teenagers[1]
+In the 1950s and 1960s, most schools started between 8:30 and 9:00 AM, allowing students to get a reasonable amount of sleep[1]. However, by the year 2000, many high schools had shifted to start times as early as 7:30 AM or even earlier, which had several negative consequences for teenagers[1]. Studies have shown that early school start times contribute significantly to sleep deprivation in adolescents, making them more vulnerable to the challenges of adolescence and increasing the likelihood of accidents, psychological problems, and impaired learning in school[2].
 
-
-
-
-. Studies have shown that early school start times contribute significantly to sleep deprivation in adolescents, making them more vulnerable to the challenges of adolescence and increasing the likelihood of accidents, psychological problems, and impaired learning in school[2]
-
-
-
-
-.
-
-Sleep deprivation in adolescents is a critical issue, as it is inversely related to academic performance across various educational levels[43]
-
-
-
-
-. Teenagers experience a shift in their circadian rhythms during puberty, leading them to fall asleep later and wake up later[3]
-
-
-
-
-[42]
-
-
-
-
-. This biological change is misaligned with early school start times, which exacerbates sleep deprivation and its associated risks[45]
+Sleep deprivation in adolescents is a critical issue, as it is inversely related to academic performance across various educational levels[43]. Teenagers experience a shift in their circadian rhythms during puberty, leading them to fall asleep later and wake up later[3] [42]. This biological change is misaligned with early school start times, which exacerbates sleep deprivation and its associated risks[45]
 
 
 
