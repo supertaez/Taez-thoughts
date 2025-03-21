@@ -43,33 +43,9 @@ These global examples highlight that while later start times can have positive o
 Effects of Early Morning School Start Times on Children and Teenagers
 In the 1950s and 1960s, most schools started between 8:30 and 9:00 AM, allowing students to get a reasonable amount of sleep[1]. However, by the year 2000, many high schools had shifted to start times as early as 7:30 AM or even earlier, which had several negative consequences for teenagers[1]. Studies have shown that early school start times contribute significantly to sleep deprivation in adolescents, making them more vulnerable to the challenges of adolescence and increasing the likelihood of accidents, psychological problems, and impaired learning in school[2].
 
-Sleep deprivation in adolescents is a critical issue, as it is inversely related to academic performance across various educational levels[43]. Teenagers experience a shift in their circadian rhythms during puberty, leading them to fall asleep later and wake up later[3] [42]. This biological change is misaligned with early school start times, which exacerbates sleep deprivation and its associated risks[45]
+Sleep deprivation in adolescents is a critical issue, as it is inversely related to academic performance across various educational levels[43]. Teenagers experience a shift in their circadian rhythms during puberty, leading them to fall asleep later and wake up later[3] [42]. This biological change is misaligned with early school start times, which exacerbates sleep deprivation and its associated risks[45]. Research indicates that later school start times can improve students' grades, attendance, and overall academic performance[46].
 
-
-
-
-. Research indicates that later school start times can improve students' grades, attendance, and overall academic performance[46]
-
-
-
-
-.
-
-Furthermore, the health benefits of later school start times are substantial. Adolescents require more than eight hours of sleep each night for optimal health, safety, and quality of life[47]
-
-
-
-
-. When schools start later, students are able to get the necessary amount of sleep, which positively impacts their mental and physical well-being[44]
-
-
-
-
-. Improved sleep among teenagers is associated with reduced anxiety, better mood, and enhanced cognitive function[46]
-
-
-
-
+Furthermore, the health benefits of later school start times are substantial. Adolescents require more than eight hours of sleep each night for optimal health, safety, and quality of life[47]. When schools start later, students are able to get the necessary amount of sleep, which positively impacts their mental and physical well-being[44]. Improved sleep among teenagers is associated with reduced anxiety, better mood, and enhanced cognitive function[46]
 [47]
 
 
