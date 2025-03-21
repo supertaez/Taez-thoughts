@@ -98,59 +98,14 @@ Teenagers' natural circadian rhythms significantly impact their alertness and co
 
 Policy and Implementation
 Policy Changes for Later School Start Times
-Implementing later school start times requires significant policy changes, with varied impacts on the education system. In 2023, lawmakers passed Senate Bill 328, mandating that high schools begin no earlier than 8:30 a.m. and middle schools no earlier than 8 a.m.[21]. This law aimed to address the sleep needs of older students, supported by research indicating that adolescents require 8 to 10 hours of sleep for optimal development and that early start times contribute to sleep deprivation, which negatively impacts academic performance and overall health[24]
+Implementing later school start times requires significant policy changes, with varied impacts on the education system. In 2023, lawmakers passed Senate Bill 328, mandating that high schools begin no earlier than 8:30 a.m. and middle schools no earlier than 8 a.m.[21]. This law aimed to address the sleep needs of older students, supported by research indicating that adolescents require 8 to 10 hours of sleep for optimal development and that early start times contribute to sleep deprivation, which negatively impacts academic performance and overall health[24].
 
+However, as the implementation deadline approached, several school districts faced challenges adapting to the new schedule. These included logistical issues such as adjusting bus schedules, hiring additional bus drivers, and managing after-school activities and childcare arrangements[25][26]. Consequently, some lawmakers who initially supported the change reconsidered, proposing Senate Bill 296 to repeal the start time requirements[22][23]. The repeal bills, supported by many districts, acknowledged the difficulty in meeting the new start times due to local circumstances[23].
 
-
-
-.
-
-However, as the implementation deadline approached, several school districts faced challenges adapting to the new schedule. These included logistical issues such as adjusting bus schedules, hiring additional bus drivers, and managing after-school activities and childcare arrangements[25]
-
-
-
-
-[26]
-
-
-
-
-. Consequently, some lawmakers who initially supported the change reconsidered, proposing Senate Bill 296 to repeal the start time requirements[22]
-
-
-
-
-[23]
-
-
-
-
-. The repeal bills, supported by many districts, acknowledged the difficulty in meeting the new start times due to local circumstances[23]
-
-
-
-
-.
-
-Ultimately, the debate on school start times underscores the complexity of policy changes in education, highlighting the balance between addressing student health needs and managing practical implementation challenges within school districts[21]
-
-
-
-
-[25]
-
-
-
-
-.
+Ultimately, the debate on school start times underscores the complexity of policy changes in education, highlighting the balance between addressing student health needs and managing practical implementation challenges within school districts[21][25].
 
 Education Quality Control Measures
-The Ministry of Education has implemented several policies and strategic initiatives to ensure the quality of education remains consistent, regardless of the school start times. One of the most significant steps in this direction is the Education Policy 2023-2027. This policy aims to transform the educational landscape over a five-year period, aligning with both national developmental goals and international mandates like the United Nations' 2030 Agenda for Sustainable Development[68]
-
-
-
-
-.
+The Ministry of Education has implemented several policies and strategic initiatives to ensure the quality of education remains consistent, regardless of the school start times. One of the most significant steps in this direction is the Education Policy 2023-2027. This policy aims to transform the educational landscape over a five-year period, aligning with both national developmental goals and international mandates like the United Nations' 2030 Agenda for Sustainable Development[68].
 
 Moreover, various policies have been established by the Ministry to govern different aspects of education. These include the Student Code of Conduct, Policy on Mobile Phones in Schools, and Child Protection in Schools[69]
 
