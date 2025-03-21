@@ -65,44 +65,14 @@ Many districts struggle with reconfiguring bus schedules to accommodate the shif
 
 In an effort to explore the feasibility of later start times, the Fayetteville-Manlius School District partnered with the Children’s National Medical Center and Child Trends to evaluate the challenges and opportunities associated with such changes[56]. This collaborative effort aimed to address the logistical issues, including the reorganization of bus routes and the impact on extracurricular activities[56].
 
-Despite the potential benefits, the transition has not been universally accepted. In some states, legislation initially mandating later start times has faced repeal efforts[58]
+Despite the potential benefits, the transition has not been universally accepted. In some states, legislation initially mandating later start times has faced repeal efforts[58]. For example, Senate Bill 296 and House Bill 261 aim to overturn a 2023 law that pushed back start times for high schools and middle schools[58]. The debate highlights the ongoing struggle to balance the scientific recommendations with practical and logistical constraints.
 
-
-
-
-. For example, Senate Bill 296 and House Bill 261 aim to overturn a 2023 law that pushed back start times for high schools and middle schools[58]
-
-
-
-
-. The debate highlights the ongoing struggle to balance the scientific recommendations with practical and logistical constraints.
-
-Nevertheless, success stories from various districts demonstrate that it is possible to manage these logistical challenges effectively. Early adopters of later start times have fine-tuned their bus and bell schedules through trial and error, while seeking feedback from parents and students[59]
-
-
-
-
-. The positive impact on students, as illustrated by the Start School Later Greenwich CT Chapter, underscores the significant benefits of adjusting school start times[60]
-
-
-
-
-.
+Nevertheless, success stories from various districts demonstrate that it is possible to manage these logistical challenges effectively. Early adopters of later start times have fine-tuned their bus and bell schedules through trial and error, while seeking feedback from parents and students[59]. The positive impact on students, as illustrated by the Start School Later Greenwich CT Chapter, underscores the significant benefits of adjusting school start times[60].
 
 Strategies for Effective Management
-The debate over school start times has been ongoing for years, with strong arguments on both sides regarding the benefits and challenges of starting the school day later. Proponents argue that later start times align better with the biological sleep rhythms of teenagers, leading to improved physical and mental health, better academic performance, and a reduction in teen-driving accidents[12]
+The debate over school start times has been ongoing for years, with strong arguments on both sides regarding the benefits and challenges of starting the school day later. Proponents argue that later start times align better with the biological sleep rhythms of teenagers, leading to improved physical and mental health, better academic performance, and a reduction in teen-driving accidents[12]. However, implementing later school start times comes with its own set of logistical challenges that need to be managed effectively to ensure a smooth transition.
 
-
-
-
-. However, implementing later school start times comes with its own set of logistical challenges that need to be managed effectively to ensure a smooth transition.
-
-One significant logistical challenge is the potential disruption of family routines. Parents who rely on early school start times to align with their work schedules might find it difficult to adjust, leading to complications in arranging childcare and drop-off routines[9]
-
-
-
-
-. Schools could address this issue by offering flexible drop-off options and before-school programs to accommodate varying family schedules.
+One significant logistical challenge is the potential disruption of family routines. Parents who rely on early school start times to align with their work schedules might find it difficult to adjust, leading to complications in arranging childcare and drop-off routines[9]. Schools could address this issue by offering flexible drop-off options and before-school programs to accommodate varying family schedules.
 
 Transportation is another critical area impacted by later start times. School districts often face logistical hurdles in reorganizing bus schedules, as a later start for high schools could overlap with the bus schedules of elementary and middle schools[12]
 
