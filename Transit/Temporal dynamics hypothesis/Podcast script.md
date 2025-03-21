@@ -5,7 +5,7 @@
 **[Intro Music Fades In]**
 
 **Speaker:**  
-Welcome, everyone, to *TaeZ tal*, a podcast where we dive deep into the mysteries of the universe, from the quantum realm to the philosophical questions that have puzzled humanity for centuries. I’m your host, The TaeZ, and today we’re tackling a fascinating topic that blends quantum physics, philosophy, and the nature of time itself. We’re going to explore the idea of **temporal dynamics**—how the past, present, and future might be interconnected in ways that challenge our traditional understanding of causality.  
+Welcome, everyone, to *TaeZ talks*, a podcast where we dive deep into the mysteries of the universe, from the quantum realm to the philosophical questions that have puzzled humanity for centuries. I’m your host, The TaeZ, and today we’re tackling a fascinating topic that blends quantum physics, philosophy, and the nature of time itself. We’re going to explore the idea of **temporal dynamics**—how the past, present, and future might be interconnected in ways that challenge our traditional understanding of causality.  
 
 So, grab a cup of coffee, sit back, and let’s unravel the mysteries of time, entanglement, and the self.
 
