@@ -52,34 +52,9 @@ Shifting school start times to later in the day can present several logistical c
 
 Another challenge involves the potential disruption to family routines. Many families have structured their daily schedules around the current school start times, including work commitments and childcare arrangements[9]. A shift to a later start time could necessitate adjustments in parental work hours, which may not be feasible for all families[16]. This could create additional stress and logistical difficulties for parents who rely on early school start times to accommodate their work schedules.
 
-Extracurricular activities, such as sports and after-school programs, also pose a significant challenge. These activities are often scheduled immediately after school and are timed to take advantage of daylight hours. A later start and end to the school day could push these activities into the evening, conflicting with other commitments students may have, such as part-time jobs or family responsibilities[11][14][52]. For example, students who participate in sports may find it challenging to train and compete if practices and games are scheduled later in the day, potentially reducing participation rates and the overall effectiveness of these programs[17]
+Extracurricular activities, such as sports and after-school programs, also pose a significant challenge. These activities are often scheduled immediately after school and are timed to take advantage of daylight hours. A later start and end to the school day could push these activities into the evening, conflicting with other commitments students may have, such as part-time jobs or family responsibilities[11][14][52]. For example, students who participate in sports may find it challenging to train and compete if practices and games are scheduled later in the day, potentially reducing participation rates and the overall effectiveness of these programs[17][53].
 
-
-
-
-[53]
-
-
-
-
-.
-
-Moreover, there are financial implications associated with shifting school start times. Implementing these changes may require additional funding to cover the increased transportation costs, extended school hours for staff, and possible modifications to school infrastructure to accommodate new schedules[16]
-
-
-
-
-[58]
-
-
-
-
-. These costs can be a significant burden on school districts, particularly those already facing budget constraints[10]
-
-
-
-
-.
+Moreover, there are financial implications associated with shifting school start times. Implementing these changes may require additional funding to cover the increased transportation costs, extended school hours for staff, and possible modifications to school infrastructure to accommodate new schedules[16][58]. These costs can be a significant burden on school districts, particularly those already facing budget constraints[10].
 
 Despite these challenges, some districts have successfully navigated the transition to later start times by employing various strategies. For instance, they have staggered bus schedules, collaborated with local organizations to adjust extracurricular activity timings, and engaged with parents and community members to develop solutions that accommodate the new schedules[56]
 
