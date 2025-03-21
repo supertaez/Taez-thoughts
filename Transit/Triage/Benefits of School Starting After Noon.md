@@ -61,44 +61,9 @@ Despite these challenges, some districts have successfully navigated the transit
 Transportation Logistics
 Adjusting school start times to better align with the biological sleep rhythms of teenagers has been shown to result in numerous benefits, including improved physical and mental health, better academic performance, and fewer teen-driving accidents[55][57]. However, one of the significant challenges in implementing later start times is managing transportation logistics[55][57].
 
-Many districts struggle with reconfiguring bus schedules to accommodate the shift, as traditional start times are deeply entrenched in the transportation systems[55]
+Many districts struggle with reconfiguring bus schedules to accommodate the shift, as traditional start times are deeply entrenched in the transportation systems[55][57]. In some cases, schools start as early as 7:30 a.m., significantly earlier than the 8:30 a.m. start time recommended by the American Academy of Pediatrics[57]. This misalignment often forces students to sleepwalk through their first period classes, compromising their overall performance[55][57].
 
-
-
-
-[57]
-
-
-
-
-. In some cases, schools start as early as 7:30 a.m., significantly earlier than the 8:30 a.m. start time recommended by the American Academy of Pediatrics[57]
-
-
-
-
-. This misalignment often forces students to sleepwalk through their first period classes, compromising their overall performance[55]
-
-
-
-
-[57]
-
-
-
-
-.
-
-In an effort to explore the feasibility of later start times, the Fayetteville-Manlius School District partnered with the Children’s National Medical Center and Child Trends to evaluate the challenges and opportunities associated with such changes[56]
-
-
-
-
-. This collaborative effort aimed to address the logistical issues, including the reorganization of bus routes and the impact on extracurricular activities[56]
-
-
-
-
-.
+In an effort to explore the feasibility of later start times, the Fayetteville-Manlius School District partnered with the Children’s National Medical Center and Child Trends to evaluate the challenges and opportunities associated with such changes[56]. This collaborative effort aimed to address the logistical issues, including the reorganization of bus routes and the impact on extracurricular activities[56].
 
 Despite the potential benefits, the transition has not been universally accepted. In some states, legislation initially mandating later start times has faced repeal efforts[58]
 
