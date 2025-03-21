@@ -48,46 +48,11 @@ Sleep deprivation in adolescents is a critical issue, as it is inversely related
 Furthermore, the health benefits of later school start times are substantial. Adolescents require more than eight hours of sleep each night for optimal health, safety, and quality of life[47]. When schools start later, students are able to get the necessary amount of sleep, which positively impacts their mental and physical well-being[44]. Improved sleep among teenagers is associated with reduced anxiety, better mood, and enhanced cognitive function[46] [47]. Consequently, many experts advocate for shifting school start times to align better with teenagers' natural sleep patterns to support their developmental and learning needs more effectively[45].
 
 Logistical Challenges
-Shifting school start times to later in the day can present several logistical challenges that need to be addressed to ensure a smooth transition. One of the most significant hurdles is the impact on transportation schedules. Many school districts have established bus routes and timings that accommodate the current early start times. Changing these schedules to later in the day would require a complete overhaul of the transportation system, potentially leading to increased costs and logistical complexities[12][57]. In some cases, districts have reported difficulties in coordinating new bus routes and ensuring timely arrivals, which can disrupt the entire school day's flow[13]
+Shifting school start times to later in the day can present several logistical challenges that need to be addressed to ensure a smooth transition. One of the most significant hurdles is the impact on transportation schedules. Many school districts have established bus routes and timings that accommodate the current early start times. Changing these schedules to later in the day would require a complete overhaul of the transportation system, potentially leading to increased costs and logistical complexities[12][57]. In some cases, districts have reported difficulties in coordinating new bus routes and ensuring timely arrivals, which can disrupt the entire school day's flow[13][16].
 
+Another challenge involves the potential disruption to family routines. Many families have structured their daily schedules around the current school start times, including work commitments and childcare arrangements[9]. A shift to a later start time could necessitate adjustments in parental work hours, which may not be feasible for all families[16]. This could create additional stress and logistical difficulties for parents who rely on early school start times to accommodate their work schedules.
 
-
-
-[16]
-
-
-
-
-.
-
-Another challenge involves the potential disruption to family routines. Many families have structured their daily schedules around the current school start times, including work commitments and childcare arrangements[9]
-
-
-
-
-. A shift to a later start time could necessitate adjustments in parental work hours, which may not be feasible for all families[16]
-
-
-
-
-. This could create additional stress and logistical difficulties for parents who rely on early school start times to accommodate their work schedules.
-
-Extracurricular activities, such as sports and after-school programs, also pose a significant challenge. These activities are often scheduled immediately after school and are timed to take advantage of daylight hours. A later start and end to the school day could push these activities into the evening, conflicting with other commitments students may have, such as part-time jobs or family responsibilities[11]
-
-
-
-
-[14]
-
-
-
-
-[52]
-
-
-
-
-. For example, students who participate in sports may find it challenging to train and compete if practices and games are scheduled later in the day, potentially reducing participation rates and the overall effectiveness of these programs[17]
+Extracurricular activities, such as sports and after-school programs, also pose a significant challenge. These activities are often scheduled immediately after school and are timed to take advantage of daylight hours. A later start and end to the school day could push these activities into the evening, conflicting with other commitments students may have, such as part-time jobs or family responsibilities[11][14][52]. For example, students who participate in sports may find it challenging to train and compete if practices and games are scheduled later in the day, potentially reducing participation rates and the overall effectiveness of these programs[17]
 
 
 
