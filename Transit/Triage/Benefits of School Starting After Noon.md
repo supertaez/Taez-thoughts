@@ -18,59 +18,14 @@ Additionally, various European countries follow similar practices, raising impor
 
 Afternoon school schedules can also offer significant benefits for younger children. Families often find that morning routines become more relaxed, reducing the rush and stress associated with getting children to school early[74]. 
 Additionally, afternoon breaks and activities provide children with opportunities to be physically active and engage in social interactions, which are crucial for their development[75]. 
-Participation in after-school programs can further enhance students' skills and interests, contributing to their overall growth and confidence[76]
-
-
-
-
-.
+Participation in after-school programs can further enhance students' skills and interests, contributing to their overall growth and confidence[76].
 
 Improved Sleep Patterns and Health
-The debate on the optimal timing for school start times has gained considerable momentum, presenting compelling reasons why school should start later[4]
+The debate on the optimal timing for school start times has gained considerable momentum, presenting compelling reasons why school should start later[4]. Traditionally, schools have adhered to an early morning schedule, a routine that is increasingly viewed as misaligned with adolescent physiological rhythms and conducive to chronic sleep deprivation[4]. Adolescents naturally have later sleep-wake cycles due to biological changes, which makes it difficult for them to fall asleep early enough to get the recommended amount of sleep if they have to wake up for an early school start[8].
 
+Research suggests that a later start time for classes, particularly for middle school and high school students, provides numerous benefits, including improved academic performance, better health, and fewer absences[5]. The improvement in sleep duration and quality can lead to better mood regulation, decreased risk of mental health issues, and enhanced cognitive functioning[8]. This growing consensus among educators, parents, and researchers highlights the profound benefits such a shift could have on student health and academic performance[4].
 
-
-
-. Traditionally, schools have adhered to an early morning schedule, a routine that is increasingly viewed as misaligned with adolescent physiological rhythms and conducive to chronic sleep deprivation[4]
-
-
-
-
-. Adolescents naturally have later sleep-wake cycles due to biological changes, which makes it difficult for them to fall asleep early enough to get the recommended amount of sleep if they have to wake up for an early school start[8]
-
-
-
-
-.
-
-Research suggests that a later start time for classes, particularly for middle school and high school students, provides numerous benefits, including improved academic performance, better health, and fewer absences[5]
-
-
-
-
-. The improvement in sleep duration and quality can lead to better mood regulation, decreased risk of mental health issues, and enhanced cognitive functioning[8]
-
-
-
-
-. This growing consensus among educators, parents, and researchers highlights the profound benefits such a shift could have on student health and academic performance[4]
-
-
-
-
-.
-
-Conversely, there are also arguments against shifting school schedules, such as logistical challenges and impacts on extracurricular activities[6]
-
-
-
-
-. Nevertheless, the potential health benefits for students—by better aligning school schedules with their natural sleep patterns—are compelling[4]
-
-
-
-
-.
+Conversely, there are also arguments against shifting school schedules, such as logistical challenges and impacts on extracurricular activities[6]. Nevertheless, the potential health benefits for students—by better aligning school schedules with their natural sleep patterns—are compelling[4].
 
 Global Examples and Outcomes
 Globally, school start times and the structure of the school day can vary significantly, and these differences can impact students' mental, physical, and social well-being. In Finland, which boasts one of the best education systems in the world, schools typically start between 9 and 9:45 a.m., and students spend about five hours in the classroom each day[37]
