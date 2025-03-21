@@ -91,34 +91,14 @@ Family routines would also be disrupted by a later school start. Many parents' w
 
 Furthermore, transportation logistics present another major hurdle. School buses often serve multiple routes, including elementary, middle, and high schools. A shift in start times for one level could necessitate a complete overhaul of the entire transportation schedule, leading to increased costs and complexities for school districts[54].
 
-Finally, there are concerns about the overall cost implications of such a change. Adjusting start times may require additional funding for transportation, and it could also impact budget allocations for extracurricular activities and other school programs[54]
-
-
-
-
-. These financial considerations could be a significant deterrent for many school districts already operating under tight budgets.
+Finally, there are concerns about the overall cost implications of such a change. Adjusting start times may require additional funding for transportation, and it could also impact budget allocations for extracurricular activities and other school programs[54]. These financial considerations could be a significant deterrent for many school districts already operating under tight budgets.
 
 Circadian Rhythms and Cognitive Performance
-Teenagers' natural circadian rhythms significantly impact their alertness and cognitive performance throughout the day. Research has shown that young teens often experience a shift in their sleep patterns, leading to difficulties falling asleep at night and pronounced drowsiness upon waking in the morning. This phenomenon has been widely observed by parents and corroborated by studies conducted in university sleep laboratories at Stanford and Brown[20]
-
-
-
-
-. As a result, teenagers tend to perform better cognitively in the afternoon when their alertness levels are naturally higher, as opposed to the morning when their circadian rhythms are not yet fully aligned with the demands of early school start times[20]
-
-
-
-
-.
+Teenagers' natural circadian rhythms significantly impact their alertness and cognitive performance throughout the day. Research has shown that young teens often experience a shift in their sleep patterns, leading to difficulties falling asleep at night and pronounced drowsiness upon waking in the morning. This phenomenon has been widely observed by parents and corroborated by studies conducted in university sleep laboratories at Stanford and Brown[20]. As a result, teenagers tend to perform better cognitively in the afternoon when their alertness levels are naturally higher, as opposed to the morning when their circadian rhythms are not yet fully aligned with the demands of early school start times[20].
 
 Policy and Implementation
 Policy Changes for Later School Start Times
-Implementing later school start times requires significant policy changes, with varied impacts on the education system. In 2023, lawmakers passed Senate Bill 328, mandating that high schools begin no earlier than 8:30 a.m. and middle schools no earlier than 8 a.m.[21]
-
-
-
-
-. This law aimed to address the sleep needs of older students, supported by research indicating that adolescents require 8 to 10 hours of sleep for optimal development and that early start times contribute to sleep deprivation, which negatively impacts academic performance and overall health[24]
+Implementing later school start times requires significant policy changes, with varied impacts on the education system. In 2023, lawmakers passed Senate Bill 328, mandating that high schools begin no earlier than 8:30 a.m. and middle schools no earlier than 8 a.m.[21]. This law aimed to address the sleep needs of older students, supported by research indicating that adolescents require 8 to 10 hours of sleep for optimal development and that early start times contribute to sleep deprivation, which negatively impacts academic performance and overall health[24]
 
 
 
