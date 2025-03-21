@@ -28,55 +28,20 @@ Research suggests that a later start time for classes, particularly for middle s
 Conversely, there are also arguments against shifting school schedules, such as logistical challenges and impacts on extracurricular activities[6]. Nevertheless, the potential health benefits for students—by better aligning school schedules with their natural sleep patterns—are compelling[4].
 
 Global Examples and Outcomes
-Globally, school start times and the structure of the school day can vary significantly, and these differences can impact students' mental, physical, and social well-being. In Finland, which boasts one of the best education systems in the world, schools typically start between 9 and 9:45 a.m., and students spend about five hours in the classroom each day[37]
+Globally, school start times and the structure of the school day can vary significantly, and these differences can impact students' mental, physical, and social well-being. In Finland, which boasts one of the best education systems in the world, schools typically start between 9 and 9:45 a.m., and students spend about five hours in the classroom each day[37]. This later start time is complemented by minimal homework, allowing students more time for rest and extracurricular activities. The positive effects on students' mental health and overall well-being are notable in the Finnish system.
 
+In contrast, the United States has traditionally favored early start times, particularly for middle and high school students[38]. This practice has been subject to scrutiny, as research suggests that insufficient sleep can negatively impact students' academic performance and mental health. European countries generally start the school day later, and there is evidence to suggest that these later start times are associated with improved academic outcomes and better mental health among students[38].
 
+Japan, with a school day starting at 8:30 a.m. and often extending to include club activities, demonstrates another approach. While Japanese students experience longer days, this structure emphasizes the importance of extracurricular involvement as part of their education[39]. This system, however, also raises concerns about the pressure and stress associated with preparing for frequent exams.
 
+In the UK, recent changes have seen the extension of the school day for secondary school students to include additional hours for lessons or extracurricular activities, such as sports and arts[40]. This shift aims to enhance educational outcomes but also brings up questions regarding student well-being and the balance between academic demands and personal time.
 
-. This later start time is complemented by minimal homework, allowing students more time for rest and extracurricular activities. The positive effects on students' mental health and overall well-being are notable in the Finnish system.
-
-In contrast, the United States has traditionally favored early start times, particularly for middle and high school students[38]
-
-
-
-
-. This practice has been subject to scrutiny, as research suggests that insufficient sleep can negatively impact students' academic performance and mental health. European countries generally start the school day later, and there is evidence to suggest that these later start times are associated with improved academic outcomes and better mental health among students[38]
-
-
-
-
-.
-
-Japan, with a school day starting at 8:30 a.m. and often extending to include club activities, demonstrates another approach. While Japanese students experience longer days, this structure emphasizes the importance of extracurricular involvement as part of their education[39]
-
-
-
-
-. This system, however, also raises concerns about the pressure and stress associated with preparing for frequent exams.
-
-In the UK, recent changes have seen the extension of the school day for secondary school students to include additional hours for lessons or extracurricular activities, such as sports and arts[40]
-
-
-
-
-. This shift aims to enhance educational outcomes but also brings up questions regarding student well-being and the balance between academic demands and personal time.
-
-Among these diverse approaches, Finland stands out with its notably shorter school days, averaging only five hours of classroom time[41]
-
-
-
-
-. This structure supports the argument for later start times and shorter days, suggesting that they may contribute to a more balanced and healthier lifestyle for students.
+Among these diverse approaches, Finland stands out with its notably shorter school days, averaging only five hours of classroom time[41]. This structure supports the argument for later start times and shorter days, suggesting that they may contribute to a more balanced and healthier lifestyle for students.
 
 These global examples highlight that while later start times can have positive outcomes on student well-being and academic performance, the overall structure of the school day, including the balance of instructional time and extracurricular activities, also plays a crucial role in shaping students' experiences and success.
 
 Effects of Early Morning School Start Times on Children and Teenagers
-In the 1950s and 1960s, most schools started between 8:30 and 9:00 AM, allowing students to get a reasonable amount of sleep[1]
-
-
-
-
-. However, by the year 2000, many high schools had shifted to start times as early as 7:30 AM or even earlier, which had several negative consequences for teenagers[1]
+In the 1950s and 1960s, most schools started between 8:30 and 9:00 AM, allowing students to get a reasonable amount of sleep[1]. However, by the year 2000, many high schools had shifted to start times as early as 7:30 AM or even earlier, which had several negative consequences for teenagers[1]
 
 
 
