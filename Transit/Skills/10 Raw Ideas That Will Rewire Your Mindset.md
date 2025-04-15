@@ -1,18 +1,23 @@
 ---
 title: “10 Raw Ideas That Will Rewire Your Mindset—No Fluff”
-created: 2025-04-15
-tags: [mentor-session, psychology, philosophy, mental-models, self-mastery]
+created: 2025-04-16
+tags:
+  - mentor-session
+  - psychology
+  - philosophy
+  - mental-models
+  - self-mastery
 links:
-  - [[Stoicism & Resilience]]
-  - [[Cognitive Biases Catalog]]
-  - [[Growth Mindset Primer]]
-  - [[Systems Thinking Toolkit]]
-  - [[Narrative Identity]]
-  - [[Purpose & Meaning]]
-  - [[Altruism & Compassion]]
-  - [[Experiential Learning]]
-  - [[Feedback Loops]]
-  - [[Self-Awareness Practices]]
+  - - - Stoicism & Resilience
+  - - - Cognitive Biases Catalog
+  - - - Growth Mindset Primer
+  - - - Systems Thinking Toolkit
+  - - - Narrative Identity
+  - - - Purpose & Meaning
+  - - - Altruism & Compassion
+  - - - Experiential Learning
+  - - - Feedback Loops
+  - - - Self-Awareness Practices
 ---
 
 # 10 Core Lessons from Psychology, Philosophy & Experience
