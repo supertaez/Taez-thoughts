@@ -35,7 +35,7 @@ By the end of this lesson, students will be able to:
 ## 📚 Materials Needed
 
 - Storybook: *"Officer Buckle and Gloria"* by Peggy Rathmann
-- Video: [Safety Rules for Kids](https://www.youtube.com/watch?v=U5aX9A7k4Y8)
+- Video: [Safety Rules for Kids](https://youtu.be/CKgoonlk00Q)
 - Art supplies: crayons, paper, scissors, glue
 - Props for role-playing: toy traffic signs, helmets, etc.
 - Game materials: flashcards with images depicting safe and unsafe behaviors
@@ -52,7 +52,7 @@ By the end of this lesson, students will be able to:
 
 ## 🎬 Interactive Video
 
-**Video:** [Safety Rules for Kids](https://www.youtube.com/watch?v=U5aX9A7k4Y8)
+**Video:** [Safety Rules for Kids](https://youtu.be/CKgoonlk00Q)
 
 **Guided Questions:**
 
@@ -107,7 +107,7 @@ By the end of this lesson, students will be able to:
 
 ## 📌 External Resources
 
-- [Safety Rules for Kids Video](https://www.youtube.com/watch?v=U5aX9A7k4Y8)
+- [Safety Rules for Kids Video](https://youtu.be/CKgoonlk00Q)
 - [Officer Buckle and Gloria - Read Aloud](https://www.youtube.com/watch?v=5v5ZxICc5lA)
 - [Twinkl - Risk-Taking Activities](https://www.twinkl.com/resource/t-c-254717-risk-taking-activities-teaching-ideas)
 
