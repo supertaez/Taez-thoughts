@@ -29,7 +29,7 @@ tags: [kindergarten, game-theory-basics, cooperative-play, early-math]
 
 ### 🕒 **Block 1: Warm-Up with "The Sharing Song" (0:00-0:30)**
 
-![Sharing Song Video](https://www.youtube.com/watch?v=KfHw8H8u6Is)
+![Sharing Song Video](https://youtu.be/96fq4YmYjzQ)
 **Activity**: Dance freeze game with sharing prompts  
 **Resources**: 
 - [Printable Emotion Cards](https://www.twinkl.com/resource/t-s-2548898-sharing-social-situation)
@@ -86,7 +86,7 @@ tags: [kindergarten, game-theory-basics, cooperative-play, early-math]
 3. **Bubble Cooperation**: Shared bubble wand challenges
 
 **Assessment Rubric**:  
-![[Outdoor Rubric Chart]](https://www.teacherspayteachers.com/product/Cooperation-Rubric-1832838)
+![Outdoor Rubric Chart](https://www.teacherspayteachers.com/product/Cooperation-Rubric-1832838)
 
 ---
 
