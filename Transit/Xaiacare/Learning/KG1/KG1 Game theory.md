@@ -111,4 +111,3 @@ tags: [kindergarten, game-theory-basics, cooperative-play, early-math]
 
 
 > 🌈 **Extension Idea**: Create a class "Cooperation Recipe" book with student photos and sharing strategies!
-```
