@@ -11,7 +11,7 @@ tags: [kindergarten, game-theory-basics, cooperative-play, early-math]
 
 # 🌟 Game Theory Foundations for Young Learners
 
-![[Colorful Cooperation Image]](https://images.pexels.com/photos/145685/pexels-photo-145685.jpeg)
+![Colorful Cooperation Image](https://images.pexels.com/photos/145685/pexels-photo-145685.jpeg)
 
 > *"We can make everyone smile when we work together!"* 
 
@@ -29,7 +29,7 @@ tags: [kindergarten, game-theory-basics, cooperative-play, early-math]
 
 ### 🕒 **Block 1: Warm-Up with "The Sharing Song" (0:00-0:30)**
 
-![[Sharing Song Video]](https://www.youtube.com/watch?v=KfHw8H8u6Is)
+![Sharing Song Video](https://www.youtube.com/watch?v=KfHw8H8u6Is)
 **Activity**: Dance freeze game with sharing prompts  
 **Resources**: 
 - [Printable Emotion Cards](https://www.twinkl.com/resource/t-s-2548898-sharing-social-situation)
@@ -71,7 +71,7 @@ tags: [kindergarten, game-theory-basics, cooperative-play, early-math]
 ### 🕒 **Block 4: Digital Interaction (2:00-2:30)** 
 **Online Game**: [PBS Kids - "Share it Fair"](https://pbskids.org/games/sharing/)  
 **Interactive Whiteboard Activity**:  
-![[Cooperative Puzzle]](https://www.mathsisfun.com/puzzles/images/share-the-sweets.svg)
+![Cooperative Puzzle](https://www.mathsisfun.com/puzzles/images/share-the-sweets.svg)
 
 **Tech Integration Tips**:  
 > 💡 Use tablet mirrors to show real-time sharing  
