@@ -104,4 +104,3 @@ SORT file.name ASC
 
 > [!note] Teacher Reflection  
 > Post-lesson, consider: Which students struggled with empathy vs. building? How might you differentiate next time? Share insights in [[KG1 Design Thinking Journal]].
-```
