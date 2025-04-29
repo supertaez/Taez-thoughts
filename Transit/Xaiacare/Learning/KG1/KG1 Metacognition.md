@@ -130,8 +130,7 @@ LIST FROM [[Executive Functioning in Early Childhood]] OR [[Play-Based Metacogni
 *Metacognition activates the prefrontal cortex, which undergoes significant development during early childhood .*
 ```
 
-This lesson plan integrates findings from recent studies showing that structured metacognitive activities can enhance self-regulation skills in 5-6 year olds by 42% compared to control groups . The multi-modal approach aligns with EEF recommendations for embedding metacognition in subject content .
-```
+This lesson plan integrates findings from recent studies showing that structured metacognitive activities can enhance self-regulation skills in 5-6 year olds by 42% compared to control groups . The multi-modal approach aligns with EEF recommendations for embedding metacognition in subject content 
 ---
 
 # 3-Hour Metacognition Lesson Plan for KG1 Students
@@ -145,7 +144,6 @@ graph TD
   C --> F[Problem-Solving Games]
   D --> G[Learning Journals]
 ```
-
 ## 🌟 Lesson Objectives
 1. Develop **awareness of thinking processes** through age-appropriate reflection 
 2. Practice **basic planning and self-monitoring** during simple tasks
@@ -215,14 +213,12 @@ pie
 | Feeling Map | Emotion wheel poster | Connecting thoughts/feelings |
 
 #### Final Reflection Tool 🔍
-```markdown
 > [!SUCCESS]- Growth Mindset Star Chart
 > ![[Star Chart](https://example.com/growth-mindset-chart)]
 > Students add stars for:
 > - "I tried a new way"
 > - "I fixed a mistake"
 > - "I helped someone think"
-```
 
 ---
 
@@ -254,10 +250,8 @@ LIST FROM [[Executive Functioning in Early Childhood]] OR [[Play-Based Metacogni
 ---
 
 ## 🧠 Neuroscience Connection
-```markdown
 ![Prefrontal Cortex Development](https://example.com/brain-development-chart)
 *Metacognition activates the prefrontal cortex, which undergoes significant development during early childhood .*
-```
 
 This lesson plan integrates findings from recent studies showing that structured metacognitive activities can enhance self-regulation skills in 5-6 year olds by 42% compared to control groups . The multi-modal approach aligns with EEF recommendations for embedding metacognition in subject content .
 
