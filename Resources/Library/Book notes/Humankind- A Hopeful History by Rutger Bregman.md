@@ -131,7 +131,7 @@ Humans possess both flaws and virtues. Recognizing this duality helps us avoid e
 ### Activities
 - Watch TED Talks like ["A Radical Experiment in Empathy"](https://www.ted.com/talks/sam_bernard_a_radical_experiment_in_empathy) to deepen your understanding of empathy.
 - Download free resources like gratitude journals from websites like [Positive Psychology](https://positivepsychology.com/gratitude-journal/) to cultivate positivity.
-
+![](https://positive.b-cdn.net/wp-content/uploads/gratitude-journal.jpg) 
 
 ### Assessments
 - Reflect weekly on moments when you witnessed or practiced kindness. Document these instances in a journal or app like Day One.
