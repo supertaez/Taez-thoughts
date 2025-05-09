@@ -172,7 +172,7 @@ related_articles:
 
 ### Articles and Videos
 - [TED Talk: Rutger Bregman on Poverty](https://www.youtube.com/watch?v=JvHjTijgW6o): Discusses systemic issues and solutions grounded in compassion.
-- [Kind by nature¦ Have faith in humanity[[Kind by nature¦ Have faith in humanity]]
+- [[Kind by nature¦ Have faith in humanity]]
 
 ### Movies
 - **"Pay It Forward" (2000)**  
@@ -185,7 +185,7 @@ related_articles:
 ## Callouts  
 
 > [!QUOTE]  
-> "Believing in human kindness and altruism can be a new way to think – and act as the foundation for achieving true change in our society." [[4]]
+> "Believing in human kindness and altruism can be a new way to think – and act as the foundation for achieving true change in our society."
 
 > [!TIP]  
 > Start small: Smile at strangers, hold doors open, and express gratitude daily. These micro-actions contribute to a culture of kindness.
@@ -206,13 +206,5 @@ related_articles:
 
 ## Graphics and Visuals  
 
-![Evolution of Cooperation] (https://blog.mimio.com/hs-fs/hubfs/Blog/Competition_vs_Cooperation.jpg?width=1024&name=Competition_vs_Cooperation.jpg) 
-*Source: Wikimedia Commons*
+![](https://blog.mimio.com/hs-fs/hubfs/Blog/Competition_vs_Cooperation.jpg?width=1024&name=Competition_vs_Cooperation.jpg) 
 
----
-
-## Conclusion  
-
-
-
----
