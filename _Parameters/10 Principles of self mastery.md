@@ -206,7 +206,7 @@ Here are **verified, free resources** aligned with the 10 principles, with worki
 ---
 
 ### 6. **Samurai Death Meditation**  
-- **Death Poem Examples**: [Japanese Death Poems (PDF)](https://archive.org/details/japanesedeathpoe0000hoff) (Archive.org)  
+- **Death Poem Examples**: [Japanese Death Poems (PDF)](https://archive.org/details/japanesedeathpoe0000unse) (Archive.org)  
 - **Bushido Code Audio**: [Bushido: The Soul of Japan (Librivox)](https://librivox.org/bushido-the-soul-of-japan-by-inazo-nitobe/)  
 
 ---
