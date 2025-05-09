@@ -82,6 +82,14 @@ In "Humankind: A Hopeful History,"Rutger Bregman challenges the prevailing narra
 - **Steven Pinker**: Pinker's work on the decline of violence supports Bregman's argument about the inherent goodness of humans. 
 - **Hans Rosling**: Rosling's emphasis on data-driven decision-making aligns with Bregman's call for a more hopeful view of humanity by highlighting the importance of accurate information. 
 
+### Similar Books
+1. **"Utopia for Realists" by Rutger Bregman**  
+   - Explores bold ideas like universal basic income and shorter workweeks, building on themes of hope and human potential.
+2. **"The Better Angels of Our Nature" by Steven Pinker**  
+   - Analyzes historical declines in violence, reinforcing the idea that humanity is improving.
+3. **"Born to Be Good" by Dacher Keltner**  
+   - Examines the science of human emotions and morality, aligning with Bregman’s optimistic outlook.
+
 ### Conclusion 
 
 *Humankind: A Hopeful History* invites readers to embrace a more optimistic worldview backed by rigorous research. By shifting our mindset from cynicism to trust, we can build kinder, more inclusive societies. As Bregman argues, believing in humanity’s goodness isn’t just idealistic—it’s pragmatic and transformative.
@@ -177,13 +185,6 @@ related_articles:
 
 ## Related Notes  
 
-### Similar Books
-1. **"Utopia for Realists" by Rutger Bregman**  
-   - Explores bold ideas like universal basic income and shorter workweeks, building on themes of hope and human potential.
-2. **"The Better Angels of Our Nature" by Steven Pinker**  
-   - Analyzes historical declines in violence, reinforcing the idea that humanity is improving.
-3. **"Born to Be Good" by Dacher Keltner**  
-   - Examines the science of human emotions and morality, aligning with Bregman’s optimistic outlook.
 
 ### Articles and Videos
 - [TED Talk: Rutger Bregman on Poverty](https://www.youtube.com/watch?v=JvHjTijgW6o): Discusses systemic issues and solutions grounded in compassion.
