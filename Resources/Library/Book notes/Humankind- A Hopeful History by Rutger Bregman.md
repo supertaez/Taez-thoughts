@@ -115,38 +115,9 @@ Humans possess both flaws and virtues. Recognizing this duality helps us avoid e
 3. **"Born to Be Good" by Dacher Keltner**  
    - Examines the science of human emotions and morality, aligning with Bregman’s optimistic outlook.
 
-### Conclusion 
 
-*Humankind: A Hopeful History* invites readers to embrace a more optimistic worldview backed by rigorous research. By shifting our mindset from cynicism to trust, we can build kinder, more inclusive societies. As Bregman argues, believing in humanity’s goodness isn’t just idealistic—it’s pragmatic and transformative.
-It is a compelling argument for a more optimistic view of human nature. By challenging prevailing narratives and providing evidence of our capacity for good, Bregman encourages readers to rethink their assumptions about humanity and work towards a more just and cooperative world.
 
-For further exploration:
-- Explore [Rutger Bregman's Official Website](https://www.rutgerbregman.com/) for updates and additional resources.
-- Dive deeper into related topics using tools like Roam Research or Obsidian to connect notes across disciplines.
-
-links:
-[[Rutger Bregman]] 
-[[Elizabeth Manton]]
-[[Erica Moore]] 
-[[Goodreads: Humankind: A Hopeful History]] 
-[[YouTube: Rutger Bregman - Humankind: A Hopeful History]]
-
-related_books:
-[[Sapiens: A Brief History of Humankind]] by Yuval Noah Harari
-[[The Better Angels of Our Nature]] by Steven Pinker 
-[[Factfulness]] by Hans Rosling
-
-related_videos: 
-[TED Talk: Rutger Bregman - Poverty isn't a lack of character; it's a lack of cash](https://www.youtube.com/watch?v=ydKcaIE6O1k)
-[The School of Life: The Case for Hope](https://www.youtube.com/watch?v=6NMrj6BFVHg)
-
-related_articles: 
-[The Guardian: Rutger Bregman: 'The real problem is rich people who think they are superior'](https://www.theguardian.com/books/2020/mar/21/rutger-bregman-humankind-interview-poverty-tax-havens) 
-[New York Times: The Dutch Historian Who Has the World Asking, ‘Are We Good People?’](https://www.nytimes.com/2020/03/19/books/rutger-bregman-humankind.html)
-
----
-
-## Practical Applications in Daily Life  
+## More Practical Applications in Daily Life  
 
 ### Daily Habits
 1. **Practice Empathy:** Actively listen to others and seek to understand their perspectives.
@@ -160,6 +131,7 @@ related_articles:
 ### Activities
 - Watch TED Talks like ["A Radical Experiment in Empathy"](https://www.ted.com/talks/sam_bernard_a_radical_experiment_in_empathy) to deepen your understanding of empathy.
 - Download free resources like gratitude journals from websites like [Positive Psychology](https://positivepsychology.com/gratitude-journal/) to cultivate positivity.
+
 
 ### Assessments
 - Reflect weekly on moments when you witnessed or practiced kindness. Document these instances in a journal or app like Day One.
@@ -207,4 +179,35 @@ related_articles:
 ## Graphics and Visuals  
 
 ![](https://blog.mimio.com/hs-fs/hubfs/Blog/Competition_vs_Cooperation.jpg?width=1024&name=Competition_vs_Cooperation.jpg) 
+
+### Conclusion 
+
+*Humankind: A Hopeful History* invites readers to embrace a more optimistic worldview backed by rigorous research. By shifting our mindset from cynicism to trust, we can build kinder, more inclusive societies. As Bregman argues, believing in humanity’s goodness isn’t just idealistic—it’s pragmatic and transformative.
+It is a compelling argument for a more optimistic view of human nature. By challenging prevailing narratives and providing evidence of our capacity for good, Bregman encourages readers to rethink their assumptions about humanity and work towards a more just and cooperative world.
+
+For further exploration:
+- Explore [Rutger Bregman's Official Website](https://www.rutgerbregman.com/) for updates and additional resources.
+- Dive deeper into related topics using tools like Roam Research or Obsidian to connect notes across disciplines.
+
+links:
+[[Rutger Bregman]] 
+[[Elizabeth Manton]]
+[[Erica Moore]] 
+[[Goodreads: Humankind: A Hopeful History]] 
+[[YouTube: Rutger Bregman - Humankind: A Hopeful History]]
+
+related_books:
+[[Sapiens: A Brief History of Humankind]] by Yuval Noah Harari
+[[The Better Angels of Our Nature]] by Steven Pinker 
+[[Factfulness]] by Hans Rosling
+
+related_videos: 
+[TED Talk: Rutger Bregman - Poverty isn't a lack of character; it's a lack of cash](https://www.youtube.com/watch?v=ydKcaIE6O1k)
+[The School of Life: The Case for Hope](https://www.youtube.com/watch?v=6NMrj6BFVHg)
+
+related_articles: 
+[The Guardian: Rutger Bregman: 'The real problem is rich people who think they are superior'](https://www.theguardian.com/books/2020/mar/21/rutger-bregman-humankind-interview-poverty-tax-havens) 
+[New York Times: The Dutch Historian Who Has the World Asking, ‘Are We Good People?’](https://www.nytimes.com/2020/03/19/books/rutger-bregman-humankind.html)
+
+---
 
