@@ -1,5 +1,12 @@
 ---
-title: "Book Notes: Humankind: A Hopeful History by Rutger Bregman" author: Rutger Bregman translator: Elizabeth Manton, Erica Moore properties: tags: - "Humankind" - "History" - "Philosophy" - "Psychology" - "Sociology" links: - "[[Rutger Bregman]]" - "[[Elizabeth Manton]]" - "[[Erica Moore]]" - "[[Goodreads: Humankind: A Hopeful History]]" - "[[YouTube: Rutger Bregman - Humankind: A Hopeful History]]" related_books: - "[[Sapiens: A Brief History of Humankind]] by Yuval Noah Harari" - "[[The Better Angels of Our Nature]] by Steven Pinker" - "[[Factfulness]] by Hans Rosling" related_videos: - "[TED Talk: Rutger Bregman - Poverty isn't a lack of character; it's a lack of cash](https://www.youtube.com/watch?v=ydKcaIE6O1k)" - "[The School of Life: The Case for Hope](https://www.youtube.com/watch?v=6NMrj6BFVHg)" related_articles: - "[The Guardian: Rutger Bregman: 'The real problem is rich people who think they are superior'](https://www.theguardian.com/books/2020/mar/21/rutger-bregman-humankind-interview-poverty-tax-havens)" - "[New York Times: The Dutch Historian Who Has the World Asking, ‘Are We Good People?’](https://www.nytimes.com/2020/03/19/books/rutger-bregman-humankind.html)" 
+title: Book Notes: Humankind: A Hopeful History by Rutger Bregman
+author: Rutger Bregman translator: Elizabeth Manton, Erica Moore 
+tags: #Humankind #History Philosophy Psychology #Sociology
+links: [[Rutger Bregman]] [[Elizabeth Manton]][[Erica Moore]] [[Goodreads: Humankind: A Hopeful History]] [[YouTube: Rutger Bregman - Humankind: A Hopeful History]]
+related_books: [[Sapiens: A Brief History of Humankind]] by Yuval Noah Harari [[The Better Angels of Our Nature]] by Steven Pinker [[Factfulness]] by Hans Rosling
+related_videos: [TED Talk: Rutger Bregman - Poverty isn't a lack of character; it's a lack of cash](https://www.youtube.com/watch?v=ydKcaIE6O1k) [The School of Life: The Case for Hope](https://www.youtube.com/watch?v=6NMrj6BFVHg)" 
+related_articles: - "[The Guardian: Rutger Bregman: 'The real problem is rich people who think they are superior'](https://www.theguardian.com/books/2020/mar/21/rutger-bregman-humankind-interview-poverty-tax-havens)" - "[New York Times: The Dutch Historian Who Has the World Asking, ‘Are We Good People?’](https://www.nytimes.com/2020/03/19/books/rutger-bregman-humankind.html)" 
+
 ---
 
 # Humankind: A Hopeful History by Rutger Bregman 
