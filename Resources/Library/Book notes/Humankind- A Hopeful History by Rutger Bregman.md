@@ -56,13 +56,14 @@ In "Humankind: A Hopeful History,"Rutger Bregman challenges the prevailing narra
 1. **"The real problem is rich people who think they are superior."** - This quote highlights Bregman's critique of the wealthy elite who justify their privilege by believing they are inherently superior. It underscores his argument that social structures, not innate human nature, are the root of inequality. 
 2. **"The opposite of poverty is not wealth; the opposite of poverty is justice."** - Bregman argues that poverty is not a result of individual failings but of systemic injustice. This quote emphasizes the need for systemic change to address societal issues. 
 3. **"Hope is not a feeling; it is a mental discipline."** - Bregman suggests that hope is an active choice, requiring effort and commitment. It is not merely a passive emotion but a deliberate stance towards the future. 
+
 > “It is now clear that the cynical view of human nature isn’t just wrong—it’s dangerous.”
 
-**Meaning:** This quote emphasizes how pessimistic beliefs about human nature perpetuate harmful systems and prevent progress. For instance, if we assume people are selfish, we design environments that reward competition over cooperation, creating self-fulfilling prophecies.
+This quote emphasizes how pessimistic beliefs about human nature perpetuate harmful systems and prevent progress. For instance, if we assume people are selfish, we design environments that reward competition over cooperation, creating self-fulfilling prophecies.
 
 > “We are not angels, but neither are we devils.”
 
-**Meaning:** Humans possess both flaws and virtues. Recognizing this duality helps us avoid extremes—idealizing or demonizing individuals—and instead focus on nurturing our innate capacity for kindness.
+Humans possess both flaws and virtues. Recognizing this duality helps us avoid extremes—idealizing or demonizing individuals—and instead focus on nurturing our innate capacity for kindness.
 
 
 ### Practical Applications in Daily Life 
@@ -145,18 +146,6 @@ related_articles:
 
 ---
 
-## Key Takeaways and Learnings  
-
-
-
----
-
-## Quotes and Their Meanings  
-
-### Quote 1:
-
----
-
 ## Practical Applications in Daily Life  
 
 ### Daily Habits
@@ -183,7 +172,7 @@ related_articles:
 
 ### Articles and Videos
 - [TED Talk: Rutger Bregman on Poverty](https://www.youtube.com/watch?v=JvHjTijgW6o): Discusses systemic issues and solutions grounded in compassion.
-- [Big Think Interview](https://bigthink.com/videos/rutger-bregman-human-kindness): Insights into how believing in kindness transforms societies.
+- [Kind by nature¦ Have faith in humanity[[Kind by nature¦ Have faith in humanity]]
 
 ### Movies
 - **"Pay It Forward" (2000)**  
@@ -217,7 +206,7 @@ related_articles:
 
 ## Graphics and Visuals  
 
-![Evolution of Cooperation](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Cooperation_vs_Competition.jpg/800px-Cooperation_vs_Competition.jpg)  
+![Evolution of Cooperation] (https://blog.mimio.com/hs-fs/hubfs/Blog/Competition_vs_Cooperation.jpg?width=1024&name=Competition_vs_Cooperation.jpg) 
 *Source: Wikimedia Commons*
 
 ---
