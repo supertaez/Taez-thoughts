@@ -24,7 +24,7 @@ date: 2025-05-11
 > *"When we are no longer able to change a situation, we are challenged to change ourselves."*  
 > — Viktor Frankl, *Man’s Search for Meaning*  
 **Visual:** 🌈 → 🔮  
-![[Future Self](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Mirror_light_art_installation.jpg/800px-Mirror_light_art_installation.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/4c/Mirror_light_art_installation.jpg)
+![Future Self](https://i.pinimg.com/736x/2b/be/65/2bbe65534215f489618fef385fa57f4d.jpg)
 
 ---
 
@@ -35,7 +35,7 @@ date: 2025-05-11
 > *"Rock bottom became the solid foundation on which I rebuilt my life."*  
 > — J.K. Rowling, Harvard Speech  
 **Visual:** 🪨 → 🌱  
-![[Rock Foundation](https://images.unsplash.com/photo-1604176354202-3f0e9d8c5efc)](https://images.unsplash.com/photo-1604176354202-3f0e9d8c5efc)
+![Rock Foundation](https://plus.unsplash.com/premium_vector-1723815987098-5fff4fff6111?q=80&w=1006&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ---
 
