@@ -17,7 +17,7 @@ date: 2025-05-11
 
 ---
 
-### 1. **Survival & Future Selves** [citation:1][citation:10]  
+### 1. **Survival & Future Selves**
 > **"You have survived everything you’ve been through... Stay for the person you will become."**  
 **Explanation:** Haig reframes survival as a bridge to future possibilities. Your "future self" is a compass for perseverance.  
 **Related Quote:**  
@@ -28,7 +28,7 @@ date: 2025-05-11
 
 ---
 
-### 2. **Rock Bottom as Foundation** [citation:1][citation:7]  
+### 2. **Rock Bottom as Foundation**
 > **"The best thing about rock bottom is the rock part... build yourself anew."**  
 **Explanation:** Crisis reveals unbreakable core strength. Pain carves space for growth.  
 **Related Quote:**  
@@ -90,7 +90,7 @@ date: 2025-05-11
 > *"Hope is the thing with feathers / That perches in the soul."*  
 > — Emily Dickinson  
 **Visual:** 🕊️ → 🌅  
-![[Hope](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hope_%26_Life.jpg/800px-Hope_%26_Life.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/5a/Hope_%26_Life.jpg)
+![[Hope](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hopeful.jpg/1024px-Hopeful.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hopeful.jpg/1024px-Hopeful.jpg)
 
 ---
 
