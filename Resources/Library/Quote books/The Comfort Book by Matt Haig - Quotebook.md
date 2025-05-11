@@ -68,7 +68,7 @@ date: 2025-05-11
 > *"The journey of a thousand miles begins with one step."*  
 > — Lao Tzu  
 **Visual:** 🚶♂️ → 🛤️  
-![[Journey](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Long_exposure_of_a_walking_man.jpg/1200px-Long_exposure_of_a_walking_man.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/5d/Long_exposure_of_a_walking_man.jpg)
+![Journey](https://plus.unsplash.com/premium_vector-1682302009439-b01a167074b2?q=80&w=1223&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ---
 
@@ -79,7 +79,7 @@ date: 2025-05-11
 > *"The universe is change; our life is what our thoughts make it."*  
 > — Marcus Aurelius, *Meditations*  
 **Visual:** 🌀 → 🔑  
-![[Perspective](https://images.unsplash.com/photo-1570295999919-56ceb5ecca61)](https://images.unsplash.com/photo-1570295999919-56ceb5ecca61)
+![[Perspective](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBkQX_CMpcV3vz5GANhKYR5oFENHg5kSYnMA&s)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBkQX_CMpcV3vz5GANhKYR5oFENHg5kSYnMA&s)
 
 ---
 
@@ -123,7 +123,7 @@ date: 2025-05-11
 > *"The wound is the place where the Light enters you."*  
 > — Rumi  
 **Visual: 🌧️ → ☀️**  
-![[Storm](https://images.unsplash.com/photo-1433863448220-78ccc097bfe5)](https://images.unsplash.com/photo-1433863448220-78ccc097bfe5)
+![Storm](https://images.unsplash.com/photo-1515694346937-94d85e41e6f0?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmFpbnxlbnwwfHwwfHx8MA%3D%3D)
 
 ---
 
