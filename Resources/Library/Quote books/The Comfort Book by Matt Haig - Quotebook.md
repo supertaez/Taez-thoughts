@@ -39,7 +39,7 @@ date: 2025-05-11
 
 ---
 
-### 3. **Anxiety vs. Curiosity** [citation:1][citation:10]  
+### 3. **Anxiety vs. Curiosity**
 > **"Curiosity and passion are the enemies of anxiety... via the world."**  
 **Explanation:** External engagement disrupts inward spirals.  
 **Related Quote:**  
@@ -50,7 +50,7 @@ date: 2025-05-11
 
 ---
 
-### 4. **Inherent Self-Worth** [citation:1][citation:10]  
+### 4. **Inherent Self-Worth**
 > **"Your worth is your existence... born with worth."**  
 **Explanation:** Reject transactional validation. You’re inherently "enough."  
 **Related Quote:**  
@@ -61,7 +61,7 @@ date: 2025-05-11
 
 ---
 
-### 5. **Direction Over Speed** [citation:1][citation:5]  
+### 5. **Direction Over Speed**
 > **"Walking one foot in front of the other... further than running in circles."**  
 **Explanation:** Consistency trumps frantic motion.  
 **Related Quote:**  
@@ -72,7 +72,7 @@ date: 2025-05-11
 
 ---
 
-### 6. **Neutrality of Events** [citation:1][citation:4]  
+### 6. **Neutrality of Events**
 > **"External events are neutral... mind gives us keys."**  
 **Explanation:** Reality is shaped by interpretation.  
 **Related Quote:**  
@@ -83,7 +83,7 @@ date: 2025-05-11
 
 ---
 
-### 7. **Persistent Hope** [citation:1][citation:10]  
+### 7. **Persistent Hope**
 > **"Nothing is stronger than a small hope that doesn’t give up."** (Repeated 4x)  
 **Explanation:** Micro-hope as lifeline.  
 **Related Quote:**  
@@ -94,7 +94,7 @@ date: 2025-05-11
 
 ---
 
-### 8. **Agency in Change** [citation:1][citation:2]  
+### 8. **Agency in Change**
 > **"You can’t change the past... write a new chapter."**  
 **Explanation:** Authorship of self-narrative.  
 **Related Quote:**  
@@ -105,7 +105,7 @@ date: 2025-05-11
 
 ---
 
-### 9. **Beyond Superficial Cravings** [citation:1][citation:9]  
+### 9. **Beyond Superficial Cravings**
 > **"The sky isn’t more beautiful if you have perfect skin... best of life exists beyond."**  
 **Explanation:** Joy transcends status symbols.  
 **Related Quote:**  
@@ -116,7 +116,7 @@ date: 2025-05-11
 
 ---
 
-### 10. **Emotional Acceptance** [citation:1][citation:7]  
+### 10. **Emotional Acceptance**  
 > **"You don’t have to be positive... you are not the rain."**  
 **Explanation:** Non-judgmental awareness of emotions.  
 **Related Quote:**  
@@ -133,11 +133,6 @@ date: 2025-05-11
 | Resilience          | 🌧️→🌈               | Future selves, Survival|  
 | Self-Worth          | 💎→👐                | Inherent value         |  
 | Perception          | 🔑→🌀                | Stoicism, Mindset      |  
-
----
-
-## 🧠 **Mind Map of Concepts**  
-![[The Comfort Book Mind Map](https://miro.medium.com/v2/resize:fit:1400/1*QJZvHUyraWZ8g2zWJ7lXjA.png)](https://miro.medium.com/v2/resize:fit:1400/1*QJZvHUyraWZ8g2zWJ7lXjA.png)
 
 ---
 
