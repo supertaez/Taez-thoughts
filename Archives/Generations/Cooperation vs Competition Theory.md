@@ -1,5 +1,7 @@
 ---
-
+Source: Perplexity.ai
+Url: https://www.perplexity.ai/search/cooperation-vs-competition-the-sMlkidlnRo.4WzhkTZnszQ
+author: AI
 ---
 
 ## Cooperation vs Competition Theory
