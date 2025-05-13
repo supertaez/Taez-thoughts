@@ -13,7 +13,7 @@ links:
   - "[[ubt-theoretical-connections]]"
   - "[[The big cycle and ubt]]"
   - "[[UBT]]"
-  - "[[fourth turning]]"
+  - "[[The fourth turning]]"
 ---
 
 ## **Opening Hook (0:00–1:30)**
@@ -62,7 +62,7 @@ links:
 - **UBT Feedback Loops**: Use quarterly "balance audits" to prevent burnout.  
 
 ### **Societal Solutions**  
-- **Policy Design**: Sunset clauses to force renewal (like [[fourth turning|Fourth Turning]] cycles).  
+- **Policy Design**: Sunset clauses to force renewal (like [[The fourth turning|Fourth Turning]] cycles).  
 - **Urban Planning**: Balance skyscrapers with green spaces.  
 
 🎞️ *Quick cuts of people meditating, teams brainstorming, cityscapes*  

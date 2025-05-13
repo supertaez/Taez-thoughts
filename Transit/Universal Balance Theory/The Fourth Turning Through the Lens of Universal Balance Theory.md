@@ -1,6 +1,6 @@
 ## Fundamental Alignment
 
-The [[fourth turning]] theory's concept of cyclical history strongly resonates with UBT's Law of Perpetual Motion and Law of Compensatory Action. The four turnings (High, Awakening, Unraveling, and Crisis) can be understood as society's manifestation of balance-seeking behavior across generational timeframes.
+The [[The fourth turning]] theory's concept of cyclical history strongly resonates with UBT's Law of Perpetual Motion and Law of Compensatory Action. The four turnings (High, Awakening, Unraveling, and Crisis) can be understood as society's manifestation of balance-seeking behavior across generational timeframes.
 
 ## Cyclical Balance Mechanisms
 

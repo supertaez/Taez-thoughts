@@ -340,7 +340,7 @@ The authors maintain that while Fourth Turnings involve tremendous upheaval and 
 
 ```dataview
 LIST
-FROM #history-cycles OR #fourth-turning 
+FROM #history-cycles OR #the-fourth-turning OR #strauss-howe 
 SORT file.ctime DESC
 ```
 

@@ -11,7 +11,7 @@ links:
   - "[[ubt-theoretical-connections]]"
   - "[[The big cycle and ubt]]"
   - "[[UBT]]"
-  - "[[fourth turning]]"
+  - "[[The fourth turning]]"
 ---
 
 ## 1. **Quantum Balance Dynamics**
@@ -32,7 +32,7 @@ links:
 
 ## 3. **Temporal Fractals in Balance-Seeking**
 **Insight**: Balance-seeking operates in nested temporal cycles, creating fractal-like patterns across scales.  
-- **Example**: Fourth Turning’s 80-year societal cycles ([[fourth turning]]) mirror shorter organizational innovation cycles (5-10 years) and individual generational roles (20-30 years).  
+- **Example**: Fourth Turning’s 80-year societal cycles ([[The fourth turning]]) mirror shorter organizational innovation cycles (5-10 years) and individual generational roles (20-30 years).  
 - **Application**: Predictive models could align micro-level interventions (e.g., corporate strategy) with macro-level rhythms (e.g., [[The big cycle and ubt|Kondratiev Waves]]).  
 
 ---

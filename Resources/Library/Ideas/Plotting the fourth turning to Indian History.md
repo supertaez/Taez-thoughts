@@ -8,6 +8,7 @@ tags:
   - historical-cycles
   - comparative-analysis
   - strauss-howe
+  - the-fourth-turning
 related_notes:
   - [[The Fourth Turning]]
   - [[Cyclical Views of History]]
