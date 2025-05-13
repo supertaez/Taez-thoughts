@@ -10,11 +10,11 @@ tags:
   - strauss-howe
   - the-fourth-turning
 related_notes:
-  - [[The Fourth Turning]]
-  - [[Cyclical Views of History]]
-  - [[Indian Independence Movement]]
-  - [[Partition of India]]
-  - [[Economic Liberalization of India]]
+  - - - The Fourth Turning
+  - - - Cyclical Views of History
+  - - - Indian Independence Movement
+  - - - Partition of India
+  - - - Economic Liberalization of India
 ---
 
 # Applying Strauss-Howe Generational Theory to Indian History

@@ -83,7 +83,7 @@ links:
 
 ## **Societal Applications**
 1. **Policy Cyclicality**  
-   - Design laws with sunset clauses (e.g., 10-year expiration) to force reevaluation, mirroring [[The fourth turning|Fourth Turning cycles]].  
+   - Design laws with sunset clauses (e.g., 10-year expiration) to force reevaluation, mirroring [[Transit/Universal Balance Theory/The fourth turning|Fourth Turning cycles]].  
 
 2. **Urban Balance Zoning**  
    - Cities could allocate zones for high-density innovation hubs (change) adjacent to green conservation areas (stability).  
