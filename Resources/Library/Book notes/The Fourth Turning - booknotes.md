@@ -191,8 +191,11 @@ The authors primarily focus on Anglo-American history but acknowledge similar pa
 ![Four Turnings Cycle](http://integralleadershipreview.com/wp-content/uploads/Appendix-B-Generational-Cycles-Turnings-Saeculum.jpg)
 *Strauss-Howe Generational Cycle showing the relationship between turnings and archetypes*
 
-![Generational Timeline](https://upload.wikimedia.org/wikipedia/commons/d/dc/Strauss-Howe_Generational_Timeline.svg)
+![Generational Timeline](https://www.visualcapitalist.com/wp-content/uploads/2021/05/GPI-Timeline-Biggest-Historical-Events-by-Generation-main-image-1.png)
 *Historical timeline showing the generational progression through American history*
+
+![](https://www.generationaldynamics.com/ww2010/tgrafx.gif)
+*Crisis and non-crisis wars for several countries and regions during the last cycle*
 
 ## Critical Analysis & Scholarly Reception
 
