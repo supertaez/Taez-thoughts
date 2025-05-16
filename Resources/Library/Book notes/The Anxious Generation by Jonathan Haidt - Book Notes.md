@@ -2,7 +2,14 @@
 title: The Anxious Generation - Book Notes
 author: [[Jonathan Haidt]]
 date: 2023-10-XX
-tags: #mentalhealth #childhood #technology #anxiety #psychology #socialmedia #jonathanhaidt
+tags: 
+- mentalhealth 
+childhood 
+technology 
+anxiety 
+psychology 
+socialmedia 
+jonathanhaidt
 category: Books
 
 ---
