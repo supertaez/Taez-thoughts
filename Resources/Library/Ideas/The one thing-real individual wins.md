@@ -34,7 +34,7 @@ Zuckerberg dropped out of Harvard to build Facebook full-time. While many studen
 - Avoid multitasking; instead, batch similar tasks around your main goal.
 
 #### Related Concepts
-- [[The One Thing]]
+- [[The One Thing - booknotes]]
 - [[Deep Work]]
 - [[Goal Setting Theory]]
 
@@ -192,7 +192,7 @@ Start small. Choose one thing today — and commit to it.
 
 ## 🔄 Related Notes
 
-- [[The One Thing]]
+- [[The One Thing - booknotes]]
 - [[Deep Work]]
 - [[Goal Setting Theory]]
 - [[Habit Stacking]]

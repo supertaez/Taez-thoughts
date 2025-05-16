@@ -36,7 +36,7 @@ KFC didn’t become a global fast-food giant by offering a wide variety of dishe
 - Build your brand around a unique differentiator and stick with it.
 
 #### Related Concepts
-- [[The One Thing]]
+- [[The One Thing - booknotes]]
 - [[Unique Selling Proposition]]
 - [[Brand Identity]]
 
@@ -201,7 +201,7 @@ Start small. Choose one thing today — and commit to it.
 
 ## 🔄 Related Notes
 
-- [[The One Thing]]
+- [[The One Thing - booknotes]]
 - [[Deep Work]]
 - [[Goal Setting Theory]]
 - [[Habit Stacking]]
