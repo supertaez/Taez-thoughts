@@ -9,31 +9,31 @@ status: In Progress
 
 # 📚 Summary / Plot
 
-**Tower of Basel: The Shadowy History of the Secret Bank that Runs the World** by Adam LeBor is a meticulously researched and unauthorized investigative history of the **Bank for International Settlements (BIS)**, based in Basel, Switzerland. Founded in 1930, the BIS was created by central bank governors from around the world, including the Bank of England, as a financial institution to facilitate international monetary cooperation [[2]][[6]]. 
+**Tower of Basel: The Shadowy History of the Secret Bank that Runs the World** by Adam LeBor is a meticulously researched and unauthorized investigative history of the **Bank for International Settlements (BIS)**, based in Basel, Switzerland. Founded in 1930, the BIS was created by central bank governors from around the world, including the Bank of England, as a financial institution to facilitate international monetary cooperation. 
 
-LeBor’s book exposes how the BIS has evolved into one of the most secretive and powerful institutions in global finance, operating behind closed doors with minimal public oversight. Despite its lack of elected officials or transparency, the BIS plays a pivotal role in shaping global economic policy, influencing currency systems, and managing international debt. The book delves into the BIS's controversial past, including its dealings during the Nazi era, its role in post-war reconstruction, and its influence on modern central banking practices [[7]][[8]].
+LeBor’s book exposes how the BIS has evolved into one of the most secretive and powerful institutions in global finance, operating behind closed doors with minimal public oversight. Despite its lack of elected officials or transparency, the BIS plays a pivotal role in shaping global economic policy, influencing currency systems, and managing international debt. The book delves into the BIS's controversial past, including its dealings during the Nazi era, its role in post-war reconstruction, and its influence on modern central banking practices. 
 
-> The BIS is often described as the “central bank for central banks,” and LeBor reveals how this shadowy institution has quietly shaped the modern financial world [[1]][[4]].
+> The BIS is often described as the “central bank for central banks,” and LeBor reveals how this shadowy institution has quietly shaped the modern financial world. 
 
 # 🔑 Key Takeaways and Learnings
 
 1. **Institutional Secrecy**: The BIS operates under a veil of secrecy, making it difficult for the public to understand its true influence and decision-making processes.
-2. **Historical Controversies**: The BIS has been involved in ethically dubious activities, including facilitating transactions for Nazi Germany during WWII [[8]].
-3. **Global Financial Powerhouse**: As the oldest international financial institution still in operation, the BIS predates both the IMF and the World Bank and continues to be a key player in global finance [[7]].
+2. **Historical Controversies**: The BIS has been involved in ethically dubious activities, including facilitating transactions for Nazi Germany during WWII. 
+3. **Global Financial Powerhouse**: As the oldest international financial institution still in operation, the BIS predates both the IMF and the World Bank and continues to be a key player in global finance. 
 4. **Central Banking Influence**: The BIS serves as a forum for central bankers to meet, discuss policies, and coordinate actions that affect economies worldwide.
 5. **Lack of Accountability**: Because the BIS is not accountable to any elected government or public body, its decisions can have far-reaching consequences without democratic oversight.
 
 # 📝 Quotes and Their Meanings
 
-> "Even to many bankers, the BIS is shadowy." [[1]]
+> "Even to many bankers, the BIS is shadowy."
 
 This quote underscores the opaque nature of the BIS. Despite its importance in global finance, even those within the industry find it mysterious and inaccessible.
 
-> "Created by the governors of the Bank of England" [[2]]
+> "Created by the governors of the Bank of England"
 
 Highlights the elite origins of the BIS, formed not by governments but by unelected central bankers, reinforcing its independence from democratic control.
 
-> "The BIS is the most important bank in the world..." [[7]]
+> "The BIS is the most important bank in the world..."
 
 A bold claim that reflects the BIS’s outsized role in shaping global monetary policy and financial infrastructure.
 
@@ -74,7 +74,7 @@ Understanding these dynamics can lead to more informed personal financial decisi
 
 # 📎 Online Resources
 
-- [Goodreads Page for *Tower of Basel*](https://www.goodreads.com/book/show/18090375-tower-of-basel ) [[3]]
+- [Goodreads Page for *Tower of Basel*](https://www.goodreads.com/book/show/18090375-tower-of-basel )
 - [Free PDF Summary of Tower of Basel](https://www.getabstract.com/en/booksummary/tower-of-basel/9781610393391.html )
 - [Printable Book Notes Template](https://www.canva.com/templates/book-notes/ )
 - [YouTube Playlist on Central Banking](https://www.youtube.com/playlist?list=PLirAqAtl_h2r5g8xGajEwdXd3x1sZh8hC )
