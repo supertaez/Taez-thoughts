@@ -87,7 +87,7 @@ Amazon started as an online bookstore but expanded rapidly. However, Jeff Bezos 
 - Prioritize user experience over short-term gains.
 
 #### Video Resource
-- [Jeff Bezos on Customer Obsession](https://www.youtube.com/watch?v=abc123 )
+- [Jeff Bezos on Customer Obsession](https://www.youtube.com/watch?v=vxwjzVW7z5o)
 
 ---
 
