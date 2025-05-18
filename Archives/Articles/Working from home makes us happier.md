@@ -1,7 +1,7 @@
 ---
 created: 2025-05-18T08:32:29
 source: https://farmingdale-observer.com/2025/05/16/scientists-have-been-studying-remote-work-for-four-years-and-have-reached-a-very-clear-conclusion-working-from-home-makes-us-happier/
-author: 
+author: Bob Rubila
 ---
 
 # Scientists have been studying remote work for four years and have reached a very clear conclusion: "Working from home makes us happier."
