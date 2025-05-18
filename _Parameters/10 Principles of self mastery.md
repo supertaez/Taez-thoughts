@@ -24,7 +24,7 @@ resources:
 
 # The 10 Principles of Strategic Self-Mastery
 
-![[Roman Shield Image](https://example.com/stoic-shield.jpg)] *The Stoic Shield - Master emotional sovereignty*
+![Roman Shield Image](https://example.com/stoic-shield.jpg)] *The Stoic Shield - Master emotional sovereignty*
 
 ## 1. The Stoic Shield (Ancient Rome – Stoicism)
 **Core Principle:** Emotional neutrality as tactical advantage.  
