@@ -11,7 +11,7 @@ category: People
 ## Overview
 **[[Jonathan Haidt]]** is a renowned social psychologist, professor, and author known for his groundbreaking work on morality, happiness, and societal issues. His research spans diverse fields such as moral psychology, political polarization, and the impact of technology on mental health. Haidt's interdisciplinary approach has made him one of the most influential thinkers of our time.
 
-> **Callout:** ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Jonathan_Haidt.jpg/220px-Jonathan_Haidt.jpg)  
+>  ![](https://cdn.iai.tv/assets/Uploads/_resampled/FillWzQwMCwzNjBd/24-06-07.JH-2.gfw.jpg)  
 > _"Morality binds and blinds."_  
 > — Jonathan Haidt  
 
