@@ -71,7 +71,7 @@ Druidic Observation centers on **reverence for nature**, **interconnectedness**,
    - Plant native species to honor local ecosystems [citation:7].
    - Join tree-planting initiatives [citation:7].
 
-![[Ogham Chart](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ogham_letters_19th_century_illustration.png/800px-Ogham_letters_19th_century_illustration.png)](https://upload.wikimedia.org/wikipedia/commons/7/7e/Ogham_letters_19th_century_illustration.png)
+![](https://blogs.bodleian.ox.ac.uk/taylorian/wp-content/uploads/sites/155/2018/02/Ogham-alphabet.png)
 
 ---
 
