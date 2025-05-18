@@ -1,7 +1,8 @@
 ---
 created: 2025-01-06T07:51:22
 source: https://en.wikipedia.org/wiki/Syncretism
-author: Authority control databases: National Germany United States France BnF data Czech Republic Spain Israel
+author: Authority control 
+databases: National Germany United States France BnF data Czech Republic Spain Israel
 ---
 
 # Syncretism - Wikipedia
