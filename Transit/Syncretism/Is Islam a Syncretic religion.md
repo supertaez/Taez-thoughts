@@ -1,6 +1,6 @@
 Is Islam a Syncretic religion
 
-Islam is generally not considered a syncretic religion due to its strong emphasis on monotheism and adherence to the Quran as the ultimate source of guidance. It is an exclusivist faith that discourages the blending of beliefs or practices from other traditions[1][2][3]. However, certain Islamic traditions, such as Sufism, have been described as having syncretic elements due to their incorporation of local cultural or spiritual practices, though this is debated among scholars and adherents[3]. Shiite Islam has also been noted for integrating some elements from other traditions, such as Christianity[4].
+Islam is generally not considered a syncretic religion due to its strong emphasis on monotheism and adherence to the Quran as the ultimate source of guidance. It is an exclusivist faith that discourages the blending of beliefs or practices from other traditions. However, certain Islamic traditions, such as Sufism, have been described as having syncretic elements due to their incorporation of local cultural or spiritual practices, though this is debated among scholars and adherents[3]. Shiite Islam has also been noted for integrating some elements from other traditions, such as Christianity[4].
 
 Citations:
 [1] Religious Syncretism Overview, Timeline & Examples | Study.com https://study.com/academy/lesson/religious-movements-syncretism-after-1000-ce.html
