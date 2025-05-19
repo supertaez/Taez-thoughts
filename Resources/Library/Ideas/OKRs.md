@@ -2,21 +2,21 @@
 title: "OKRs - Objectives and Key Results: A Comprehensive Guide"
 created: 2025-05-19
 updated: 2025-05-19
-category: "Performance Management"
-type: "Research Note"
-status: "Complete"
-author: "Claude"
+category: Performance Management
+type: Research Note
+status: Complete
+author: 
 tags:
-  goal_setting
-  performance_management
-  organizational_development
-  business_strategy
-  productivity
-  leadership
-  corporate_culture
-  management_techniques
-  accountability
-  strategic_planning
+  - goal_setting
+  - performance_management
+  - organizational_development
+  - business_strategy
+  - productivity
+  - leadership
+  - corporate_culture
+  - management_techniques
+  - accountability
+  - strategic_planning
 ---
 
 # OKRs - Objectives and Key Results: A Comprehensive Guide
