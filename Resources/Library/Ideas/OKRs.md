@@ -279,18 +279,18 @@ Recent studies on OKR implementation have revealed:
 ### Introductory Videos
 1. [John Doerr's TED Talk on OKRs](https://www.youtube.com/watch?v=L4N1q4RNi9I) - An 11-minute overview from the OKR evangelist
 2. [Google's OKR Introduction Video](https://www.youtube.com/watch?v=mJB83EZtAjc) - How Google implements OKRs
-3. [OKRs in 5 Minutes](https://www.youtube.com/watch?v=ypWe6npULUQ) - Quick overview of the framework
+3. [OKRs in 5 Minutes](https://www.youtube.com/watch?v=_zUQOWSAPk0) - Quick overview of the framework
 
 ### Implementation Guides
-1. [How to Write Great OKRs](https://www.youtube.com/watch?v=d6KKsmmOKU0) - Practical tips for crafting effective objectives and key results
-2. [OKR Mistakes to Avoid](https://www.youtube.com/watch?v=9D03ZLn-1J8) - Common pitfalls and how to navigate them
-3. [OKR Scoring Deep Dive](https://www.youtube.com/watch?v=yiMlWGx8ZYo) - How to effectively score and evaluate OKRs
+1. [How to Write Great OKRs](https://www.youtube.com/watch?v=gJD8jyzJA_c) - Practical tips for crafting effective objectives and key results
+2. [OKR Mistakes to Avoid](https://www.youtube.com/watch?v=V1M6CV8-cP4) - Common pitfalls and how to navigate them
+3. [OKR Scoring Deep Dive](https://www.youtube.com/watch?v=7aogt7VPrN4) - How to effectively score and evaluate OKRs
 
 ## Downloadable Resources
 
-- [OKR Template Spreadsheet](https://www.whatmatters.com/resources/okr-template) - Excel template for tracking OKRs
-- [OKR Planning Canvas](https://okrexamples.co/okr-canvas) - Printable OKR planning tool
-- [OKR Health Check Assessment](https://www.perdoo.com/resources/okr-health-check/) - Self-assessment tool for OKR implementations
+- [OKR Template Spreadsheet](https://docs.google.com/spreadsheets/d/1OUMVlMWmK0fHiQl1FuqizuHjpnMR9gQLLQAG5YcXuyE/edit#gid=1530581682) - Excel template for tracking OKRs
+- [OKR Planning Canvas](https://miro.com/templates/okr/) - Printable OKR planning tool
+- [OKR Health Check Assessment](https://www.ally.io/okr-health-check) - Self-assessment tool for OKR implementations
 
 ## Quotes and Their Meanings
 
