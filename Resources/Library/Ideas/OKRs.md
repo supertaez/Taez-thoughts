@@ -21,7 +21,7 @@ tags:
 
 # OKRs - Objectives and Key Results: A Comprehensive Guide
 
-![[https://images.unsplash.com/photo-1585776245991-cf89dd7fc73a?q=80&w=1470&auto=format&fit=crop]]
+![](https://images.unsplash.com/photo-1585776245991-cf89dd7fc73a?q=80&w=1470&auto=format&fit=crop) 
 
 ## Summary
 
