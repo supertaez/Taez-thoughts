@@ -5,7 +5,7 @@ updated: 2025-05-19
 category: Performance Management
 type: Research Note
 status: Complete
-author: 
+author: Claude AI
 tags:
   - goal_setting
   - performance_management
