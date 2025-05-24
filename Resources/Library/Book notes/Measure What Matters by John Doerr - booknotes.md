@@ -13,7 +13,7 @@ tags:
 ---
 
 # Summary/Plot  
-"Measure What Matters" by John Doerr introduces **Objectives and Key Results (OKRs)**, a goal-setting framework adopted by companies like Google, Intel, and the Gates Foundation to align organizational priorities and drive measurable success. The book combines historical case studies, interviews, and actionable frameworks to demonstrate how OKRs foster focus, accountability, and collaboration. Doerr, a venture capitalist, traces OKRs’ origins to Andy Grove’s work at Intel and their modern application in scaling tech giants and social impact initiatives [[1]][[3]][[6]].  
+"Measure What Matters" by John Doerr introduces **Objectives and Key Results (OKRs)**, a goal-setting framework adopted by companies like Google, Intel, and the Gates Foundation to align organizational priorities and drive measurable success. The book combines historical case studies, interviews, and actionable frameworks to demonstrate how OKRs foster focus, accountability, and collaboration. Doerr, a venture capitalist, traces OKRs’ origins to Andy Grove’s work at Intel and their modern application in scaling tech giants and social impact initiatives. 
 
 Key themes include:  
 - **Focus on outcomes, not activities**: Prioritize what truly matters.  
@@ -25,18 +25,18 @@ Key themes include:
 ## 1. **OKR Framework**  
    - **Objectives**: Qualitative, aspirational goals (e.g., "Launch a groundbreaking product").  
    - **Key Results**: Quantitative, time-bound metrics (e.g., "Achieve 100,000 pre-orders by Q3").  
-   - Example: Google’s early OKR to "Organize the world’s information" with KR: "Index 1 billion web pages by 2001" [[2]][[6]].  
+   - Example: Google’s early OKR to "Organize the world’s information" with KR: "Index 1 billion web pages by 2001". 
 
 ## 2. **Superpowers of OKRs**  
-   - **Focus & Commitment**: Eliminate distractions by narrowing priorities [[9]].  
+   - **Focus & Commitment**: Eliminate distractions by narrowing priorities. 
    - **Teamwork**: Align individual efforts with organizational goals.  
    - **Accountability**: Clear metrics reduce ambiguity.  
-   - **Stretch Goals**: Encourage innovation beyond incremental improvements [[9]].  
+   - **Stretch Goals**: Encourage innovation beyond incremental improvements. 
 
 ## 3. **Common Pitfalls to Avoid**  
    - Vague Key Results (e.g., "Improve customer satisfaction" vs. "Increase NPS to 70 by end of year").  
    - Overloading with too many OKRs (limit to 3–5 objectives per team).  
-   - Ignoring cultural alignment (OKRs require trust and transparency) [[4]][[7]].  
+   - Ignoring cultural alignment (OKRs require trust and transparency). 
 
 ## 4. **Historical Context**  
    - Andy Grove’s influence: Grove’s Management by Objectives (MBO) system at Intel laid the foundation for modern OKRs.  
