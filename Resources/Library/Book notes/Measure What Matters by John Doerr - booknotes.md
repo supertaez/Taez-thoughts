@@ -92,7 +92,7 @@ Key themes include:
 - **LinkedIn Groups**: Search for "OKR Practitioners" for case studies and networking.  
 
 # Graphics & Visuals  
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/OKR_cycle.png/800px-OKR_cycle.png )  
+![](https://possibleworks.com/wp-content/uploads/2022/04/Blog-Apr-15-1536x901.png)  
 *OKR Cycle: Set → Align → Track → Grade*  
 
 # Obsidian Integration  
