@@ -40,18 +40,18 @@ Key themes include:
 
 ## 4. **Historical Context**  
    - Andy Grove’s influence: Grove’s Management by Objectives (MBO) system at Intel laid the foundation for modern OKRs.  
-   - Bono’s ONE Campaign: Used OKRs to coordinate global efforts against extreme poverty [[2]][[5]].  
+   - Bono’s ONE Campaign: Used OKRs to coordinate global efforts against extreme poverty. 
 
 # Quotes & Explanations  
 > "When we choose to measure something, we imply it matters."  
 > – John Doerr  
 >  
-> **Meaning**: Metrics shape behavior. Choosing the right KRs ensures energy is directed toward meaningful outcomes [[10]].  
+> **Meaning**: Metrics shape behavior. Choosing the right KRs ensures energy is directed toward meaningful outcomes. 
 
 > "OKRs are not a straightjacket; they’re a compass."  
 > – John Doerr  
 >  
-> **Meaning**: Flexibility is key. Adjust OKRs as circumstances change, but never lose sight of the objective [[7]].  
+> **Meaning**: Flexibility is key. Adjust OKRs as circumstances change, but never lose sight of the objective. 
 
 # Practical Applications  
 ## Daily Habits  
@@ -63,7 +63,7 @@ Key themes include:
 - **Team Alignment Sessions**: Use collaborative tools like **Miro** or **Trello** to visualize OKRs and dependencies.  
 
 ## Assessments  
-- **OKR Grading**: Score KRs on a 0–1 scale (0.7 = "good but incomplete"). Focus on learning, not punishment [[4]].  
+- **OKR Grading**: Score KRs on a 0–1 scale (0.7 = "good but incomplete"). Focus on learning, not punishment. 
 - **360-Degree Feedback**: Gather input from peers, managers, and subordinates to refine objectives.  
 
 # Related Notes & Connections  
