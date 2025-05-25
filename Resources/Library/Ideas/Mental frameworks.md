@@ -31,9 +31,9 @@ Mental frameworks, also known as mental models or schemas, are cognitive tools t
 ## Quotes and Explanations
 
 > **"A framework is a particular set of rules, ideas, or beliefs which you use in order to deal with problems or to decide what to do."**
-*This underscores how frameworks are actionable tools, not abstract concepts. For instance, using the "5 Ws" (What, Why, When, Where, How) to dissect workplace conflicts [[8]].*
+*This underscores how frameworks are actionable tools, not abstract concepts. For instance, using the "5 Ws" (What, Why, When, Where, How) to dissect workplace conflicts*
 
-> **"The brain structures existing problem-solving frameworks into an integrated system."** [[4]]  
+> **"The brain structures existing problem-solving frameworks into an integrated system."**
 *This suggests that mastery involves synthesizing models (e.g., combining game theory with first-principles thinking).*
 
 ---
@@ -51,13 +51,13 @@ Mental frameworks, also known as mental models or schemas, are cognitive tools t
 ## Related Notes and Concepts
 
 ### Systems Thinking
-- Explored in [[4]], systems thinking complements mental frameworks by emphasizing interconnections. See Donella Meadows’ *Thinking in Systems* for deeper insights.
+- Explored in, systems thinking complements mental frameworks by emphasizing interconnections. See Donella Meadows’ *Thinking in Systems* for deeper insights.
 
 ### Cognitive Biases
-- Frameworks like the "Latticework of Mental Models" (Charlie Munger) combat biases by cross-referencing multiple perspectives [[10]].
+- Frameworks like the "Latticework of Mental Models" (Charlie Munger) combat biases by cross-referencing multiple perspectives. 
 
 ### Research Process
-- CliffsNotes’ guide [[6]] outlines systematic steps for applying frameworks to academic inquiry.
+- CliffsNotes’ guide outlines systematic steps for applying frameworks to academic inquiry.
 
 ---
 
@@ -68,8 +68,8 @@ Mental frameworks, also known as mental models or schemas, are cognitive tools t
   - *The Great Mental Models* series by Shane Parrish  
 
 - **Articles**:  
-  - [90+ Useful Mental Models](https://medium.com ) [[10]]  
-  - [A Theory of Mental Frameworks](https://www.frontiersin.org ) [[4]]  
+  - [90+ Useful Mental Models](https://medium.com )
+  - [A Theory of Mental Frameworks](https://www.frontiersin.org ) 
 
 - **Movies/Shows**:  
   - *The Social Dilemma* (explores algorithmic bias through mental models of technology ethics)
