@@ -112,18 +112,18 @@ Mental frameworks, also known as mental models or schemas, are cognitive tools t
 ## Connections to Other Ideas
 
 - **Charlie Munger’s Latticework**: Combines frameworks like inversion (solving problems backward) and probabilistic thinking.  
-- **Systems Theory**: Aligns with the idea that frameworks are "nested" within broader systems [[4]].  
-- **Neuroplasticity**: Regularly using frameworks reshapes neural pathways, enhancing adaptability [[5]].
+- **Systems Theory**: Aligns with the idea that frameworks are "nested" within broader systems.  
+- **Neuroplasticity**: Regularly using frameworks reshapes neural pathways, enhancing adaptability.
 
 ---
 
 ## Callouts
 
 > [!tip]  
-> **Start Small**: Master 2–3 frameworks before expanding. Try the "Circle of Control" (focusing on what you *can* influence) for stress management [[10]].
+> **Start Small**: Master 2–3 frameworks before expanding. Try the "Circle of Control" (focusing on what you *can* influence) for stress management.
 
 > [!warning]  
-> **Avoid Overfitting**: Applying a single framework to all problems (e.g., always using cost-benefit analysis) can lead to blind spots [[4]].
+> **Avoid Overfitting**: Applying a single framework to all problems (e.g., always using cost-benefit analysis) can lead to blind spots.
 
 ---
 
@@ -136,6 +136,6 @@ Mental frameworks, also known as mental models or schemas, are cognitive tools t
 
 ## Research Links
 
-- [[1]](https://example.com/mental-frameworks-1 )  
-- [[4]](https://www.frontiersin.org/articles/10.3389/fpsyg.2023.123456 )  
-- [[10]](https://medium.com/ @user/90-useful-mental-models)
+- (https://example.com/mental-frameworks-1 )  
+- (https://www.frontiersin.org/articles/10.3389/fpsyg.2023.123456 )  
+- (https://medium.com/@user/90-useful-mental-models)
