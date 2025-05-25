@@ -69,7 +69,7 @@ Mental frameworks, also known as mental models or schemas, are cognitive tools t
 
 - **Articles**:  
   - [90+ Useful Mental Models](https://medium.com )
-  - [A Theory of Mental Frameworks](https://www.frontiersin.org ) 
+  - [A Theory of Mental Frameworks](https://www.frontiersin.org )
 
 - **Movies/Shows**:  
   - *The Social Dilemma* (explores algorithmic bias through mental models of technology ethics)
@@ -81,10 +81,10 @@ Mental frameworks, also known as mental models or schemas, are cognitive tools t
 ### Morning Routine
 - **Habit**: Reflect on 1–2 frameworks before starting the day.  
 - **Objective**: Strengthen cognitive flexibility.  
-- **Activity**: Journal using the "5 Ws" [[8]] to analyze a current challenge.
+- **Activity**: Journal using the "5 Ws" to analyze a current challenge.
 
 ### Evening Review
-- **Habit**: Assess decisions using the OODA Loop (Observe, Orient, Decide, Act) [[10]].  
+- **Habit**: Assess decisions using the OODA Loop (Observe, Orient, Decide, Act). 
 - **Objective**: Identify learning opportunities.  
 - **Activity**: Track successes/failures in a spreadsheet template [[Free Printable]](https://example.com/spreadsheet ).
 
@@ -92,8 +92,8 @@ Mental frameworks, also known as mental models or schemas, are cognitive tools t
 
 ## Assessments and Tools
 
-- **Self-Assessment Quiz**: [Mental Model Fit Test](https://example.com/quiz ) (adapted from [[6]].  
-- **Workbooks**: Downloadable guides like *"The Mental Models Practitioner"* (free via [WinnerBrands](https://winnerbrands.com )) [[2]].  
+- **Self-Assessment Quiz**: [Mental Model Fit Test](https://example.com/quiz ) (adapted from. 
+- **Workbooks**: Downloadable guides like *"The Mental Models Practitioner"* (free via [WinnerBrands](https://winnerbrands.com ) 
 
 ---
 
@@ -111,7 +111,7 @@ Mental frameworks, also known as mental models or schemas, are cognitive tools t
 
 ## Connections to Other Ideas
 
-- **Charlie Munger’s Latticework**: Combines frameworks like inversion (solving problems backward) and probabilistic thinking [[10]].  
+- **Charlie Munger’s Latticework**: Combines frameworks like inversion (solving problems backward) and probabilistic thinking.  
 - **Systems Theory**: Aligns with the idea that frameworks are "nested" within broader systems [[4]].  
 - **Neuroplasticity**: Regularly using frameworks reshapes neural pathways, enhancing adaptability [[5]].
 
