@@ -42,8 +42,8 @@ Mental frameworks, also known as mental models or schemas, are cognitive tools t
 
 | Scenario | Framework Used | Outcome |
 |--------|----------------|---------|
-| **Financial Decisions** | The Pareto Principle (80/20 Rule) | Focus on high-impact investments [[10]] |
-| **Conflict Resolution** | The "5 Ws" Model | Identify root causes in interpersonal disputes [[8]] |
+| **Financial Decisions** | The Pareto Principle (80/20 Rule) | Focus on high-impact investments |
+| **Conflict Resolution** | The "5 Ws" Model | Identify root causes in interpersonal disputes|
 | **Time Management** | Eisenhower Matrix (Urgent vs. Important) | Prioritize tasks effectively [[10]] |
 
 ---
