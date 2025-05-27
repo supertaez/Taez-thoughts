@@ -48,9 +48,9 @@ Rosalind Miles’ *Who Cooked the Last Supper?* (1988/2001) challenges tradition
 ---
 
 ## Deep Thoughts & Analysis
-- **Myth of Matriarchal Utopia**: While Miles romanticizes prehistoric goddess cultures, scholars like Cynthia Eller (*The Myth of Matriarchal Prehistory*) question the evidence for universal matriarchies[citation:1].
-- **Feminist Humor**: Miles uses sarcasm and irony to make heavy topics accessible, a technique mirrored in Caitlin Moran’s *How to Be a Woman*[citation:7].
-- **Colonial Blindspots**: Despite global examples, Miles’ focus on Western feminism overlooks indigenous struggles, a gap addressed in Mikki Kendall’s *Hood Feminism*[citation:7][citation:9].
+- **Myth of Matriarchal Utopia**: While Miles romanticizes prehistoric goddess cultures, scholars like Cynthia Eller (*The Myth of Matriarchal Prehistory*) question the evidence for universal matriarchies.
+- **Feminist Humor**: Miles uses sarcasm and irony to make heavy topics accessible, a technique mirrored in Caitlin Moran’s *How to Be a Woman*. 
+- **Colonial Blindspots**: Despite global examples, Miles’ focus on Western feminism overlooks indigenous struggles, a gap addressed in Mikki Kendall’s *Hood Feminism*. 
 
 ---
 
