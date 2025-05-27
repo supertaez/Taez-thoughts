@@ -33,17 +33,17 @@ Rosalind Miles’ *Who Cooked the Last Supper?* (1988/2001) challenges tradition
 2. **Patriarchy’s Roots**: Monotheism and colonialism institutionalized gender hierarchies by demonizing femininity. 
 3. **Intersectional Gaps**: Early feminist movements often excluded women of color and non-Western experiences. 
 4. **Cultural Resistance**: Women’s resilience—from ancient priestesses to suffragettes—shaped societal progress despite oppression. 
-5. **Ongoing Struggle**: Gender equality requires dismantling cultural norms, not just legal barriers[citation:1][c
+5. **Ongoing Struggle**: Gender equality requires dismantling cultural norms, not just legal barriers. 
 
 ---
 
 ## Notable Quotes & Ideas
 - **“The story of the human race begins with a female.”**  
-  Miles opens by asserting women’s centrality to human evolution, challenging Darwinian male-centric narratives[citation:3].
+  Miles opens by asserting women’s centrality to human evolution, challenging Darwinian male-centric narratives. 
 - **“Men wrote history; women lived it.”**  
-  Highlights the disconnect between recorded history and women’s lived experiences[citation:5].
+  Highlights the disconnect between recorded history and women’s lived experiences. 
 - **“The kyriarchy hurts everyone.”**  
-  Critiques systems of oppression that harm both women and men[citation:1].
+  Critiques systems of oppression that harm both women and men.
 
 ---
 
