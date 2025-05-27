@@ -29,11 +29,11 @@ Rosalind Miles’ *Who Cooked the Last Supper?* (1988/2001) challenges tradition
 ---
 
 ## Key Takeaways & Learnings
-1. **Systemic Erasure**: History is written by men, sidelining women’s intellectual, cultural, and labor contributions[citation:2][citation:5].
-2. **Patriarchy’s Roots**: Monotheism and colonialism institutionalized gender hierarchies by demonizing femininity[citation:3][citation:6].
-3. **Intersectional Gaps**: Early feminist movements often excluded women of color and non-Western experiences[citation:1][citation:7].
-4. **Cultural Resistance**: Women’s resilience—from ancient priestesses to suffragettes—shaped societal progress despite oppression[citation:3][citation:8].
-5. **Ongoing Struggle**: Gender equality requires dismantling cultural norms, not just legal barriers[citation:1][citation:7].
+1. **Systemic Erasure**: History is written by men, sidelining women’s intellectual, cultural, and labor contributions. 
+2. **Patriarchy’s Roots**: Monotheism and colonialism institutionalized gender hierarchies by demonizing femininity. 
+3. **Intersectional Gaps**: Early feminist movements often excluded women of color and non-Western experiences. 
+4. **Cultural Resistance**: Women’s resilience—from ancient priestesses to suffragettes—shaped societal progress despite oppression. 
+5. **Ongoing Struggle**: Gender equality requires dismantling cultural norms, not just legal barriers[citation:1][c
 
 ---
 
