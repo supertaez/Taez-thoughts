@@ -43,8 +43,8 @@ Mental frameworks, also known as mental models or schemas, are cognitive tools t
 | Scenario | Framework Used | Outcome |
 |--------|----------------|---------|
 | **Financial Decisions** | The Pareto Principle (80/20 Rule) | Focus on high-impact investments |
-| **Conflict Resolution** | The "5 Ws" Model | Identify root causes in interpersonal disputes|
-| **Time Management** | Eisenhower Matrix (Urgent vs. Important) | Prioritize tasks effectively [[10]] |
+| **Conflict Resolution** | The "5 Ws" Model | Identify root causes in interpersonal disputes |
+| **Time Management** | Eisenhower Matrix (Urgent vs. Important) | Prioritize tasks effectively |
 
 ---
 
@@ -86,7 +86,7 @@ Mental frameworks, also known as mental models or schemas, are cognitive tools t
 ### Evening Review
 - **Habit**: Assess decisions using the OODA Loop (Observe, Orient, Decide, Act). 
 - **Objective**: Identify learning opportunities.  
-- **Activity**: Track successes/failures in a spreadsheet template [[Free Printable]](https://example.com/spreadsheet ).
+- **Activity**: Track successes/failures in a spreadsheet template [Free Printable](https://example.com/spreadsheet ).
 
 ---
 
