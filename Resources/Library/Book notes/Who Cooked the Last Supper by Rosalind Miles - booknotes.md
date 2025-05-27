@@ -24,7 +24,7 @@ Rosalind Miles’ *Who Cooked the Last Supper?* (1988/2001) challenges tradition
 - **Prehistoric Matriarchies**: Rejects "Man the Hunter" myth, emphasizing women’s role in food gathering and community care[citation:1][citation:2].
 - **Religious Patriarchy**: Traces the suppression of goddess worship through monotheistic religions like Christianity and Islam[citation:1][citation:3].
 - **Industrial Revolution**: Examines how industrialization segregated women from public life and devalued domestic labor[citation:1][citation:7].
-- **Modern Feminism**: Critiques 20th-century feminism’s lack of intersectionality while celebrating grassroots activism[citation:1][citation:8].
+- **Modern Feminism**: Critiques 20th-century feminism’s lack of intersectionality while celebrating grassroots activism[citation:1][citation:8
 
 ---
 
