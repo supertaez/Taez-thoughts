@@ -29,15 +29,13 @@ Url: https://www.sustainability-times.com/research/scientists-confirm-the-imposs
   `ω_reflected = (ω_original * n1/n2)`  
   Where n1 and n2 represent refractive indices before/after the temporal boundary .
 
-*Table: Spatial vs. Time Reflection Characteristics*
-| **Characteristic**       | **Spatial Reflection**          | **Time Reflection**               |
+| Characteristic           | Spatial Reflection              | Time Reflection                   |
 |--------------------------|----------------------------------|-----------------------------------|
-| Reflection Trigger       | Physical boundary (mirror/wall) | Abrupt medium property change     |
-| Wave Direction Change    | Spatial reversal                | Temporal reversal                 |
-| Frequency Behavior       | Unchanged                       | Inverted and shifted              |
-| Signal Order             | Preserved                       | Reversed (last part first)        |
-| Everyday Analogy         | Echo in canyon                  | Cassette tape rewinding           |
-
+| **Reflection Trigger**   | Physical boundary (mirror/wall) | Abrupt medium property change     |
+| **Wave Direction Change**| Spatial reversal                | Temporal reversal                 |
+| **Frequency Behavior**   | Unchanged                       | Inverted and shifted              |
+| **Signal Order**         | Preserved                       | Reversed (last part first)        |
+| **Everyday Analogy**     | Echo in canyon                  | Cassette tape rewinding           |
 ### Why It Seemed "Impossible"
 Scientists faced **three fundamental barriers**:
 1. **Energy Requirements**: Changing medium properties fast enough to affect GHz/THz electromagnetic waves demanded unrealistic energy levels .
@@ -104,7 +102,7 @@ from "Time_Reflection_Learning"
 where status = "active"
 ```
 
-*Table: Weekly Knowledge Progress Tracker*
+Table: Weekly Knowledge Progress Tracker
 | **Week** | **Focus Area**       | **Key Resource**| **Mastery Check**|
 |----------|----------------------|------------------------------------------|---------------------------------------|
 | 1        | Wave Fundamentals    | Khan Academy: Electromagnetism           | Explain spatial reflection            |
