@@ -105,7 +105,7 @@ where status = "active"
 ```
 
 *Table: Weekly Knowledge Progress Tracker*
-| **Week** | **Focus Area**       | **Key Resource** | **Mastery Check**                     |
+| **Week** | **Focus Area**       | **Key Resource**| **Mastery Check**|
 |----------|----------------------|------------------------------------------|---------------------------------------|
 | 1        | Wave Fundamentals    | Khan Academy: Electromagnetism           | Explain spatial reflection            |
 | 2        | Quantum Foundations  | "QED: The Strange Theory" (Feynman)      | Describe photon path integrals        |
