@@ -103,13 +103,13 @@ from "Time_Reflection_Learning"
 where status = "active"
 ```
 
-Table: Weekly Knowledge Progress Tracker
-| **Week** | **Focus Area**       | **Key Resource**| **Mastery Check**|
-|----------|----------------------|------------------------------------------|---------------------------------------|
-| 1        | Wave Fundamentals    | Khan Academy: Electromagnetism           | Explain spatial reflection            |
-| 2        | Quantum Foundations  | "QED: The Strange Theory" (Feynman)      | Describe photon path integrals        |
-| 3        | Metamaterials        | Nature: Photonics Review Papers          | List 3 metamaterial applications      |
-| 4        | Temporal Physics     | "The Order of Time" (Rovelli)            | Contrast Newtonian vs relativistic time |
+> [!progress]- Weekly Knowledge Progress Tracker
+> | Week | Focus Area           | Key Resource                             | Mastery Check                              |
+> |------|----------------------|------------------------------------------|--------------------------------------------|
+> | 1    | Wave Fundamentals    | Khan Academy: Electromagnetism           | Explain spatial reflection                 |
+> | 2    | Quantum Foundations  | "QED: The Strange Theory" (Feynman)      | Describe photon path integrals             |
+> | 3    | Metamaterials        | Nature: Photonics Review Papers          | List 3 metamaterial applications           |
+> | 4    | Temporal Physics     | "The Order of Time" (Rovelli)            | Contrast Newtonian vs relativistic time    |
 
 ## 🎬 Multimedia Resources
 ### Essential Viewing
