@@ -1,4 +1,3 @@
-
 ---
 creation date: 2025-06-01
 modification date: 2025-06-01
@@ -130,5 +129,4 @@ where status = "active"
 **Linked Concepts**: [[Quantum Entanglement]], [[Metamaterial Design Principles]], [[Relativity of Simultaneity]], [[Photonics in Computing]]  
 **Related Profiles**: [[Andrea Alù (CUNY ASRC)]], [[Gengyu Xu (Postdoc Researcher)]], [[Hady Moussa (Research Lead)]]
 
-> "**This has been really exciting to see**... how different time-reflected waves behave compared to space-reflected ones." - Andrea Alù, Director of Photonics Initiative at CUNY ASRC 
-```
+> "**This has been really exciting to see**... how different time-reflected waves behave compared to space-reflected ones." - Andrea Alù, Director of Photonics Initiative at CUNY ASRC
