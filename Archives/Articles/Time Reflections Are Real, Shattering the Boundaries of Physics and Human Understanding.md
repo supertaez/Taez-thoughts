@@ -1,11 +1,11 @@
 ---
 creation date: 2025-06-01
 modification date: 2025-06-01
-aliases: 
+aliases:
   - Time Reflections
   - Temporal Mirrors
   - Electromagnetic Time Reversal
-tags: 
+tags:
   - physics
   - quantum_mechanics
   - metamaterials
@@ -14,6 +14,7 @@ tags:
   - futurism
   - CUNY_ASRC
   - spacetime_symmetry
+Url: https://www.sustainability-times.com/research/scientists-confirm-the-impossible-time-reflections-are-real-shattering-the-boundaries-of-physics-and-human-understanding/
 ---
 
 # Time Reflections: Shattering Conventional Physics
