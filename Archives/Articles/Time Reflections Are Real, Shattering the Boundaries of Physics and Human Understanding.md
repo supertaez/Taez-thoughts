@@ -29,13 +29,6 @@ Url: https://www.sustainability-times.com/research/scientists-confirm-the-imposs
   `ω_reflected = (ω_original * n1/n2)`  
   Where n1 and n2 represent refractive indices before/after the temporal boundary .
 
-| Characteristic           | Spatial Reflection              | Time Reflection                   |
-|--------------------------|----------------------------------|-----------------------------------|
-| **Reflection Trigger**   | Physical boundary (mirror/wall) | Abrupt medium property change     |
-| **Wave Direction Change**| Spatial reversal                | Temporal reversal                 |
-| **Frequency Behavior**   | Unchanged                       | Inverted and shifted              |
-| **Signal Order**         | Preserved                       | Reversed (last part first)        |
-| **Everyday Analogy**     | Echo in canyon                  | Cassette tape rewinding           |
 > [!table]- Spatial vs. Time Reflection Characteristics
 > | Characteristic           | Spatial Reflection              | Time Reflection                   |
 > |--------------------------|----------------------------------|-----------------------------------|
