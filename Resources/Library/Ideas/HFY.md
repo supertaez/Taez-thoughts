@@ -21,30 +21,30 @@ created: 2025-06-03
 - Cultural traits (e.g., adaptability, aggression)  
 - Moral contradictions (e.g., brutality paired with compassion)  
 
-**Origins**: Emerged from online communities like Reddit’s r/HFY and SpaceBattles forums, evolving from pulp sci-fi (e.g., *John Carter of Mars*) [citation:2][citation:4].  
+**Origins**: Emerged from online communities like Reddit’s r/HFY and SpaceBattles forums, evolving from pulp sci-fi (e.g., *John Carter of Mars*). 
 
 ---
 
 ## Key Tropes and Themes  
 ### 1. **The Deathworld Hypothesis**  
-Earth is a cosmic anomaly—a planet with extreme gravity, volatile weather, and lethal wildlife. Humans thrive here, making us "space orcs" to aliens [citation:1][citation:4].  
-- *Example*: In *The Deathworlders*, aliens view humans as monsters due to Earth’s harsh conditions [citation:3].  
+Earth is a cosmic anomaly—a planet with extreme gravity, volatile weather, and lethal wildlife. Humans thrive here, making us "space orcs" to aliens.  
+- *Example*: In *The Deathworlders*, aliens view humans as monsters due to Earth’s harsh conditions.  
 
 ### 2. **Warfare Prowess**  
 Humans dominate through:  
 - **Improvisation**: Duct-taping weapons, guerrilla tactics  
 - **Endurance**: Outlasting specialized aliens  
-- *Critique*: Often devolves into "human-wank" fascism (e.g., genocidal Imperium in *Warhammer 40K*) [citation:2][citation:3].  
+- *Critique*: Often devolves into "human-wank" fascism (e.g., genocidal Imperium in *Warhammer 40K*).  
 
 ### 3. **Cultural Quirks**  
 Alien fascination with human:  
 - **Pop Culture**: Ready Player One-esque immersion in media  
-- **Daily Habits**: Teeth-brushing or high-risk sports as "terrifying" [citation:1][citation:4].  
+- **Daily Habits**: Teeth-brushing or high-risk sports as "terrifying".  
 
 ### 4. **Moral Duality**  
 HFY grapples with:  
-- **Celebrating Flaws**: "We poison our air to weed out the weak!" [citation:1]  
-- **Ethical Lines**: When does resilience become supremacism? [citation:3]  
+- **Celebrating Flaws**: "We poison our air to weed out the weak!"  
+- **Ethical Lines**: When does resilience become supremacism?  
 
 ---
 
@@ -57,8 +57,8 @@ HFY grapples with:
 | **AI Boom** (2020s) | Algorithmic stories | YouTube narrations [citation:4] |  
 
 **Criticisms**:  
-- **Racism Allegories**: Casting aliens as "inferior" to justify human dominance [citation:3].  
-- **Misanthropy**: HFN ("Humanity, Fuck No") as counter-movement [citation:3].  
+- **Racism Allegories**: Casting aliens as "inferior" to justify human dominance.  
+- **Misanthropy**: HFN ("Humanity, Fuck No") as counter-movement [:3].  
 - **AI Dilution**: Repetitive, low-quality content flooding platforms [citation:4].  
 
 > 💡 **Key Insight**: Best HFY balances pride with self-awareness—e.g., *Retreat, Hell!* (Marines aiding aliens) showcases teamwork over tribalism [citation:4].
