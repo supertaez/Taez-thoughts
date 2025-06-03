@@ -54,14 +54,14 @@ HFY grapples with:
 |-----|-------|---------|  
 | **Golden Age** (2000s) | Human ingenuity | *Chrysalis* (Reddit) |  
 | **Dark Age** (2010s) | Fascist undertones | *Imperium of Man* tropes |  
-| **AI Boom** (2020s) | Algorithmic stories | YouTube narrations [citation:4] |  
+| **AI Boom** (2020s) | Algorithmic stories | YouTube narrations |  
 
 **Criticisms**:  
 - **Racism Allegories**: Casting aliens as "inferior" to justify human dominance.  
-- **Misanthropy**: HFN ("Humanity, Fuck No") as counter-movement [:3].  
-- **AI Dilution**: Repetitive, low-quality content flooding platforms [citation:4].  
+- **Misanthropy**: HFN ("Humanity, Fuck No") as counter-movement.  
+- **AI Dilution**: Repetitive, low-quality content flooding platforms.  
 
-> 💡 **Key Insight**: Best HFY balances pride with self-awareness—e.g., *Retreat, Hell!* (Marines aiding aliens) showcases teamwork over tribalism [citation:4].
+> 💡 **Key Insight**: Best HFY balances pride with self-awareness—e.g., *Retreat, Hell!* (Marines aiding aliens) showcases teamwork over tribalism.
 
 ---
 
@@ -94,6 +94,6 @@ HFY grapples with:
 ---
 
 ## Connections to Other Genres  
-- **Warhammer 40K**: Satirizes HFY via the fascist Imperium [citation:2][citation:3].  
-- **Avatar**: HFY backlash against Na’vi victory birthed genocidal memes [citation:2].  
-- **Ready Player One**: "Consumerist fantasy" blending pop culture with heroism [citation:1].  
+- **Warhammer 40K**: Satirizes HFY via the fascist Imperium.  
+- **Avatar**: HFY backlash against Na’vi victory birthed genocidal memes.  
+- **Ready Player One**: "Consumerist fantasy" blending pop culture with heroism.  
