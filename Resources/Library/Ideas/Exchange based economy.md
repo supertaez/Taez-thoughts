@@ -35,8 +35,7 @@ Historical example: The **Kula ring** among Pacific Islanders exchanged ceremoni
 
 ### 2. **Gift Economies**  
 - **Core Principle**: Non-quid-pro-quo giving that creates "positive debt"   
-- **Reciprocity Types**:  
-  | **Type**         | **Time Lag** | **Value Measurement** | **Example**               |  
+​**Reciprocity Types**: ​| **Type**         | **Time Lag** | **Value Measurement** | **Example**               |  
   |------------------|--------------|------------------------|---------------------------|  
   | Generalized      | Indefinite   | Not tracked           | Family caregiving         |  
   | Balanced         | Fixed        | Equivalent expected   | Potlatch ceremonies       |  
