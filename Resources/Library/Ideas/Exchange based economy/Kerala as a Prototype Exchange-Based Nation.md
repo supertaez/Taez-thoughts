@@ -1,4 +1,3 @@
-
 ---
 tags:  
   post-extraction transition  
@@ -54,6 +53,7 @@ aliases: Exchange-Based Nation
 
 ### 🏠 **Housing: From Real Estate to Reciprocity**  
 - **"Nest for Nest" Program**:  
+
   | **Traditional**                | **Exchange Model**               |  
   |--------------------------------|----------------------------------|  
   | 30-year mortgages              | 3-year labor contribution        |  
@@ -115,7 +115,6 @@ aliases: Exchange-Based Nation
 > **"They tried to bury us. They didn't know we were seeds."**  
 > — Mexican proverb on Kerala's communist movement  
 > **Next step**: Join the *Ooru Porattam* (Village Uprising) network of 10,000 transition experiments.  
-```
 
 ## Why Kerala Excels as Prototype
 1. **Legacy of Resistance**: Broke feudal extraction via 1957 Land Reform Act  
