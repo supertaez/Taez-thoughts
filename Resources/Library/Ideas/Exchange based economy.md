@@ -104,22 +104,21 @@ where file.name = this.file.name
 
 ## Linked Concepts  
 ```mermaid  
-mindmap  
-  root((Exchange Economies))  
-    --> Gift_Culture  
-      --> Potlatch  
-      --> Open_Source  
-    --> Market_Exchange  
-      --> Floating_Rates  
-      --> Currency_Wars  
-    --> Commons  
-      --> Seed_Sharing_Libraries  
-      --> Creative_Commons  
+mindmap
+  root(Exchange Economies)
+    Gift Culture
+      Potlatch
+      Open Source
+    Market Exchange
+      Floating Rates
+      Currency Wars
+    Commons
+      Seed Sharing Libraries
+      Creative Commons
 ```  
 
 ---
 
 > **"When the last tree is cut, the last fish eaten, the last river poisoned, you will realize you cannot eat money."**  
 > — Cree Prophecy  
-> **Action step**: Audit one extractive habit (e.g., Amazon reliance) and replace it with an exchange-based alternative (e.g., tool library).  
-```
+> **Action step**: Audit one extractive habit (e.g., Amazon reliance) and replace it with an exchange-based alternative (e.g., tool library). 
