@@ -47,11 +47,13 @@ D --> G[Link to Jain/Buddhist Traditions]
 - **Gated Communities**: Residential areas with controlled access suggest **social organization without militaristic control** [[Source](https://www.thehindu.com/opinion/interview/they-didnt-glamourise-violence-says-devdutt-pattanaik-author-of-ahimsa-100-reflections-on-the-harappan-civilization/article69111934.ece)].
 
 ### 2. Symbolism and Mythology
+```mermaid
 pie
   title Harappan Seal Motifs
   "Unicorn" : 80
   "Animals (Bull, Elephant)" : 15
   "Human Figures" : 5
+```
 - **Unicorn Dominance**: The mythical unicorn appears on **80% of seals**, possibly representing **transcendent clan mediators**.
 - **Pashupati Seal**: Often called "Proto-Shiva," Pattanaik reinterprets this figure as a **mediator of rival clans** [[Source](https://www.theweek.in/theweek/cover/2024/12/21/the-scarcity-of-weapons-and-indicators-of-dictators-in-harappa-suggests-a-culture-that-minimised-violence.html)].
 
