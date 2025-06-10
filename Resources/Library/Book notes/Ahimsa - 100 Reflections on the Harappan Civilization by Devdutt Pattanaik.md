@@ -128,4 +128,3 @@ journey
 
 ---
 > ✨ **Key Insight**: Pattanaik positions Harappa not as a "lost" civilization but a **living undercurrent** in South Asia’s preference for negotiation over conquest, with profound implications for modern conflict resolution and sustainable economics.
-```
