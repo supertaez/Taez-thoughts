@@ -1,4 +1,3 @@
-```markdown
 ---
 tags:
   schema_theory
@@ -118,5 +117,4 @@ limit 7
 2.  **Midday (5 min)**: Notice schema-triggered reactions to situations
 3.  **Evening (15 min)**: Record schema observations using [prompt template](https://cbtonline.com/schema-journal-prompts)
 
-> **Key Insight**: "Schemas are active processes for solving problems, not just static frameworks" - Vygotskian perspective 
-```
+> **Key Insight**: "Schemas are active processes for solving problems, not just static frameworks" - Vygotskian perspective
