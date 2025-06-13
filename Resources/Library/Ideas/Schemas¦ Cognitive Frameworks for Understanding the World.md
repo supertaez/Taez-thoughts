@@ -1,4 +1,3 @@
-```markdown
 ---
 tags:
   schema_theory
