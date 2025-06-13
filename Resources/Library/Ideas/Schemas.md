@@ -51,7 +51,7 @@ F --> H[Stereotypes]
 ## Practical Applications
 
 ### In Education
-![[|Schema-building in Wit & Wisdom curriculum]]  
+![](https://ecdn.teacherspayteachers.com/thumbitem/Grade-2-W-W-Module-4-Good-Eating-Vocabulary-Slides-MEGA-BUNDLE-Bilingual--13137997-1741984703/original-13137997-1.jpg)
 The **Wit & Wisdom** curriculum builds knowledge schemas through thematic modules. Grade 2 students studying nutrition read about digestion, community food traditions, and vegetable farming - all reinforcing the "Good Eating" schema . Teachers can activate prior knowledge with **anticipation guides** or **KWL charts** ([Printable Template](https://www.educationworld.com/tools_templates/kwl_chart_3.pdf)).
 
 **Effective schema-building strategies**:
