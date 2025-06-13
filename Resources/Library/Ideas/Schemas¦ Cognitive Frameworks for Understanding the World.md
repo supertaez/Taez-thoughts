@@ -116,10 +116,9 @@ limit 7
 1.  **Morning (10 min)**: Review knowledge journal, identify schema connections
 2.  **Midday (5 min)**: Notice schema-triggered reactions to situations
 3.  **Evening (15 min)**: Record schema observations using [prompt template](https://cbtonline.com/schema-journal-prompts)
+4. **Maladaptive schemas**: Deeply held negative self-beliefs ("I'm unlovable") that distort relationships 
 
 > **Key Insight**: "Schemas are active processes for solving problems, not just static frameworks" - Vygotskian perspective 
-
-4.  **Maladaptive schemas**: Deeply held negative self-beliefs ("I'm unlovable") that distort relationships 
 
 ## Practical Applications
 
