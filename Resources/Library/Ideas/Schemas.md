@@ -22,8 +22,8 @@ A **schema** is a mental framework that helps us organize and interpret informat
 -   **Operate at all knowledge levels**: From simple concepts to complex abstract ideas 
 
 ### Historical Development
-![[https://img.youtube.com/vi/Rv6rGZciI0I/maxresdefault.jpg|Video: Piaget's Stages of Development]]  
-[Piaget's Developmental Theory](https://www.youtube.com/watch?v=Rv6rGZciI0I)
+![[https://www.adda247.com/jobs/wp-content/uploads/sites/13/2024/04/18154935/Piagets-4-Stages-of-Cognitive-Development-01-1.png]]  
+[Piaget's Developmental Theory](https://www.youtube.com/watch?v=IhcgYgx7aAA)
 
 | Theorist       | Contribution                                                                 | Era        |
 | -------------- | ---------------------------------------------------------------------------- | ---------- |
