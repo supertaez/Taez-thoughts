@@ -118,7 +118,8 @@ limit 7
 3.  **Evening (15 min)**: Record schema observations using [prompt template](https://cbtonline.com/schema-journal-prompts)
 
 > **Key Insight**: "Schemas are active processes for solving problems, not just static frameworks" - Vygotskian perspective 
-```4.  **Maladaptive schemas**: Deeply held negative self-beliefs ("I'm unlovable") that distort relationships 
+
+4.  **Maladaptive schemas**: Deeply held negative self-beliefs ("I'm unlovable") that distort relationships 
 
 ## Practical Applications
 
