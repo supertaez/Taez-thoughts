@@ -1,3 +1,7 @@
+---
+Source: Deepseek
+author: AI
+---
 ### 🌱 The Philadelphia Greening Experiment: Transforming Vacant Lots into Safe, Artistic Spaces
 
 #### 🚨 1. **Core Concept: The Philadelphia Greening Model**
