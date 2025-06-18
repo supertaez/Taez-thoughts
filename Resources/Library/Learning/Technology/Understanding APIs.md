@@ -108,7 +108,7 @@ An **API (Application Programming Interface)** is a set of rules and protocols t
 
 ## Graphics and Visuals
 
-![API Architecture Diagram](https://www.moesif.com/images/api-types-diagram.png) 
+![API Architecture Diagram](https://cloud.google.com/static/api-gateway/docs/images/concepts-architecure.svg) 
 
 ![REST vs. GraphQL Comparison](https://cdn.pixabay.com/photo/2017/05/15/23/47/machine-learning-2749148_1280.jpg) 
 
