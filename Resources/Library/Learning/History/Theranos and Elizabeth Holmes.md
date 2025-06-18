@@ -15,7 +15,7 @@ tags:
 # Theranos and Elizabeth Holmes: A Case Study in Innovation, Fraud, and Accountability
 
 ## Summary/Plot
-Theranos was a Silicon Valley biotech startup founded in 2003 by 19-year-old Elizabeth Holmes, who dropped out of Stanford University to pursue her vision of revolutionizing medical diagnostics. The company claimed to develop a groundbreaking technology that could perform hundreds of blood tests using just a few drops of blood. By 2015, Theranos was valued at $9 billion, but investigations revealed its technology was fraudulent, leading to its collapse in 2018. Holmes faced criminal charges for defrauding investors and endangering patients, with her trial highlighting issues of corporate accountability and ethical failures in tech innovation [[1]][[3]][[8]].
+Theranos was a Silicon Valley biotech startup founded in 2003 by 19-year-old Elizabeth Holmes, who dropped out of Stanford University to pursue her vision of revolutionizing medical diagnostics. The company claimed to develop a groundbreaking technology that could perform hundreds of blood tests using just a few drops of blood. By 2015, Theranos was valued at $9 billion, but investigations revealed its technology was fraudulent, leading to its collapse in 2018. Holmes faced criminal charges for defrauding investors and endangering patients, with her trial highlighting issues of corporate accountability and ethical failures in tech innovation.
 
 ---
 
@@ -42,8 +42,8 @@ Theranos was a Silicon Valley biotech startup founded in 2003 by 19-year-old Eli
 |-------|-------------|
 | **Fraudulent Claims** | Theranos falsified test results and misled stakeholders about its technology’s capabilities. |
 | **Patient Safety Risks** | Faulty tests led to incorrect diagnoses, risking harm to patients. |
-| **Legal Accountability** | Holmes argued a "mental disease" defense during her trial, claiming emotional manipulation by ex-partner Sunny Balwani [[5]]. |
-| **Media Complicity** | Media outlets initially amplified Theranos’ mythos without critical scrutiny [[7]]. |
+| **Legal Accountability** | Holmes argued a "mental disease" defense during her trial, claiming emotional manipulation by ex-partner Sunny Balwani |
+| **Media Complicity** | Media outlets initially amplified Theranos’ mythos without critical scrutiny |
 
 ---
 
