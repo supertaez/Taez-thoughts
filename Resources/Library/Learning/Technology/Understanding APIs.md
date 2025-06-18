@@ -79,7 +79,7 @@ An **API (Application Programming Interface)** is a set of rules and protocols t
 
 ### Online Courses
 - **YouTube**: ["APIs for Beginners" by freeCodeCamp](https://youtu.be/WXsD0ZgxjRw) (free tutorial).
-- **YouTube**: [REST API](https://youtu.be/-mN3VyJuCjM (subscription-based).
+- **YouTube**: [REST API](https://youtu.be/-mN3VyJuCjM.
 
 ### Free Tools 
 - **Postman**: [API Testing Tool](https://learning.postman.com/docs/)  (interactive labs).
