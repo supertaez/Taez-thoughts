@@ -102,7 +102,7 @@ Theranos was a Silicon Valley biotech startup founded in 2003 by 19-year-old Eli
 ---
 
 ## Graphics and Maps
-![Theranos Timeline](https://i.insider.com/5805040ac524021d008b4cd7?width=700&format=jpeg&auto=webp) 
+![Theranos Timeline](https://i.insider.com/5805040ac524021d008b4cd7?width=700&format=jpeg&auto=webp)
 
 ---
 
