@@ -78,7 +78,7 @@ An **API (Application Programming Interface)** is a set of rules and protocols t
 - *"Building Microservices"* by Sam Newman (covers API-driven architectures).
 
 ### Online Courses
-- **YouTube**: ["APIs for Beginners" by freeCodeCamp](https://www.youtube.com/watch?v=GZvSYJDk-jw) (free tutorial).
+- **YouTube**: ["APIs for Beginners" by freeCodeCamp](https://youtu.be/WXsD0ZgxjRw) (free tutorial).
 - **Pluralsight**: [REST API Design Fundamentals](https://www.pluralsight.com/courses/rest-api-design-fundamentals) (subscription-based).
 
 ### Free Tools 
