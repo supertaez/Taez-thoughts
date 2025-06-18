@@ -110,7 +110,7 @@ An **API (Application Programming Interface)** is a set of rules and protocols t
 
 ![API Architecture Diagram](https://cloud.google.com/static/api-gateway/docs/images/concepts-architecure.svg) 
 
-![REST vs. GraphQL Comparison](https://www.linkedin.com/posts/bavithra07_api-webdevelopment-soap-activity-7298544482487087104-gIRB?utm_source=share&utm_medium=member_android&rcm=ACoAADroogIBynhrpMpF0XG2HtT7kmMoiKcQzuM) 
+![Soap vs. REST vs. GraphQL Comparison](https://media.licdn.com/dms/image/v2/D5622AQGNTW0ryW_hYQ/feedshare-shrink_800/B56ZULYbp.HsAk-/0/1739652711378?e=2147483647&v=beta&t=h0jEXv8JrVODRqcI6PFlLiFqWS07wHflHuF8rMFbsfU) 
 
 ---
 
