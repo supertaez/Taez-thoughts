@@ -2,13 +2,14 @@
 title: Theranos and Elizabeth Holmes
 tags:
   - Theranos
-  - ElizabethHolmes
-  - FraudScandal
-  - HealthcareInnovation
-  - BusinessEthics
-  - StartupFailure
-  - RegulatoryCompliance
-  - InnovationHype
+  - Elizabeth Holmes
+  - Fraud
+  - Scandal
+  - Healthcare Innovation
+  - Business Ethics
+  - Startup Failure
+  - Regulatory Compliance
+  - Innovation Hype
 ---
 
 # Theranos and Elizabeth Holmes: A Case Study in Innovation, Fraud, and Accountability
