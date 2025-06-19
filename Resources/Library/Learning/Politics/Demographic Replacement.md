@@ -111,10 +111,10 @@ created: 2025-06-19
 > *Where have I encountered "replacement" rhetoric today? How did actual local demographics compare?*
 
 
-> 📅 **Weekly Demographic Journal**  
-> | Date       | Observed Demographic Change | Media Narrative |  
-> |------------|------------------------------|-----------------|  
-> | 2025-06-23 | School diversity increased   | "Neighborhood transformed" |  
+📅 **Weekly Demographic Journal**  
+| Date       | Observed Demographic Change | Media Narrative |  
+|------------|------------------------------|-----------------|  
+| 2025-06-23 | School diversity increased   | "Neighborhood transformed" |  
 
 ---
 
