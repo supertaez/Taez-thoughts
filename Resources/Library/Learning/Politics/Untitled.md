@@ -27,8 +27,6 @@ created: 2025-06-19
 - **Aging Populations**: By 2100, populations in major economies will decline 20-50%. Seniors will comprise 25% of global consumption by 2050 (double 1997's share) .  
 - **Immigration's Role**: Maintains workforce as working-age populations shrink. Without immigration, U.S. working-age population would shrink 4% by 2035 .  
 
-```  
-
 ![[Demographic Pyramid Shift](https://www.pewresearch.org/wp-content/uploads/2020/06/FT_20.06.12_populationPyramids_usPyramids.png)  
 *Changing U.S. age structure (1980-2060) showing aging population* [Source: Pew Research]
 
