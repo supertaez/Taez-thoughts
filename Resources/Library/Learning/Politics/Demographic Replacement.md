@@ -107,17 +107,14 @@ created: 2025-06-19
 - [UN Population Dashboard](https://population.un.org/wpp/)  
 - [Global Fertility Tracker](https://www.prb.org/world-population-trends/)  
 
-```markdown
 > ✏️ **Daily Reflection Prompt**  
 > *Where have I encountered "replacement" rhetoric today? How did actual local demographics compare?*
-```
 
-```markdown
+
 > 📅 **Weekly Demographic Journal**  
 > | Date       | Observed Demographic Change | Media Narrative |  
 > |------------|------------------------------|-----------------|  
 > | 2025-06-23 | School diversity increased   | "Neighborhood transformed" |  
-```
 
 ---
 
