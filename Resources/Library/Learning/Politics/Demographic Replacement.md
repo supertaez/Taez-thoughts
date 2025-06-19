@@ -134,4 +134,3 @@ D --> I[Environmental Benefits]
 I --> J[Lower Consumption]
 ```  
 *Interconnected impacts of demographic shifts*
-```
