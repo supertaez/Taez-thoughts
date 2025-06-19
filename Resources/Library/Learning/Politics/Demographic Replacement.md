@@ -112,9 +112,12 @@ created: 2025-06-19
 
 
 📅 **Weekly Demographic Journal**  
-| Date       | Observed Demographic Change | Media Narrative |  
-|------------|------------------------------|-----------------|  
-| 2025-06-23 | School diversity increased   | "Neighborhood transformed" |  
+
+| Date       | Observed Demographic Change | Media Narrative              |  
+|------------|-----------------------------|------------------------------|  
+| 2025-06-23 | School diversity increased | "Neighborhood transformed"   |  
+| 2025-06-30 | New immigrant-owned businesses | "Changing character of Main Street" |  
+| 2025-07-07 | Senior center expansion    | "Gray tsunami overwhelms services" |  
 
 ---
 
