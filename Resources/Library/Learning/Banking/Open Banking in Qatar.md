@@ -27,7 +27,7 @@ category: research
 
 ## Executive Summary
 
-Open banking represents a revolutionary approach to financial services that allows third-party financial service providers to access bank data through secure Application Programming Interfaces (APIs), with explicit customer consent. Think of it as creating a digital bridge between your bank and other financial apps, enabling you to manage all your finances from a single dashboard while maintaining complete control over your data.
+Open banking represents a revolutionary approach to financial services that allows third-party financial service providers to access bank data through secure Application Programming Interfaces ([[APIs]]), with explicit customer consent. Think of it as creating a digital bridge between your bank and other financial apps, enabling you to manage all your finances from a single dashboard while maintaining complete control over your data.
 
 Qatar stands at a pivotal moment in financial innovation, with the Qatar Central Bank (QCB) actively developing frameworks for digital banking and open banking implementation. The country's strategic position as a regional fintech hub, combined with its National Fintech Strategy, creates an ideal environment for open banking adoption.
 
