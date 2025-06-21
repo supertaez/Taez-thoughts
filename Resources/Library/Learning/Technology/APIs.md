@@ -1,5 +1,5 @@
 ---
-title: Understanding APIs
+title: APIs
 date: 2025-06-19
 tags:
   - APIs
@@ -11,7 +11,7 @@ tags:
   - Data
   - Integration
 aliases:
-  - APIs
+  - Understanding APIs
 ---
 
 # Understanding APIs: A Comprehensive Guide
