@@ -10,6 +10,8 @@ tags:
   - Engineering
   - Data
   - Integration
+aliases:
+  - APIs
 ---
 
 # Understanding APIs: A Comprehensive Guide
