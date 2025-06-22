@@ -78,8 +78,8 @@ sequenceDiagram
 - Cross-border complexities for **international workers' cards**
 
 ### Adoption Barriers
-- **52% of GCC consumers** have fallen victim to scams [[re
-- **37% of rent payments** still cash-based [[ref: ]
+- **52% of GCC consumers** have fallen victim to scams
+- **37% of rent payments** still cash-based
 - Limited Arabic-language fintech interfaces
 
 ### Technical Limitations
@@ -118,7 +118,7 @@ sequenceDiagram
   - 8-week refund right without justification
   - Mandate verification requirements
   - Amount change restrictions
-- **Qatar Adaptation Potential**: Could integrate with QMP system [[ref: ]
+- **Qatar Adaptation Potential**: Could integrate with QMP system
 
 ## Implementation Roadmap
 ### Phase 1: Regulatory Sandbox (0-6 Months)
@@ -128,7 +128,7 @@ sequenceDiagram
 
 ### Phase 2: Limited Launch (6-12 Months)
 - Onboard major real estate companies
-- Integrate with **Qatar Mobile Payment** infrastructure [[ref: ]
+- Integrate with **FAWRAN** infrastructure
 - Launch consumer protection framework
 
 ### Phase 3: Full Ecosystem (12-24 Months)
