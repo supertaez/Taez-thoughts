@@ -11,9 +11,9 @@ tags:
 # Transforming Payments in Qatar: Debit Card-POS Direct Debit System
 
 ## Overview
-This concept proposes a **secure direct debit system** using existing debit cards and POS terminals in Qatar. Customers would authorize recurring payments via SMS confirmation after inserting their card and PIN at a merchant terminal. This system could replace post-dated cheques, traditional BNPL services, and manual payment collection for **installment plans, rent, mortgages, and auto loans** while providing enhanced security and convenience [[ref: Search Results]].
+This concept proposes a **secure direct debit system** using existing debit cards and POS terminals in Qatar. Customers would authorize recurring payments via SMS confirmation after inserting their card and PIN at a merchant terminal. This system could replace post-dated cheques, traditional BNPL services, and manual payment collection for **installment plans, rent, mortgages, and auto loans** while providing enhanced security and convenience.
 
-> "This initiative marks a potentially pivotal moment for fintech companies in Qatar, particularly for those startups providing services to the traditionally underbanked" - Sarah Khasawneh, Pinsent Masons [[ref: ].
+> "This initiative marks a potentially pivotal moment for fintech companies in Qatar, particularly for those startups providing services to the traditionally underbanked" - Sarah Khasawneh, Pinsent Masons.
 
 ## Core Mechanism
 1. **Customer Initiation**: Customer provides debit card at merchant POS
@@ -53,11 +53,11 @@ sequenceDiagram
 - **End-to-end encryption** of payment data
 - **Tokenization** of card details (reference tokens replace actual card numbers)
 - **Two-factor authentication** (PIN + SMS reply)
-- **PCI DSS Compliance** (as implemented by providers like Dibsy [[ref: ])
+- **PCI DSS Compliance** (as implemented by providers like Dibsy) 
 
 ## Qatar-Specific Advantages
 ### Financial Inclusion Boost
-- Serves Qatar's **1.9 million migrant workers** (76% of population) who rely on remittances [[ref: ]
+- Serves Qatar's **1.9 million migrant workers** (76% of population) who rely on remittances
 - Removes bank account requirements - only need debit card and mobile number
 - Aligns with QCB's **Financial Inclusion Strategy** under Vision 2030
 
@@ -69,7 +69,7 @@ sequenceDiagram
 ### Security Enhancements
 - Eliminates **physical cheque fraud** (27% of financial fraud in GCC)
 - SMS audit trail provides legal evidence of consent
-- Real-time transaction monitoring (like Visa's $3.3B AI security investment [[ref: ])
+- Real-time transaction monitoring (like Visa's $3.3B AI security investment)
 
 ## Implementation Challenges
 ### Regulatory Hurdles
@@ -78,7 +78,7 @@ sequenceDiagram
 - Cross-border complexities for **international workers' cards**
 
 ### Adoption Barriers
-- **52% of GCC consumers** have fallen victim to scams [[ref: ]
+- **52% of GCC consumers** have fallen victim to scams [[re
 - **37% of rent payments** still cash-based [[ref: ]
 - Limited Arabic-language fintech interfaces
 
