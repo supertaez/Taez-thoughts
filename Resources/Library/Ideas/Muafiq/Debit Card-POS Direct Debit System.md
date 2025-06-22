@@ -118,7 +118,7 @@ sequenceDiagram
   - 8-week refund right without justification
   - Mandate verification requirements
   - Amount change restrictions
-- **Qatar Adaptation Potential**: Could integrate with QMP system
+- **Qatar Adaptation Potential**: Could integrate with FAWRAN system
 
 ## Implementation Roadmap
 ### Phase 1: Regulatory Sandbox (0-6 Months)
