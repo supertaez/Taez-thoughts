@@ -1,8 +1,8 @@
 ---
 title: "Synchronized Traffic Light Systems: A Comprehensive Research Analysis for Qatar Implementation"
-author: "Traffic Management Research"
-date: "2025-06-25"
-category: "Transportation Engineering"
+author: Traffic Management Research
+date: 2025-06-25
+category: Transportation Engineering
 tags:
   - traffic-management
   - green-wave-systems
@@ -13,10 +13,11 @@ tags:
   - traffic-synchronization
   - highway-connectivity
   - speed-limit-optimization
+  - Ashghal
 aliases:
-  - "Green Wave Traffic Systems"
-  - "Traffic Light Coordination"
-  - "Qatar Traffic Management"
+  - Green Wave Traffic Systems
+  - Traffic Light Coordination
+  - Qatar Traffic Management
 related_topics:
   - "[[Smart City Infrastructure]]"
   - "[[Urban Traffic Flow]]"
@@ -55,7 +56,7 @@ Qatar's road network presents unique opportunities for Green Wave implementation
 
 ### Optimal Implementation Corridors
 
-The most promising locations for pilot implementation would be the major highways entering and exiting Doha, specifically the corridors leading to Hamad International Airport, the Pearl Qatar, and the industrial areas of Mesaieed. These routes typically maintain speeds between 80-100 km/h and have relatively predictable traffic patterns.
+The most promising locations for pilot implementation would be the major highways entering and exiting Doha, specifically the corridors leading to Hamad International Airport, the Pearl Qatar, and the industrial areas of Mesaieed and Salwa . These routes typically maintain speeds between 80-100 km/h and have relatively predictable traffic patterns.
 
 The Corniche and major ring roads present additional opportunities, though their mixed-use nature would require more sophisticated timing algorithms to accommodate both high-speed through traffic and local access needs.
 
