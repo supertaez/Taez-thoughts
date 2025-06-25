@@ -102,7 +102,7 @@ Weather conditions, particularly the sandstorms common in Qatar, can affect visi
 
 Driver behavior represents perhaps the most significant implementation challenge. Green Wave systems require widespread compliance with speed limits and consistent driving patterns. Aggressive drivers who exceed speed limits or timid drivers who travel below limits can disrupt the synchronization for following traffic.
 
-Public education becomes crucial for system success. Drivers must understand that maintaining steady speeds at or slightly above the limit maximizes their chances of encountering green lights, while not maintaining typically results in more red lights and longer overall travel times.
+Public education becomes crucial for system success. Drivers must understand that maintaining steady speeds at or slightly above the limit maximizes their chances of encountering green lights, while not maintaining the average typically results in more red lights and longer overall travel times.
 
 Cultural adaptation may be necessary in Qatar's context, where driving behaviors have historically been influenced by less sophisticated traffic management systems.
 
