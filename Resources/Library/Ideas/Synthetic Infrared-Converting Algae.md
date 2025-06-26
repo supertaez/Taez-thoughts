@@ -115,7 +115,7 @@ The biological production of graphene would occur at ambient temperatures and pr
 
 ### Glass Panel Configuration
 
-The algae would be contained within sealed glass panels, creating controlled ecosystems that allow infrared radiation penetration while maintaining optimal biological conditions. These panels would function as:
+The algae would be contained within glass panels, creating controlled ecosystems that allow infrared radiation penetration while maintaining optimal biological conditions. These panels would function as:
 
 - **Biological reactors** for CO₂ processing
 - **Thermoelectric generators** for energy conversion
