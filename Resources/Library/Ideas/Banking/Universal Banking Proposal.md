@@ -198,7 +198,37 @@ The success of this system would depend on careful implementation, strong techni
 *This analysis represents a comprehensive examination of the proposed Qatar Universal CBDC system based on economic theory, international best practices, and strategic implementation considerations. The insights and recommendations provided here should inform policy discussions and implementation planning for this innovative financial architecture.*
 
 # Q&A:
-1. 
-The idea is the central bank will provide a Qatari riyal account to every resident in Qatar. The account will be held with qcb and no other bank is required for basic operations within the country. Every account holder which is every one in Qatar at any time will get a Himyan debit card and can use payment systems within Qatar like FAWRAN and RTGS and NAPS. 
-Discuss the advantages, challenges, risks and perks of implementing such a system and how it would impact the economy. Also what would the roles of other banks (local and global) be in this new reality
+1. The idea is the central bank will provide a Qatari riyal account to every resident in Qatar. The account will be held with qcb and no other bank is required for basic operations within the country. Every account holder which is every one in Qatar at any time will get a Himyan debit card and can use payment systems within Qatar like FAWRAN and RTGS and NAPS. 
+   Discuss the advantages, challenges, risks and perks of implementing such a system and how it would impact the economy. Also what would the roles of other banks (local and global) be in this new reality
 
+Searched for "Qatar Central Bank QCB digital currency CBDC implementation"
+
+Searched for "Qatar FAWRAN RTGS NAPS payment systems interbank"
+
+## Summary
+
+Your proposed system represents a revolutionary shift toward a **Central Bank Digital Currency (CBDC) with universal retail coverage** for Qatar. This concept goes beyond Qatar's current experimental CBDC program, which focuses on high-value payments and securities settlement among banks rather than retail transactions [Ledger Insights](https://www.ledgerinsights.com/qatar-completes-cbdc-infrastructure-build/
+
+Citations:
+- [Qatar completes CBDC infrastructure build - Ledger Insights - blockchain for enterprise](https://www.ledgerinsights.com/qatar-completes-cbdc-infrastructure-build/)
+- [Qatar Central Bank launches first phase of CBDC project](https://cointelegraph.com/news/qatar-central-bank-cbdc-project-launch)
+- [Fawran](https://www.qnb.com/sites/qnb/qnbqatar/page/en/enfawran.html)
+- [Transactions processed in QCB's payment and settlement systems total $.21trln in 2021](https://www.zawya.com/en/business/banking-and-insurance/transactions-processed-in-qcbs-payment-and-settlement-systems-total-21trln-in-2021-naks5lec)
+- [Widely used inter-bank payment system NAPS handles 120mn transactions in 2020 - Gulf Times](https://www.gulf-times.com/story/707349/Widely-used-inter-bank-payment-system-NAPS-handles-120mn-transactions-in-2020)
+
+More sources:
+- [Qatar Central Bank Announces Launch of Digital Currency Project](https://www.qna.org.qa/en/News-Area/News/2024-06/02/0017-qatar-central-bank-announces-launch-of-digital-currency-project)
+- [Digital Currency](https://www.qcb.gov.qa/en/FinancialInstrumentsAndPaymentSystems/Pages/Digital-Currency.aspx)
+- [CBDC Global Pioneers: A Roadmap for Gulf Countries - Middle East Council on Global Affairs](https://mecouncil.org/publication/cbdc-global-pioneers-a-roadmap-for-gulf-countries/)
+- [Qatar Central Bank Issues the Regulatory Framework for Digital Banks](https://www.qcb.gov.qa/en/News/Pages/12Dec2024.aspx)
+- [Qatar Central Bank working to issue digital currency: Governor | The Peninsula Qatar](https://thepeninsulaqatar.com/article/22/06/2022/qatar-central-bank-working-to-issue-digital-currency-governor)
+- [QCB readies infrastructure for Central Bank Digital Currency project - Gulf Times](https://www.gulf-times.com/article/683893/business/qcb-readies-infrastructure-for-central-bank-digital-currency-project)
+- [Qatar exploring digital banks and central bank digital currencies](https://cointelegraph.com/news/qatar-exploring-digital-banks-and-central-bank-digital-currencies)
+- [Qatar Central Bank in ‘foundation stage‘ of launching digital currency](https://cointelegraph.com/news/qatar-central-bank-in-foundation-stage-of-launching-digital-currency)
+- [Retail payment systems](https://www.qcb.gov.qa/en/Pages/Retail-payment-systems.aspx)
+- [Qatar Central Bank will launch FAWRAN instant payment service](https://www.qcb.gov.qa/en/News/Pages/19feb24.aspx)
+- [The Banking Network in Qatar - Marhaba Qatar](https://marhaba.qa/the-banking-network-in-qatar/)
+- [Qatar Central Bank - Electronic payments and settlements systems 1](http://www.qcb.gov.qa/English/FinancialStability/PaymentSystems/Pages/ElectronicPaymentSystems.aspx)
+- [IMPS vs. RTGS vs. NEFT: Meaning, full form, charges, key differences in India | Zoho Books](https://www.zoho.com/in/books/academy/accounting-principles/difference-between-neft-imps-rtgs.html)
+- [QCB aims to set up state of the art e-payment system before World Cup](https://www.qatarloving.com/articles/qcb-aims-to-set-up-state-of-the-art-e-payment-system-before-world-cup)
+- [RTGS / NEFT - FAQ](https://retail.onlinesbi.sbi/npersonal/neft_rtgs_faq.html)
