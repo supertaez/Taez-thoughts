@@ -197,4 +197,7 @@ The success of this system would depend on careful implementation, strong techni
 
 *This analysis represents a comprehensive examination of the proposed Qatar Universal CBDC system based on economic theory, international best practices, and strategic implementation considerations. The insights and recommendations provided here should inform policy discussions and implementation planning for this innovative financial architecture.*
 
-Q&A:
+# Q&A:
+
+The idea is the central bank will provide a Qatari riyal account to every resident in Qatar. The account will be held with qcb and no other bank is required for basic operations within the country. Every account holder which is every one in Qatar at any time will get a Himyan debit card and can use payment systems within Qatar like FAWRAN and RTGS and NAPS. 
+Discuss the advantages, challenges, risks and perks of implementing such a system and how it would impact the economy. Also what would the roles of other banks (local and global) be in this new reality
