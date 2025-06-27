@@ -200,7 +200,6 @@ The success of this system would depend on careful implementation, strong techni
 # Q&A:
 1. The idea is the central bank will provide a Qatari riyal account to every resident in Qatar. The account will be held with qcb and no other bank is required for basic operations within the country. Every account holder which is every one in Qatar at any time will get a Himyan debit card and can use payment systems within Qatar like FAWRAN and RTGS and NAPS. 
    Discuss the advantages, challenges, risks and perks of implementing such a system and how it would impact the economy. Also what would the roles of other banks (local and global) be in this new reality
-
 Your proposed system represents a revolutionary shift toward a **Central Bank Digital Currency (CBDC) with universal retail coverage** for Qatar. This concept goes beyond Qatar's current experimental CBDC program, which focuses on high-value payments and securities settlement among banks rather than retail transactions [Ledger Insights](https://www.ledgerinsights.com/qatar-completes-cbdc-infrastructure-build/
 
 Citations:
