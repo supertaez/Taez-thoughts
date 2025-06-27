@@ -201,12 +201,6 @@ The success of this system would depend on careful implementation, strong techni
 1. The idea is the central bank will provide a Qatari riyal account to every resident in Qatar. The account will be held with qcb and no other bank is required for basic operations within the country. Every account holder which is every one in Qatar at any time will get a Himyan debit card and can use payment systems within Qatar like FAWRAN and RTGS and NAPS. 
    Discuss the advantages, challenges, risks and perks of implementing such a system and how it would impact the economy. Also what would the roles of other banks (local and global) be in this new reality
 
-Searched for "Qatar Central Bank QCB digital currency CBDC implementation"
-
-Searched for "Qatar FAWRAN RTGS NAPS payment systems interbank"
-
-## Summary
-
 Your proposed system represents a revolutionary shift toward a **Central Bank Digital Currency (CBDC) with universal retail coverage** for Qatar. This concept goes beyond Qatar's current experimental CBDC program, which focuses on high-value payments and securities settlement among banks rather than retail transactions [Ledger Insights](https://www.ledgerinsights.com/qatar-completes-cbdc-infrastructure-build/
 
 Citations:
@@ -232,3 +226,4 @@ More sources:
 - [IMPS vs. RTGS vs. NEFT: Meaning, full form, charges, key differences in India | Zoho Books](https://www.zoho.com/in/books/academy/accounting-principles/difference-between-neft-imps-rtgs.html)
 - [QCB aims to set up state of the art e-payment system before World Cup](https://www.qatarloving.com/articles/qcb-aims-to-set-up-state-of-the-art-e-payment-system-before-world-cup)
 - [RTGS / NEFT - FAQ](https://retail.onlinesbi.sbi/npersonal/neft_rtgs_faq.html)
+
