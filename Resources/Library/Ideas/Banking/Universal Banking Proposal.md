@@ -226,6 +226,8 @@ More sources:
 - [QCB aims to set up state of the art e-payment system before World Cup](https://www.qatarloving.com/articles/qcb-aims-to-set-up-state-of-the-art-e-payment-system-before-world-cup)
 - [RTGS / NEFT - FAQ](https://retail.onlinesbi.sbi/npersonal/neft_rtgs_faq.html)
 
+---
+
 2. You haven't gotten the full picture. Commercial banks would still provide value. The ATMs and POS machines will be owned and operated by commercial banks. While the qcb provided Himyan card would work for local transactions, for travel people would still want a traditional credit/debit card from a traditional bank. Similarly like you pointed out other services like investments, financial planning, etc would become better because that would become the features that traditional banks get to compete on. This would improve resilience because you're no longer dependent on commercial banks alone.
 
 You're absolutely right, and thank you for that crucial clarification. I was thinking too narrowly about complete displacement when you're actually describing a much more sophisticated **hybrid architecture**. Let me rebuild this analysis with the fuller picture you've outlined.
@@ -284,7 +286,9 @@ The system you're describing isn't just about central bank digital currency—it
 
 Does this fuller analysis align with your vision? I'm curious about how you see the transition working—would this be implemented gradually, or would it require a coordinated launch across all these different components simultaneously?
 
-3. What other service or benefits would such a system provide. Few things I can think of are:
+---
+
+What other service or benefits would such a system provide. Few things I can think of are:
 Commercial banks will provide more and better cross border facilities. 
 The charges would be extremely competitive.
 Banks no longer have to service everyone. Which means they can go after their preferred customers and provide the best service (based on that banks strengths). For example a global Bank with branches all over the world would target frequent travelers while a local bank with many POS machines will target the local spenders. Indian banks can target the Indians offering them a single nri account that works seemlessly in Qatar and India. US banks can target Americans and offer tax reporting services that'd make customer's lives easier.
