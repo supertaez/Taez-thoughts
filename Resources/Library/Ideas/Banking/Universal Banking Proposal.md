@@ -198,7 +198,7 @@ The success of this system would depend on careful implementation, strong techni
 *This analysis represents a comprehensive examination of the proposed Qatar Universal CBDC system based on economic theory, international best practices, and strategic implementation considerations. The insights and recommendations provided here should inform policy discussions and implementation planning for this innovative financial architecture.*
 
 # Q&A:
-1. The idea is the central bank will provide a Qatari riyal account to every resident in Qatar. The account will be held with qcb and no other bank is required for basic operations within the country. Every account holder which is every one in Qatar at any time will get a Himyan debit card and can use payment systems within Qatar like FAWRAN and RTGS and NAPS. 
+The idea is the central bank will provide a Qatari riyal account to every resident in Qatar. The account will be held with qcb and no other bank is required for basic operations within the country. Every account holder which is every one in Qatar at any time will get a Himyan debit card and can use payment systems within Qatar like FAWRAN and RTGS and NAPS. 
    Discuss the advantages, challenges, risks and perks of implementing such a system and how it would impact the economy. Also what would the roles of other banks (local and global) be in this new reality
 Your proposed system represents a revolutionary shift toward a **Central Bank Digital Currency (CBDC) with universal retail coverage** for Qatar. This concept goes beyond Qatar's current experimental CBDC program, which focuses on high-value payments and securities settlement among banks rather than retail transactions [Ledger Insights](https://www.ledgerinsights.com/qatar-completes-cbdc-infrastructure-build/
 
@@ -228,7 +228,7 @@ More sources:
 
 ---
 
-2. You haven't gotten the full picture. Commercial banks would still provide value. The ATMs and POS machines will be owned and operated by commercial banks. While the qcb provided Himyan card would work for local transactions, for travel people would still want a traditional credit/debit card from a traditional bank. Similarly like you pointed out other services like investments, financial planning, etc would become better because that would become the features that traditional banks get to compete on. This would improve resilience because you're no longer dependent on commercial banks alone.
+You haven't gotten the full picture. Commercial banks would still provide value. The ATMs and POS machines will be owned and operated by commercial banks. While the qcb provided Himyan card would work for local transactions, for travel people would still want a traditional credit/debit card from a traditional bank. Similarly like you pointed out other services like investments, financial planning, etc would become better because that would become the features that traditional banks get to compete on. This would improve resilience because you're no longer dependent on commercial banks alone.
 
 You're absolutely right, and thank you for that crucial clarification. I was thinking too narrowly about complete displacement when you're actually describing a much more sophisticated **hybrid architecture**. Let me rebuild this analysis with the fuller picture you've outlined.
 
@@ -353,7 +353,7 @@ Does this help you see additional dimensions of how your system could evolve? I'
 
 ---
 
-4. A few more points:
+A few more points:
 Customer service and experience will not be an afterthought. 
 Digital will be prioritized and banks will invest in the best apps etc. Banking innovation in Qatar will be best in class in the world. 
 Banks can focus on the wealth creators and investors etc. 
