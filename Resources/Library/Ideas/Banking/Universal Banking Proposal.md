@@ -1,12 +1,11 @@
 ---
-title: "Qatar Universal Central Bank Digital Currency System: A Revolutionary Financial Architecture"
+title: "Qatar Universal Central Bank Digital account: A Revolutionary Financial Architecture"
 date: 2025-06-27
 author: Financial Systems Analysis
 status: Research Analysis
 type: Economic Policy Research
 region: Qatar, GCC
 tags:
-  - central-bank-digital-currency
   - financial-inclusion
   - banking-innovation
   - qatar-economy
