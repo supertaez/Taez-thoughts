@@ -439,7 +439,7 @@ The QCB also evaluates each bank's cultural alignment with the universal access 
 ### Phase 2: Strategic Partnership Development with Pilot Bank (Months 13-18)
 **Objective: Establish partnership framework and prepare systems for universal account creation**
 
-Based on the assessment, the QCB selects a pilot partner bank, likely Qatar National Bank given its scale and government relationship. However, the selection process considers multiple factors beyond just size. The chosen bank must demonstrate technical excellence, operational reliability, and cultural commitment to universal service.
+Based on the assessment, the QCB selects a pilot partner bank, for example Qatar National Bank given its scale and government relationship. However, the selection process considers multiple factors beyond just size. The chosen bank must demonstrate technical excellence, operational reliability, and cultural commitment to universal service.
 
 The partnership agreement establishes what lawyers call a "hybrid governance structure" where the QCB maintains ultimate oversight while the partner bank handles operational execution. This arrangement allows the QCB to ensure systemic objectives are met while leveraging the bank's existing expertise in customer service, transaction processing, and day-to-day banking operations.
 
