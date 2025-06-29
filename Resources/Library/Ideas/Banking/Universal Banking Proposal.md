@@ -410,7 +410,7 @@ Does this help you see how these elements would work together to create such pow
 
 ***
 
-# Qatar Universal CBDC System: Partnership-Based Implementation Strategy
+# Qatar Universal CBDA System: Partnership-Based Implementation Strategy
 
 ## Understanding the Partnership Philosophy
 
