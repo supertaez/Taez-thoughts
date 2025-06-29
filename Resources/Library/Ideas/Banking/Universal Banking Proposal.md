@@ -26,7 +26,7 @@ aliases:
 
 ## Executive Overview
 
-The proposed Qatar Central Bank (QCB) universal digital currency system represents a paradigm shift in financial architecture that combines the accessibility of public utility banking with the innovation incentives of competitive financial markets. This system would provide every Qatar resident with a direct QCB account and Himyan debit card, while repositioning commercial banks to focus on specialized, value-added services rather than basic transaction processing.
+The proposed Qatar Central Bank (QCB) universal digital account represents a paradigm shift in financial architecture that combines the accessibility of public utility banking with the innovation incentives of competitive financial markets. This system would provide every Qatar resident with a direct QCB account and Himyan debit card, while repositioning commercial banks to focus on specialized, value-added services rather than basic transaction processing.
 
 > [!abstract] Core Concept
 > This hybrid model creates what economists call **allocative efficiency** by separating basic financial infrastructure (handled as a public utility) from specialized financial services (handled through market competition). The result could be both universal financial inclusion and accelerated innovation in financial services.
