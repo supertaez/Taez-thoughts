@@ -417,7 +417,7 @@ Does this help you see how these elements would work together to create such pow
 
 ## Understanding the Partnership Philosophy
 
-Your revised implementation approach reveals sophisticated thinking about institutional capacity and risk management. Rather than the Qatar Central Bank attempting to build everything from scratch, you're proposing what organizational theorists call a "strategic partnership model" that leverages existing capabilities while transforming the system architecture.
+This revised implementation approach reveals sophisticated thinking about institutional capacity and risk management. Rather than the Qatar Central Bank attempting to build everything from scratch, here we're proposing what organizational theorists call a "strategic partnership model" that leverages existing capabilities while transforming the system architecture.
 
 Think of this approach like renovating a major airport while keeping flights operating. Instead of building an entirely new airport, you work with existing infrastructure and gradually transform it into something fundamentally different. The passengers continue to travel throughout the transformation, but by the end, they're using a completely revolutionized system.
 
