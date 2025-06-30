@@ -74,13 +74,13 @@ In essence, it encourages mindfulness when evaluating others’ words. If someon
 ## Similar Quotes and Their Meanings
 
 1. **“Not all opinions deserve space in our minds.”**  
-   - This reinforces Haig’s idea that only meaningful critiques should shape our thoughts [[2]].
+   - This reinforces Haig’s idea that only meaningful critiques should shape our thoughts.
 
 2. **“Beware of your shadow self.”** – Carl Jung  
-   - Jung discusses the unconscious parts of ourselves that may amplify insecurities triggered by external criticism [[5]].
+   - Jung discusses the unconscious parts of ourselves that may amplify insecurities triggered by external criticism.
 
 3. **“Comparison is the thief of joy.”** – Theodore Roosevelt  
-   - While not directly related, this highlights the dangers of envying others’ achievements—a theme Haig also touches upon [[1]].
+   - While not directly related, this highlights the dangers of envying others’ achievements—a theme Haig also touches upon.
 
 ---
 
