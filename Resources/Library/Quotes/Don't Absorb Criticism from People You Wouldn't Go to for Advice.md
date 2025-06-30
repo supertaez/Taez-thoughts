@@ -13,15 +13,15 @@ related_notes:
 # Notes on Matt Haig's Quote: *Don't Absorb Criticism from People You Wouldn't Go to for Advice*
 
 > **"Don’t absorb criticism from people you wouldn’t go to for advice."**  
-> — Matt Haig [[1]]
+> — Matt Haig
 
-This quote is a powerful reminder of the importance of filtering external opinions and aligning them with your values. It comes from Matt Haig’s widely acclaimed book *The Comfort Book*, which serves as a collection of reflections aimed at helping readers navigate life’s challenges [[3]]. Below, we explore this quote extensively through its meaning, applications, key takeaways, connections to other works, practical activities, and resources.
+This quote is a powerful reminder of the importance of filtering external opinions and aligning them with your values. It comes from Matt Haig’s widely acclaimed book *The Comfort Book*, which serves as a collection of reflections aimed at helping readers navigate life’s challenges. Below, we explore this quote extensively through its meaning, applications, key takeaways, connections to other works, practical activities, and resources.
 
 ---
 
 ## Summary/Plot/Meaning
 
-Matt Haig emphasizes the need to be selective about whose opinions we internalize. The quote suggests that not all criticism holds weight—only feedback from those who genuinely understand us or have earned our trust should influence how we perceive ourselves or our actions. By rejecting unconstructive criticism, we protect our mental well-being and focus on what truly matters [[4]].
+Matt Haig emphasizes the need to be selective about whose opinions we internalize. The quote suggests that not all criticism holds weight—only feedback from those who genuinely understand us or have earned our trust should influence how we perceive ourselves or our actions. By rejecting unconstructive criticism, we protect our mental well-being and focus on what truly matters.
 
 In essence, it encourages mindfulness when evaluating others’ words. If someone isn’t qualified to give you advice (based on their knowledge, experience, or intentions), then their critique likely lacks value.
 
