@@ -88,7 +88,7 @@ In essence, it encourages mindfulness when evaluating others’ words. If someon
 
 ### Printable Affirmations Poster
 Download a free poster featuring Haig’s quote here:  
-[![Affirmations Poster](https://example.com/matt-haig-quote-poster.jpg)](https://example.com/matt-haig-quote-poster)
+[![Affirmations Poster](https://example.com/matt-haig-quote-poster.jpg)](https://zandahealth.com/media/sites/2/Affirmations_Posters.pdf) 
 
 ### Criticism Filtering Worksheet
 Access an interactive worksheet designed to help you categorize and process feedback effectively: [Criticism Filtering Worksheet](https://example.com/criticism-worksheet)
