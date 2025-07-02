@@ -141,7 +141,3 @@ graph TD
 - [[The Hidden Life of Trees]]: Explores plant sentience.
 - [[Panpsychism]]: Philosophical roots of universal consciousness.
 - [[Biomimicry Institute]]: Resources for applying nature’s cellular strategies to technology.
-
-``` 
-
-**Note**: Replace placeholder URLs (e.g., `https://example.com/...`) with actual resources after verifying availability. All citations reference the provided `web_search` content –.
