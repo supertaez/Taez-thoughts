@@ -4,8 +4,7 @@ author: Arthur S. Reber, František Baluška, William Miller
 publication_date: 2023-2024 (approximate)
 genre: Cognitive Science, Biology, Philosophy
 themes: Consciousness, Cellular Intelligence, Evolution, Panpsychism
-tags: 
-#consciousness 
+tags: #consciousness 
 #biology 
 #philosophy 
 #evolution 
