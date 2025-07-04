@@ -106,6 +106,7 @@ El Akkad’s journalistic background informs his methodical analysis, blending f
 
 # Objectives & Tracking  
 **90-Day Goal**: Deepen understanding of systemic oppression and develop actionable strategies for change.  
+
 | Week | Objective |  
 |------|-----------|  
 | 1 | Read 2 chapters + annotate quotes |  
