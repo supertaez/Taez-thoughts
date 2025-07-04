@@ -19,34 +19,34 @@ related_notes:
 
 # Summary & Plot Analysis  
 Omar El Akkad’s *One Day, Everyone Will Have Always Been Against This* is an **urgent reckoning** with the paradoxes of Western modernity. Through essays and narrative nonfiction, El Akkad dissects how Western nations perpetuate systems of inequality while claiming moral superiority. The book critiques topics such as:  
-- **Militant imperialism** disguised as humanitarian intervention [[1]]  
+- **Militant imperialism** disguised as humanitarian intervention
 - The commodification of activism in the digital age  
 - Historical amnesia surrounding colonialism’s legacy  
 - The erosion of empathy in hyper-capitalist societies  
 
-El Akkad’s journalistic background informs his methodical analysis, blending firsthand accounts of global conflicts with philosophical reflections on human nature [[4]].  
+El Akkad’s journalistic background informs his methodical analysis, blending firsthand accounts of global conflicts with philosophical reflections on human nature.  
 
 ---
 
 # Key Takeaways & Learnings  
 1. **The Illusion of Moral Progress**  
-   Western societies often frame themselves as bastions of democracy and justice, yet their actions—both historical and contemporary—reveal systemic betrayal of these ideals [[5]].  
+   Western societies often frame themselves as bastions of democracy and justice, yet their actions—both historical and contemporary—reveal systemic betrayal of these ideals.  
    - *Connection*: Compare to Edward Said’s *Orientalism*, which explores how the West constructs dehumanizing narratives about the Global South.  
 
 2. **Complicity Through Silence**  
    The book argues that passive acceptance of unjust systems makes individuals complicit in perpetuating them. El Akkad urges readers to move beyond performative allyship toward actionable accountability.  
 
 3. **The Weaponization of Memory**  
-   El Akkad examines how societies selectively remember history to absolve themselves of guilt, drawing parallels to the erasure of Indigenous and marginalized voices [[7]].  
+   El Akkad examines how societies selectively remember history to absolve themselves of guilt, drawing parallels to the erasure of Indigenous and marginalized voices.  
 
 ---
 
 # Quotes & Explanations  
 > **“One day, everyone will have always been against this.”**  
-> This titular quote critiques the human tendency to feign opposition to injustice *after* it becomes socially unacceptable, while remaining indifferent during its perpetration [[1]].  
+> This titular quote critiques the human tendency to feign opposition to injustice *after* it becomes socially unacceptable, while remaining indifferent during its perpetration.  
 
 > **“The West betrays its fundamental values.”**  
-> El Akkad highlights contradictions like supporting democracy abroad while tolerating authoritarian practices at home, or championing freedom while enabling economic exploitation [[6]].  
+> El Akkad highlights contradictions like supporting democracy abroad while tolerating authoritarian practices at home, or championing freedom while enabling economic exploitation.  
 
 ---
 
