@@ -26,24 +26,24 @@ Wolf uses metaphors like the squid (symbolizing adaptability) and Proust (repres
    Dyslexic individuals often excel in spatial reasoning and creativity. Wolf emphasizes early intervention and multisensory teaching methods rather than pathologizing differences.  
 
 4. **Threats to Deep Reading**  
-   Digital culture risks eroding patience for sustained attention, potentially diminishing empathy and critical analysis. Wolf warns of a “skimming society” [[1]][[4]].  
+   Digital culture risks eroding patience for sustained attention, potentially diminishing empathy and critical analysis. Wolf warns of a “skimming society”.  
 
 ---
 
 ## Quotes & Explanations
-> “The act of reading is the creation of a new circuit in the brain, formed from connections among existing structures.” [[5]]  
+> “The act of reading is the creation of a new circuit in the brain, formed from connections among existing structures.”
 > *Explanation*: Reading is a learned skill, not hardwired. This underscores the brain’s adaptability and the importance of nurturing literacy early.  
 
-> “We are shaped by the tools we use—and reading may be the most shape-shifting of them all.” [[6]]  
+> “We are shaped by the tools we use—and reading may be the most shape-shifting of them all.”
 > *Explanation*: Literacy alters how humans think, feel, and interact with the world, influencing cultural and individual identity.  
 
 ---
 
 ## Practical Applications
 ### Daily Habits
-- **Mindful Reading**: Dedicate 20–30 minutes daily to deep reading (e.g., novels, essays) to strengthen neural pathways [[4]].  
-- **Multisensory Learning**: For children, pair phonics with tactile activities (e.g., tracing letters in sand) to reinforce literacy skills [[7]].  
-- **Digital Detox**: Limit screen time before reading sessions to reduce cognitive overload [[1]].  
+- **Mindful Reading**: Dedicate 20–30 minutes daily to deep reading (e.g., novels, essays) to strengthen neural pathways.  
+- **Multisensory Learning**: For children, pair phonics with tactile activities (e.g., tracing letters in sand) to reinforce literacy skills.  
+- **Digital Detox**: Limit screen time before reading sessions to reduce cognitive overload.  
 
 ### Objectives & Activities
 - **Objective**: Improve comprehension and focus.  
