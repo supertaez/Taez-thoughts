@@ -69,12 +69,12 @@ Wolf uses metaphors like the squid (symbolizing adaptability) and Proust (repres
 |-------|--------|------------|  
 | *The Shallows* | Nicholas Carr | Explores digital distractions vs. deep reading. |  
 | *Reading in the Brain* | Stanislas Dehaene | Neuroscientific basis of literacy. |  
-| *Dyslexia, Dysgraphia, OWL LD, and Dyscalculia: Lessons from Science and Teaching* | Nancy Mather & Barbara J. Wendling | Practical strategies for neurodiverse learners [[7]]. |  
+| *Dyslexia, Dysgraphia, OWL LD, and Dyscalculia: Lessons from Science and Teaching* | Nancy Mather & Barbara J. Wendling | Practical strategies for neurodiverse learners. |  
 
 ### Videos & Online Resources
-- [Maryanne Wolf on “The Future of the Reading Brain”](https://www.youtube.com/watch?v=abc123) (TEDx Talk) [[7]].  
-- [Free Dyslexia Screening Tool]( https://dyslexiaida.org/screening-tools/ ) from the International Dyslexia Association [[7]].  
-- [Printable Reading Comprehension Worksheets](https://www.k12reader.com ) for educators [[8]].  
+- [Maryanne Wolf on “The Future of the Reading Brain”](https://www.youtube.com/watch?v=abc123) (TEDx Talk).  
+- [Free Dyslexia Screening Tool]( https://dyslexiaida.org/screening-tools/ ) from the International Dyslexia Association.  
+- [Printable Reading Comprehension Worksheets](https://www.k12reader.com ) for educators.  
 
 ---
 
@@ -86,7 +86,7 @@ Wolf uses metaphors like the squid (symbolizing adaptability) and Proust (repres
 
 ## Callouts
 > [!info] **Interdisciplinary Insights**  
-> Wolf bridges archaeology, linguistics, and neuroscience—e.g., how Sumerian cuneiform influenced abstract reasoning [[1]][[6]].  
+> Wolf bridges archaeology, linguistics, and neuroscience—e.g., how Sumerian cuneiform influenced abstract reasoning.  
 
 > [!danger] **Digital Age Risks**  
 > Wolf warns that constant multitasking may truncate the brain’s capacity for empathy and reflection.  
