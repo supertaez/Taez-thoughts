@@ -1,7 +1,12 @@
 ---
-title: Book Notes - Proust and the Squid: The Story and Science of the Reading Brain
+title: Book Notes - Proust and the Squid The Story and Science of the Reading Brain
 author: Maryanne Wolf
-tags: #reading-brain #neuroscience #education #literacy #cognitive-science
+tags: 
+- reading-brain 
+- neuroscience 
+- education 
+- literacy 
+- cognitive-science
 date: 2025-07-07
 ---
 
