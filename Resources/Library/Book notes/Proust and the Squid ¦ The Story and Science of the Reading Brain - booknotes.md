@@ -47,28 +47,28 @@ Wolf uses metaphors like the squid (symbolizing adaptability) and Proust (repres
 
 ### Objectives & Activities
 - **Objective**: Improve comprehension and focus.  
-  *Activity*: Use the “SQ3R” method (Survey, Question, Read, Recite, Review) for academic texts [[8]].  
+  *Activity*: Use the “SQ3R” method (Survey, Question, Read, Recite, Review) for academic texts.  
 - **Objective**: Support dyslexic learners.  
-  *Activity*: Implement Orton-Gillingham-based strategies (e.g., phonemic awareness games) [[2]].  
+  *Activity*: Implement Orton-Gillingham-based strategies (e.g., phonemic awareness games).  
 
 ### Assessments
-- **Progress Tracking**: Use tools like Lexile levels or fluency assessments to monitor reading development [[6]].  
-- **Dyslexia Screening**: Early identification via phonological awareness tests (e.g., rhyming tasks) [[7]].  
+- **Progress Tracking**: Use tools like Lexile levels or fluency assessments to monitor reading development.  
+- **Dyslexia Screening**: Early identification via phonological awareness tests (e.g., rhyming tasks).  
 
 ---
 
 ## Related Notes & Connections
-- **Brain Plasticity**: See [Norman Doidge’s *The Brain That Changes Itself*](https://www.goodreads.com/book/show/977.The_Brain_That_Changes_Itself ) for parallels in neuroplasticity [[5]].  
-- **Digital Literacy**: Compare Wolf’s concerns with Nicholas Carr’s *The Shallows* on technology’s impact on cognition [[1]].  
-- **Evolution of Writing**: Link to Jared Diamond’s *Guns, Germs, and Steel* for how writing systems drove civilization [[6]].  
+- **Brain Plasticity**: See [Norman Doidge’s *The Brain That Changes Itself*](https://www.goodreads.com/book/show/977.The_Brain_That_Changes_Itself ) for parallels in neuroplasticity.  
+- **Digital Literacy**: Compare Wolf’s concerns with Nicholas Carr’s *The Shallows* on technology’s impact on cognition.  
+- **Evolution of Writing**: Link to Jared Diamond’s *Guns, Germs, and Steel* for how writing systems drove civilization.  
 
 ---
 
 ## Similar Books & Resources
 | Title | Author | Connection |  
 |-------|--------|------------|  
-| *The Shallows* | Nicholas Carr | Explores digital distractions vs. deep reading [[1]]. |  
-| *Reading in the Brain* | Stanislas Dehaene | Neuroscientific basis of literacy [[5]]. |  
+| *The Shallows* | Nicholas Carr | Explores digital distractions vs. deep reading. |  
+| *Reading in the Brain* | Stanislas Dehaene | Neuroscientific basis of literacy. |  
 | *Dyslexia, Dysgraphia, OWL LD, and Dyscalculia: Lessons from Science and Teaching* | Nancy Mather & Barbara J. Wendling | Practical strategies for neurodiverse learners [[7]]. |  
 
 ### Videos & Online Resources
