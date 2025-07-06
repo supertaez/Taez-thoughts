@@ -7,23 +7,23 @@ date: 2025-07-07
 
 ## Summary / Plot Overview
 Maryanne Wolf’s *Proust and the Squid* explores the evolution of the human brain’s ability to read, blending neuroscience, history, and education. The book is structured into three parts:  
-1. **Transition from Oral to Textual Cultures**: Examines how humans invented writing systems and shifted from oral traditions to written language, reshaping cognition [[2]].  
-2. **Neural Development of the Reading Brain**: Details how children acquire reading skills, emphasizing the brain’s plasticity and the complex neural networks involved [[5]][[6]].  
-3. **Dyslexia and the Reading Process**: Investigates challenges faced by dyslexic learners, advocating for tailored educational approaches to support diverse cognitive pathways [[2]][[7]].  
+1. **Transition from Oral to Textual Cultures**: Examines how humans invented writing systems and shifted from oral traditions to written language, reshaping cognition.  
+2. **Neural Development of the Reading Brain**: Details how children acquire reading skills, emphasizing the brain’s plasticity and the complex neural networks involved.  
+3. **Dyslexia and the Reading Process**: Investigates challenges faced by dyslexic learners, advocating for tailored educational approaches to support diverse cognitive pathways.  
 
-Wolf uses metaphors like the squid (symbolizing adaptability) and Proust (representing deep reading) to illustrate the tension between rapid information processing and contemplative thought [[1]][[4]].
+Wolf uses metaphors like the squid (symbolizing adaptability) and Proust (representing deep reading) to illustrate the tension between rapid information processing and contemplative thought.
 
 ---
 
 ## Key Takeaways & Learnings
 1. **Reading is Not Innate**  
-   Unlike vision or speech, reading requires deliberate neural rewiring. The brain “recycles” existing circuits for visual and linguistic processing to create a “reading network” [[5]][[6]].  
+   Unlike vision or speech, reading requires deliberate neural rewiring. The brain “recycles” existing circuits for visual and linguistic processing to create a “reading network”.  
 
 2. **Cultural Evolution of Literacy**  
-   Writing systems (e.g., cuneiform, alphabets) transformed human cognition, enabling abstract thinking and knowledge preservation. Wolf argues literacy shaped societal progress as much as fire or agriculture [[4]][[6]].  
+   Writing systems (e.g., cuneiform, alphabets) transformed human cognition, enabling abstract thinking and knowledge preservation. Wolf argues literacy shaped societal progress as much as fire or agriculture.  
 
 3. **Dyslexia as a Neurodiverse Strength**  
-   Dyslexic individuals often excel in spatial reasoning and creativity. Wolf emphasizes early intervention and multisensory teaching methods rather than pathologizing differences [[2]][[7]].  
+   Dyslexic individuals often excel in spatial reasoning and creativity. Wolf emphasizes early intervention and multisensory teaching methods rather than pathologizing differences.  
 
 4. **Threats to Deep Reading**  
    Digital culture risks eroding patience for sustained attention, potentially diminishing empathy and critical analysis. Wolf warns of a “skimming society” [[1]][[4]].  
