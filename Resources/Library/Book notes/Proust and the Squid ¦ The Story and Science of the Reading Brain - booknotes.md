@@ -105,3 +105,4 @@ Wolf uses metaphors like the squid (symbolizing adaptability) and Proust (repres
 - [[Neuroscience]]  
 
 > [Download PDF Summary](https://example.com/proust-squid-summary.pdf ) (Hypothetical freebie link)  
+---
