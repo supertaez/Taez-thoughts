@@ -25,6 +25,7 @@ url: [https://kevineikenberry.com/products/the-long-distance-leader](https://kev
     - Implement "Results-Only Work Environment" (ROWE) principles  
 2.  **Others**   
     - Build trust through the **Trust Triangle**:   
+  
       ```mermaid  
       graph LR  
       A[Common Purpose] --> B[Competence]  
