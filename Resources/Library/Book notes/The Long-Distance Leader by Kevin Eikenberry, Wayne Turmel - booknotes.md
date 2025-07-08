@@ -174,4 +174,3 @@ Enduring framework elements:
 4.  **Outcome Focus**
 
 **Related Notes**: [[Remote Team Rituals]], [[Hybrid Meeting Protocols]], [[Virtual Feedback Models]]
-```
