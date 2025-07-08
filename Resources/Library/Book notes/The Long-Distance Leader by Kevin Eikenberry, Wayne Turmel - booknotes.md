@@ -42,6 +42,7 @@ url: "https://kevineikenberry.com/products/the-long-distance-leader/"
 
 3.  **Ourselves**  
     - Establish boundaries using the **Power Hour Framework**:
+    
 | Time Block | Focus Area | Example Activities |
 |------------|------------|---------------------|
 | First 20m | Planning | Prioritize daily outcomes |
