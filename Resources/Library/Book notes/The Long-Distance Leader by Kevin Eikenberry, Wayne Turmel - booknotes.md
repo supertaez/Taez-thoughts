@@ -1,14 +1,13 @@
 ---
-
+author: Kevin Eikenberry, Wayne Turmel
+aliases: Long-Distance Leadership Principles, Remote Leadership Framework
 tags:  
 - leadership/remote  
 - leadership/hybrid  
 - management/remote-work  
 - book-summary  
-aliases: Long-Distance Leadership Principles, Remote Leadership Framework  
 created: [2025-07-08](tel:20250708)  
 modified: [2025-07-08](tel:20250708)  
-author: Kevin Eikenberry, Wayne Turmel  
 publisher: Berrett-Koehler Publishers  
 year: 2018 (2nd ed. 2024)  
 url: [https://kevineikenberry.com/products/the-long-distance-leader](https://kevineikenberry.com/products/the-long-distance-leader)
