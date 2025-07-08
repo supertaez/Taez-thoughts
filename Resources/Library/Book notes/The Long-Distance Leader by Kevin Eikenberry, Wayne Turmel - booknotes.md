@@ -41,12 +41,12 @@ url: "https://kevineikenberry.com/products/the-long-distance-leader/"
     - Adapt to individual work styles using behavioral assessments
 
 3.  **Ourselves**  
-    - Establish boundaries using the **Power Hour Framework**:  
-      | Time Block | Focus Area | Example Activities |
-      |------------|------------|---------------------|
-      | First 20m | Planning | Prioritize daily outcomes |
-      | Next 20m | People | Check-ins, recognition |
-      | Last 20m | Personal Growth | Skill development |
+    - Establish boundaries using the **Power Hour Framework**:
+| Time Block | Focus Area | Example Activities |
+|------------|------------|---------------------|
+| First 20m | Planning | Prioritize daily outcomes |
+| Next 20m | People | Check-ins, recognition |
+| Last 20m | Personal Growth | Skill development |
 
 ### ⚙️ Remote Leadership Model
 *Technology integration framework:*
