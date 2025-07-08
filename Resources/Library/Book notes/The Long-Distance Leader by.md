@@ -12,6 +12,7 @@ publisher: Berrett-Koehler Publishers
 year: 2018 (2nd ed. 2024)  
 url: [https://kevineikenberry.com/products/the-long-distance-leader](https://kevineikenberry.com/products/the-long-distance-leader)/  
 ---  
+
 # The Long-Distance Leader: Rules for Remarkable Remote Leadership  
 > **Leadership Principle**   
 > "Think leadership first, location second."  
