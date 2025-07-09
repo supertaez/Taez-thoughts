@@ -17,17 +17,7 @@ Wait, the user specified that the answer should be an Obsidian markdown file. So
 
 Let me structure this step by step. Start with the properties. The title is the book name, author Peter Hinssen, tags like #book_notes #innovation #business. Then sections: Summary/Plot, Key Takeaways, Quotes, Practical Applications, Related Notes, Similar Books/Articles/Movies, Daily Habits, etc.
 
-For the summary, need to capture the essence. The book is about how companies can survive disruptive innovation by anticipating the future. The seven shifts: maybe from product to service, ownership to access, etc. Need to verify the exact seven shifts from the book.
-
-Key takeaways: The importance of the "day after tomorrow" thinking, the seven shifts, the role of data and customer-centricity. Quotes: Find exact quotes from the book. Maybe check the book's website or reviews for exact quotes if I don't have the text.
-
-Practical applications: How to apply the seven shifts in a company or personal career. Daily habits could be things like reading industry trends, networking, experimenting with new technologies.
-
-Related notes: Link to other book notes if they exist in the Obsidian vault. Since this is a single file, maybe just mention them without internal links. But the user said to include links to other notes and research. So if there's a note on "The Innovator's Dilemma," link to it using [[Note Name]].
-
-Similar 
-
-```markdown
+For the summary, need to capture the essence. 
 ---
 title: The Day after Tomorrow: How to Survive in Times of Radical Innovation
 author: Peter Hinssen
