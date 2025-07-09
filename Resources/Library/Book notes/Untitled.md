@@ -50,37 +50,7 @@ Assessments: Maybe frameworks from the book to assess a company's readiness for 
 Need to make sure the Obsidian file is comprehensive. Let me outline each section with possible content.
 
 Properties:
-- title: The Day after Tomorrow: How to Survive in Times of Radical Innovation
-- author: Peter Hinssen
-- tags: #book_notes #innovation #business_strategy #technology #disruption
-- related_notes: [[The Innovator's Dilemma]], [[Zero to One]], etc.
-
-Summary/Plot: A brief overview of the book's thesis. The "day after tomorrow" concept, seven shifts, case studies.
-
-Key Takeaways: Bullet points of main ideas.
-
-Quotes: List quotes with explanations.
-
-Practical Applications: How to apply the concepts in business or personal life.
-
-Related Notes: Links to other book notes.
-
-Similar Books/Articles/Movies: List with brief descriptions.
-
-Daily Habits: Specific actions derived from the book's advice.
-
-Online Resources: Links to videos, articles, tools.
-
-Graphics: Images of the book cover, maybe an infographic from the book's website.
-
-Tables: Comparisons between traditional and innovative approaches.
-
-Callouts: Highlight key points.
-
-Wait, the user also mentioned include objectives, activities, assessments if available. The book might not have specific daily objectives, but maybe frameworks or assessments. For example, a checklist to evaluate if a company is prepared for radical innovation.
-
-I need to make sure all sections are covered. Let me start drafting each part, ensuring that links are valid and content is accurate. Since I can't access the book directly, I'll have to rely on publicly available summaries, reviews, and the author's content to gather the necessary information. Also, ensure that all external links are correctly formatted and working.
-</think>
+- title: The Day after Tomorrow: How to Survive in 
 
 ```markdown
 ---
