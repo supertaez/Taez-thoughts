@@ -59,12 +59,12 @@ related_notes:
 ## Practical Applications 🛠️
 ### For Businesses:
 - **Adopt the Seven Shifts**:  
-  
+
 | Traditional Approach | "Day after Tomorrow" Approach |  
-  |----------------------|--------------------------------|  
-  | Sell products        | Offer subscription services  |  
-  | Siloed departments  | Cross-functional teams       |  
-  | Annual planning      | Real-time strategy updates   |  
+|----------------------|--------------------------------|  
+| Sell products        | Offer subscription services  |  
+| Siloed departments  | Cross-functional teams       |  
+| Annual planning      | Real-time strategy updates   |  
 
 - **Case Study**: Netflix transitioned from DVD rentals (product/ownership) to streaming (service/access), aligning with shifts 1 and 2.
 
