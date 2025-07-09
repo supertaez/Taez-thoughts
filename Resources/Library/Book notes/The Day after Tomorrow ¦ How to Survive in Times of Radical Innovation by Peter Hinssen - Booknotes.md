@@ -1,5 +1,5 @@
 ---
-title: The Day after Tomorrow: How to Survive in Times of Radical Innovation
+title: The Day after Tomorrow¦ How to Survive in Times of Radical Innovation
 author: Peter Hinssen
 tags: 
 - book_notes
@@ -9,7 +9,7 @@ tags:
 - disruption
 - future_trends
 related_notes:
--- [[The Innovator's Dilemma]]
+- [[The Innovator's Dilemma]]
 - [[Zero to One]]
 - [[Crossing the Chasm]]
 - [[The Lean Startup]]
