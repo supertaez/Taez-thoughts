@@ -25,32 +25,7 @@ Practical applications: How to apply the seven shifts in a company or personal c
 
 Related notes: Link to other book notes if they exist in the Obsidian vault. Since this is a single file, maybe just mention them without internal links. But the user said to include links to other notes and research. So if there's a note on "The Innovator's Dilemma," link to it using [[Note Name]].
 
-Similar books: "The Innovator's Dilemma," "Zero to One," "Crossing the Chasm," "The Lean Startup." Maybe "The Second Machine Age" by Brynjolfsson and McAfee.
-
-Movies: "The Social Network," "Steve Jobs" (2015 film), "Inside Bill's Brain: Decoding Bill Gates."
-
-Online resources: Look up Peter Hinssen's talks on YouTube. For example, maybe a TED Talk or a keynote speech. Check if his website has resources. Also, check if the book has any companion materials or free downloads.
-
-Graphics: Find images related to the book. Maybe the book cover image from Amazon or a relevant infographic. Use a URL like https://example.com/image.jpg. Also, maybe a mind map image if available.
-
-Tables: Compare traditional vs. "Day after Tomorrow" companies. Create a table with columns for aspects like mindset, approach to innovation, structure, etc.
-
-Callouts: Use > for important points. Maybe highlight key quotes or takeaways.
-
-Need to ensure all links are working. For example, if I mention a YouTube video, find the actual URL. If I can't find one, maybe omit or note that it's not available.
-
-Wait, the user said to include online videos and resources only if available. So I need to search for actual resources. Let me think: Peter Hinssen has a LinkedIn, maybe a YouTube channel. Search for "Peter Hinssen The Day after Tomorrow talk" on YouTube. For example, there's a video titled "The Day After Tomorrow: How to survive in times of radical innovation | Peter Hinssen" on YouTube. Let me check that. Suppose the URL is https://www.youtube.com/watch?v=xyz123. I'll need to use that.
-
-Also, check if the author's website has resources. His website is peterhinssen.com. Maybe resources there.
-
-For daily habits, if the book doesn't specify, maybe infer from the principles. Like "Conduct a weekly innovation audit" or "Allocate time for learning new technologies."
-
-Assessments: Maybe frameworks from the book to assess a company's readiness for radical innovation. If the book provides a model or assessment tool, include that.
-
-Need to make sure the Obsidian file is comprehensive. Let me outline each section with possible content.
-
-Properties:
-- title: The Day after Tomorrow: How to Survive in 
+Similar 
 
 ```markdown
 ---
