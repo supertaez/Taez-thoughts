@@ -1,5 +1,5 @@
 ---
-title: The Day after Tomorrow¦ How to Survive in Times of Radical Innovation
+title: The Day after Tomorrow - booknotes
 author: Peter Hinssen
 tags: 
 - book_notes
@@ -59,7 +59,8 @@ related_notes:
 ## Practical Applications 🛠️
 ### For Businesses:
 - **Adopt the Seven Shifts**:  
-  | Traditional Approach | "Day after Tomorrow" Approach |  
+  
+| Traditional Approach | "Day after Tomorrow" Approach |  
   |----------------------|--------------------------------|  
   | Sell products        | Offer subscription services  |  
   | Siloed departments  | Cross-functional teams       |  
