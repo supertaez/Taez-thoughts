@@ -1,23 +1,4 @@
-<think>
-Okay, I need to create extensive book notes for "The Day after Tomorrow: How to Survive in Times of Radical Innovation" by Peter Hinssen. The user wants it in Obsidian markdown format with properties, tags, links, callouts, tables, graphics, etc. Let me start by recalling the book's main ideas. 
 
-First, I should outline the summary/plot. The book talks about surviving in times of rapid innovation, focusing on the "day after tomorrow" mindset. Hinssen discusses the pace of innovation, the need for adaptability, and how companies can thrive. He uses examples like Netflix and Blockbuster, right? Also, the concept of the "Seven Shifts" might be important.
-
-Key takeaways and learnings: Probably the importance of being a "Day after Tomorrow" company, the seven shifts, the role of data, customer obsession, etc. Quotes from the book need to be extracted. For example, Hinssen says something like "The only way to survive is to embrace radical innovation," but I need to check the exact quotes.
-
-Practical applications: How can individuals or companies apply these concepts? Daily habits might include continuous learning, fostering a culture of innovation, etc. The user mentioned including daily habits, objectives, activities, and assessments if available. Since the book is more about organizational strategies, maybe translate that into personal habits.
-
-Related notes: Other books on innovation, like "The Innovator's Dilemma" by Clayton Christensen, "Zero to One" by Peter Thiel. Similar articles or movies—maybe "The Social Network" or "Inside Bill's Brain" documentaries. Also, check if Hinssen has other works or related authors.
-
-Online resources: YouTube videos of Hinssen's talks, maybe his website or downloadable resources. Need to find actual links. For example, if he's given a TED Talk, link that. Also, check if there are any free printables or tools mentioned in the book.
-
-Obsidian formatting: Properties at the top with tags. Use callouts for key points, tables for comparisons, insert images via web links. Need to make sure all links are valid. Since the user said none are stored locally, everything must be external URLs.
-
-Wait, the user specified that the answer should be an Obsidian markdown file. So properties like title, author, tags, etc. Then sections with headings. Use markdown tables, callouts with >, maybe embed images using ![]() but with full URLs.
-
-Let me structure this step by step. Start with the properties. The title is the book name, author Peter Hinssen, tags like #book_notes #innovation #business. Then sections: Summary/Plot, Key Takeaways, Quotes, Practical Applications, Related Notes, Similar Books/Articles/Movies, Daily Habits, etc.
-
-For the summary, need to capture the essence. 
 ---
 title: The Day after Tomorrow: How to Survive in Times of Radical Innovation
 author: Peter Hinssen
