@@ -115,7 +115,7 @@ Additionally, different school schedules have been experimented with to improve 
 
 Cultural responsiveness is also a crucial dimension of education quality. Institutions that acknowledge and integrate the diverse cultural backgrounds of their students tend to provide a more inclusive and supportive learning environment. This adaptability in curriculum and teaching methods ensures that students from various cultural contexts feel valued and understood, which can significantly enhance their learning experience.
 
-Case Study: Afternoon Classes in Qatar
+###### Case Study: Afternoon Classes in Qatar
 In Qatar, a recent educational shift has seen several Indian schools adopting an afternoon class schedule for the academic year 2024-2025. This initiative, implemented by five Indian schools offering the CBSE curriculum, was reported by The Peninsula Newspaper on October 17, 2024. The Ministry of Education and Higher Education granted permission for this double shift system on the condition that there would be no internal transfers from other Indian schools, and that the number of students in the afternoon batch would mirror those in the morning batch.
 
 The schools adopting this schedule include MES Indian School, Doha Modern Indian School (DMIS), MES-IS Abu Hamour branch, Shantiniketan Indian School (SIS), and Ideal Indian School (IIS), which offer afternoon sessions from 2 p.m. to 7 p.m. for students from KG1 to Grade 8. This system was introduced to accommodate students who could not be enrolled in any other school due to lack of availability, as stated by MES Principal Hameeda Qadar.
@@ -147,7 +147,6 @@ Moreover, sufficient sleep, which is facilitated by later school start times, ha
 The consensus among experts and numerous health and education organizations, such as the National Sleep Foundation, the Centers for Disease Control and Prevention (CDC), and the American Academy of Pediatrics (AAP), is that middle and high schools should start no earlier than 8:30 a.m. to allow teenagers to achieve the recommended 8-10 hours of sleep nightly. This recommendation underscores the critical role of adequate sleep in supporting the mental and emotional health of teenagers.
 
 ---
-
 
 # Expanded Analysis: Later School Start Times - Age Groups and Societal Impact
 
