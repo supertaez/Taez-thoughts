@@ -2,10 +2,11 @@
 Title: Psycho-Cybernetics: A New Way to Get More Living Out of Life  
 Author: Maxwell Maltz  
 Publication Year: 1960  
-**Genre: Self-Help, Personal Development  
-**Tags**: #self-help #personal-development #mindset #goal-setting  
-**Related Notes**: [[The Power of Positive Thinking]], [[Atomic Habits]], [[Mindset by Carol Dweck]]  
-**Obsidian Link**: [[Psycho-Cybernetics Book Notes]]  
+Genre: Self-Help, Personal Development  
+Tags: 
+- self-help 
+- personal-development #mindset #goal-setting  
+Related Notes: [[The Power of Positive Thinking]], [[Atomic Habits]], [[Mindset by Carol Dweck]]
 ---
 
 ## Summary/Plot  
