@@ -4,9 +4,10 @@ Author: Maxwell Maltz
 Publication Year: 1960  
 Genre: Self-Help, Personal Development  
 Tags: 
-- self-help 
-- personal-development #mindset #goal-setting  
-Related Notes: [[The Power of Positive Thinking]], [[Atomic Habits]], [[Mindset by Carol Dweck]]
+ - self-help 
+ - personal-development 
+ - mindset 
+ - goal-setting
 ---
 
 ## Summary/Plot  
