@@ -1,5 +1,5 @@
 ---
-Title: Psycho-Cybernetics: A New Way to Get More Living Out of Life  
+Title: Psycho-Cybernetics¦ A New Way to Get More Living Out of Life - booknotes
 Author: Maxwell Maltz  
 Publication Year: 1960  
 Genre: Self-Help, Personal Development  
