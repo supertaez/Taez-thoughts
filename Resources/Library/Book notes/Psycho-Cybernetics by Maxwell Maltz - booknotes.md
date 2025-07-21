@@ -103,3 +103,8 @@ Tags:
 
 ## Final Thoughts  
 *Psycho-Cybernetics* remains a foundational text for understanding the mind’s role in shaping reality. Its strength lies in actionable techniques like visualization and feedback loops, though modern readers may benefit from pairing it with evidence-based approaches like CBT or habit science.  
+
+Related Notes: 
+[[The Power of Positive Thinking]]
+[[Atomic Habits]]
+[[Mindset by Carol Dweck - booknotes]]
