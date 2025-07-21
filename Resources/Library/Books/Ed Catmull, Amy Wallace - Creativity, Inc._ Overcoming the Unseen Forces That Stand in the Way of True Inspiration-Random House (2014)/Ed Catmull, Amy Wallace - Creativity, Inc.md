@@ -7,7 +7,6 @@ tags:
   - book
 cover: Resources/Library/Books/Ed Catmull, Amy Wallace - Creativity, Inc._ Overcoming the Unseen Forces That Stand in the Way of True Inspiration-Random House (2014)/images/cover.jpeg
 ---
-   
 
 Copyright © 2014 by Edwin Catmull
 
@@ -33,8 +32,6 @@ Jacket design: Andy Dreyfus
 Jacket illustration: © Disney • Pixar
 
 v3.1
-
-   
 
 CONTENTS  
 
