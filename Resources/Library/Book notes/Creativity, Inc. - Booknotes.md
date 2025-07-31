@@ -81,6 +81,38 @@ date: 2025-07-23
 
 > “Our actions change our reality. Our intentions matter.”   
 *While vision and planning are important, it is deliberate action that shapes outcomes. Believing in a goal isn't enough—consistent, purposeful behavior transforms ideas into reality.*
+
+> “People who take on complicated creative projects become lost at some point in the process. How they get lost and how they find their way out of the maze is essential to understanding the evolution of a creative enterprise.”  
+*This highlights the inevitability of confusion and uncertainty in creative work. Getting lost isn’t a sign of failure but a natural phase of innovation. The key is having systems and trust in place to navigate through ambiguity and emerge with something meaningful.*
+
+> “We must never be afraid of making mistakes. Mistakes are a reason to celebrate because they illuminate the path to progress.”  
+*Mistakes are not setbacks but signals that point toward learning and improvement. Celebrating them shifts the culture from blame to curiosity, encouraging teams to experiment boldly and grow.*
+
+> “The desire for everything to run smoothly is a false goal—except in sports, where the term ‘well oiled machine’ is used positively.”  
+*Smooth, predictable operations are not the goal in creative environments. True innovation is inherently messy. Striving for seamless execution too early can suppress the experimentation needed for breakthroughs.*
+
+> “It is not the manager’s role to prevent risks. It is the manager’s role to make it safe to take them.”  
+*A leader’s responsibility is not to control every outcome but to create a secure environment where team members feel empowered to explore, fail, and learn without fear of retribution.*
+
+> “What we call ‘notes’ are really directives for how to proceed, but they should never feel like commands.”  
+*Feedback should guide, not dictate. At Pixar, notes are collaborative suggestions, not top-down orders. This preserves ownership and encourages dialogue, ensuring the best ideas win regardless of rank.*
+
+> “The people who see problems as opportunities are the ones who drive change.”  
+*Creative leaders and innovators don’t avoid problems—they embrace them as catalysts for improvement. This mindset transforms obstacles into the raw material of progress.*
+
+> “Clarity about what we don’t know is the first step toward learning.”  
+*Acknowledging ignorance is not weakness but intellectual honesty. Only when we admit gaps in understanding can we begin to fill them with insight and innovation.*
+
+> “Protecting the future means being willing to abandon the past.”  
+*Even successful ideas and methods must be re-evaluated. Holding onto outdated practices out of nostalgia or comfort stifles growth. True innovation requires letting go of what once worked to make room for what might work better.*
+
+> “If you don’t try to uncover what is unseen and understand its nature, you will be ill prepared to lead.”  
+*Hidden fears, unspoken tensions, and invisible processes often shape outcomes more than visible plans. Effective leadership requires digging beneath the surface to address root causes, not just symptoms.*
+
+> “The most creative people are often the most disciplined.”  
+*Creativity thrives within structure, not chaos. Discipline provides the foundation that allows imagination to flourish—routines, habits, and consistent effort turn inspiration into reality.*
+
+
 ---
 
 ## Practical Applications
