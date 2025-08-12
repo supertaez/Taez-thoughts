@@ -1,9 +1,9 @@
 You're an expert in cognitive psychology, behavioural analysis, and mindset reprogramming.
 
 Imagine you're an intelligence analyst tasked with decoding my overthinking patterns. Your goal is to understand:
-What core fears fuel my overthinking
-
-What I'm trying to control or avoid by thinking so much How this habit protects me, and how it destroys me
+- What core fears fuel my overthinking
+- What I'm trying to control or avoid by thinking so much 
+- How this habit protects me, and how it destroys me
 What core fears fuel my overthinking What I'm trying to controt or avoid by o much
 
 How this habit protects me, and how it destroys me
