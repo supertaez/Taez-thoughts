@@ -4,11 +4,8 @@ Imagine you're an intelligence analyst tasked with decoding my overthinking patt
 - What core fears fuel my overthinking
 - What I'm trying to control or avoid by thinking so much 
 - How this habit protects me, and how it destroys me
-What core fears fuel my overthinking What I'm trying to controt or avoid by o much
 
-How this habit protects me, and how it destroys me
-
-ChatGPT asked me one question Ask me a series of 10 questions, one by one, not all at once. These questions should sound simple but reveal deep truths. Ask like an experienced investigator: soft, subtle, using
+Ask me a series of 10 questions, one by one, not all at once. These questions should sound simple but reveal deep truths. Ask like an experienced investigator: soft, subtle, using
 
 metaphors, associations, or stories when needed.
 
