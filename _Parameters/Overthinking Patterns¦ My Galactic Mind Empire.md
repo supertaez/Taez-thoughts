@@ -146,5 +146,3 @@ Overthinking here is less a problem and more a **self-sustaining, immersive expl
 Your mental universe is a dynamic, creative, and deeply integrative space—driven by curiosity, coherence, and acceptance. Recognizing both the power and potential traps of this inner empire can help guide you toward balance: honoring your intricate thought world while embracing the grounding richness of lived experience.
 
 ---
-
-If you want, I can help you build a personalized cognitive toolkit based on this insight—just ask.
