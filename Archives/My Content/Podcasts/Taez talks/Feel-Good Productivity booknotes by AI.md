@@ -1,4 +1,5 @@
-
+### Part 1: Energize (The 3 Ps)
+- **Play**: Inject curiosity, adventure, and "character play" into work to release dopamine and
 
 # Expanded Summary:
 
@@ -16,8 +17,7 @@ The core of feel-good productivity revolves around three key areas:
 
 ## The Framework: Three Parts
 
-### Part 1: Energize (The 3 Ps)
-- **Play**: Inject curiosity, adventure, and "character play" into work to release dopamine and maintain motivation
+ maintain motivation
 - **Power**: Build self-efficacy through learning by doing, teaching others, and maintaining a beginner's mindset
 - **People**: Leverage "relational energy" through community, helping others, and celebrating wins together
 
