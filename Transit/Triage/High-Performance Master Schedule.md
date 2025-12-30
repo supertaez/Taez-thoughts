@@ -1,5 +1,5 @@
 
-This schedule is designed to protect your 300+ supplement investment while allowing you to consume 1–2 liters of milk without blocking mineral absorption or neutralizing your enzymes.
+This schedule is designed to protect your supplements investment while allowing you to consume 1–2 liters of milk without blocking mineral absorption or neutralizing your enzymes.
 
 # The "Vitality & Longevity" Master Schedule
 
@@ -9,6 +9,7 @@ This schedule is designed to protect your 300+ supplement investment while allow
 | 11:30 AM – 05:30 PM | The Milk Window (Primary)                 | None.                                                               | START MILK. You can consume the bulk of your 1–2L here.        |
 | 05:30 PM – 07:30 PM | The Fasting Gap                           | None.                                                               | STOP MILK. No milk for 2 hours before your main meal.          |
 | 07:30 PM            | Phase 2: Evening (The Longevity Meal)     | Set A: NAD+, Resveratrol, Berberine, Fisetin, Quercetin.            |                                                                |
+|                     |                                           |                                                                     |                                                                |
 Set B: Creatine, Collagen, Vit C, D3/K2, TMG, Zinc/Copper. | EAT MAIN MEAL. High meat/chicken + rice + sweets. Limit milk to a small glass (max 200ml) to protect Zinc absorption. |
 | 07:30 PM – 09:30 PM | The Digestion Gap | None. | NO MILK. Allow 2 hours for minerals (Zinc/Copper) to absorb without calcium interference. |
 | 09:30 PM – 10:30 PM | The Milk Window (Secondary) | None. | FINAL MILK. Finish your daily quota here if needed. |
