@@ -1,6 +1,7 @@
-Here is your .
+
 This schedule is designed to protect your 300+ supplement investment while allowing you to consume 1–2 liters of milk without blocking mineral absorption or neutralizing your enzymes.
-The "Vitality & Longevity" Master Schedule
+
+# The "Vitality & Longevity" Master Schedule
 
 | Time Window         | Phase & Action                            | Supplements to Take                                                 | Milk / Food Rules                                              |
 | ------------------- | ----------------------------------------- | ------------------------------------------------------------------- | -------------------------------------------------------------- |
