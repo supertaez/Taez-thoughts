@@ -115,11 +115,21 @@ From physics, the concept of "resonance" applies beautifully. When you push a sw
 ### Song Lyrics and Music
 
 **"The Long and Winding Road" by The Beatles**
-The lyrics "The long and winding road that leads to your door / Will never disappear, I've seen that road before / It
+The lyrics "The long and winding road that leads to your door / Will never disappear, I've seen that road before... 
 
+Paul McCartney's melancholic ballad captures the frustration of a journey that seems endless and indirect, never reaching its destination smoothly. The opening lyrics evoke this perfectly: "The long and winding road that leads to your door will never disappear, I've seen that road before. It always leads me here, lead me to your door."
 
+The song's emotional resonance comes from this sense of a journey that should be straightforward but becomes complicated and prolonged. Every driver stuck in traffic knows this feeling—the destination is clear, the path is known, yet the journey becomes frustratingly extended by obstacles that shouldn't be there. The song captures the psychological burden of inefficient travel.
 
-...builds in velocity and complexity, much like a vehicle accelerating onto a clear arterial road. It represents the liberation of movement when constraints are removed. The Green Wave offers this same musical release—the transition from the staccato rhythm of stop-and-go traffic to the legato flow of synchronized travel. In this context, the open road becomes the solo, and the synchronized lights become the rhythm section keeping the beat steady so the melody can soar. The song's title itself becomes a promise: when traffic flows correctly, drivers feel free, unburdened by the friction of unnecessary stops.
+In the context of Qatar's traffic, the song illustrates what unsynchronized signals feel like experientially. The road itself is straight and modern, the destination is visible, yet the journey becomes winding through time rather than space. Each red light is another curve, another delay, making a simple trip feel longer than it should.
+
+Green Wave synchronization promises to transform "long and winding roads" into direct, flowing paths. The physical road may remain unchanged, but the temporal experience becomes straightforward—what the journey should have been all along.
+
+**"Free Bird" by Lynyrd Skynyrd**
+
+This southern rock anthem, particularly its famous guitar solo, evokes the feeling of unobstructed movement and freedom that synchronized traffic promises. The lyrics speak to the desire for autonomous movement without constraints: "If I leave here tomorrow, would you still remember me? For I must be traveling on now, 'cause there's too many places I've got to see."
+
+The extended guitar solo builds in velocity and complexity, much like a vehicle accelerating onto a clear arterial road. It represents the liberation of movement when constraints are removed. The Green Wave offers this same musical release—the transition from the staccato rhythm of stop-and-go traffic to the legato flow of synchronized travel. In this context, the open road becomes the solo, and the synchronized lights become the rhythm section keeping the beat steady so the melody can soar. The song's title itself becomes a promise: when traffic flows correctly, drivers feel free, unburdened by the friction of unnecessary stops.
 
 **"Clocks" by Coldplay**
 
