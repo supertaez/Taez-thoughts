@@ -22,6 +22,7 @@ related_topics:
   - "[[Smart City Infrastructure]]"
   - "[[Urban Traffic Flow]]"
   - "[[Transportation Optimization]]"
+related_notes:
 ---
 
 # Synchronized Traffic Light Systems: Engineering Continuous Flow at Speed Limits
