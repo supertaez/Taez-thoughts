@@ -25,8 +25,7 @@ This schedule is designed to protect your supplements investment while allowing 
    * Requirement: Do not drink milk for 2 hours after your evening meal. Your Zinc and Resveratrol need time to "clear" the digestive tract before a flood of calcium (from 1L of milk) arrives.
  * Night Recovery Window (11:00 PM):
    * Requirement: Stop all milk at least 30–60 minutes before your Magnesium/GABA stack. Calcium and Magnesium compete for the same receptors; drinking 2 liters of milk right at bed will make your Magnesium Glycinate significantly less effective.
-Final Pro-Tips for this Schedule
+### Final Pro-Tips for this Schedule
  * The "Sweets" Timing: Eat your sweets during your 7:30 PM meal. This is when your Berberine is active and your Creatine is ready to shuttle that glucose into your muscles.
  * Hydration: Between the high protein (meat/milk), the Guarana (diuretic), and the Creatine (water-pulling), you should be drinking water heavily during the "Milk Windows" to avoid kidney stress.
  * Enzyme Potency: If you find you have a late-night snack after 11 PM, you must push your morning window later. The enzymes only work for your arteries if the stomach is "boring" and empty.
-Do you have any specific brands for these herbs (Ginseng/Epimedium) that I should check for concentrations to ensure they aren't too high for a 9:00 AM dose?
