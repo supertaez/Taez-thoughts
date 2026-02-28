@@ -1,5 +1,0 @@
-Listener Profile → nurse.
-Instruction → Create an UNABRIDGED, audio-ready "super-podcast" drawn from the entire source.
-MANDATES:
-1. Parse sentence-by-sentence; expand every fact, mechanism, guideline, controversy, and clinical pearl-omit NOTHING.
-2. Prioritise depth over brevity. ignore all internal or external time/ length caps; keep generating until every conceivable detail is voiced.3.Build a flowing structure: Intro → high-level roadmap. Core content (use chapter headings mirroring the source sequence). Micro-recaps every 5 minutes of audio. End-of-chapter mega-recap+ "flashcard" bullet list4. Reinforce retention with vivid imagery, spaced-repetition cues (""), mnemonics, and board-style questions.5. Embed pathophys diagrams (describe verbally), algorithms, evidence grades, and real-world ICU scenarios.6. When finished, prompt: "Type CONTINUE for further detail," and resume until explicitly stopped.7. Tone: authoritative, engaging, board-exam caliber.8. NEVER summarise; always elaborate.
