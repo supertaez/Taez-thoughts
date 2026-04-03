@@ -30,9 +30,9 @@ Neean has a Qatari secondary school certificate that nobody in Kerala knows what
 
 He's not a genius in the Hollywood sense. He's not a legendary hacker. He's a kid who is very good at finding things on the internet that people don't want found — pirated textbooks, leaked exam papers, the home addresses of people who've wronged his friends. Small illegal things. Kid things. He does it for money sometimes. Mostly for the feeling of it — the satisfaction of the world having a back door and him knowing where it is.
 
-His Malayalam is grammatically correct and emotionally foreign. He grew up speaking it at home, in the specific Gulf Malayali register — slightly formal, slightly softened, the edges rounded off by years of being a minority language in a multilingual environment. Kerala people hear it and smile in a way that means *Gulf boy.* He has learned to hear that smile and say nothing.
+His Malayalam is grammatically correct and emotionally foreign. He grew up speaking it at home, in the specific Gulf Malayali register — slightly formal, slightly softened, the edges rounded off by years of being a minority language in a multilingual environment. Kerala people hear it and smile in a way that means *Gulf boy.* He has learned to see that smile and say nothing.
 
-He has one friend in Kozhikode. A boy from his colony who is aggressively unambitious and therefore asks nothing of Neean, which is what Neean needs from a friend right now.
+He has one friend in Kozhikode. A boy from his neighborhood who is aggressively unambitious and therefore asks nothing of Neean, which is what Neean needs from a friend right now.
 
 He has a crush on a girl in his college named Tripti who is from Darjeeling and therefore also slightly foreign, slightly outside the social architecture, always reading something. He has spoken to her twice. Both times he said something slightly wrong in a way he couldn't identify and she was polite about it.
 
