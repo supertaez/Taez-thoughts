@@ -16,7 +16,7 @@ Bushehr breaches. The contamination plume moves southwest across the Gulf's shal
 - Saudi Arabia's Eastern Province — the most oil-rich land on earth
 - Parts of southern Iraq
 
-This is not merely an environmental catastrophe. It is the **simultaneous erasure of the political legitimacy of every Gulf ruling family** — because the one thing a ruler must provide is the land itself. The Emir of Qatar, the Al Maktoums, the Al Sauds, the Al Sabahs, the Al Khalifas — they leave. By private jet. With their sovereign wealth funds, their foreign real estate portfolios, their London townhouses, their Swiss accounts, their American treasury holdings.
+This is not merely an environmental catastrophe. It is the **simultaneous erasure of the political legitimacy of every Gulf ruling family** — because the one thing a ruler must provide is the land itself. The Al Thanis, the Al Maktoums, the Al Sauds, the Al Sabahs, the Al Khalifas — they leave. By private jet. With their sovereign wealth funds, their foreign real estate portfolios, their London townhouses, their Swiss accounts, their American treasury holdings.
 
 They evacuate the land their families have ruled for generations and take with them the only thing that was truly theirs — the accumulated financial wealth extracted from that land over the previous century.
 
