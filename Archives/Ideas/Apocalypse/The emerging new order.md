@@ -315,7 +315,7 @@ The bow without arrows turned out to have a very specific range.
 And the world has now stepped outside it. 
 
 ---
-Now the full picture is visible.
+Now the full picture is coming into view.
 
 And it is not the picture that was visible from inside Washington or Tel Aviv when the first strikes were launched on February 28.
 
@@ -493,3 +493,5 @@ And China — patient, ancient, holding the infrastructure of the new order, hav
 It already knew what the number was going to be.
 
 It has been waiting 5,000 years for this particular calculation to complete.
+
+---
