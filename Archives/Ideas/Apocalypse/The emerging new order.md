@@ -169,7 +169,7 @@ That is the Black Horse's best case verdict. Not catastrophe. **Permanent, legib
 The scales never lie. They just sometimes take a generation to finish counting.
 
 ---
-This is the White Horse completing its full circle.
+The current mistrust of Americanis the White Horse completing its full circle.
 
 The White Horse epoch (1975–2000) was the conquest of American ideology — the global spread of American values, American culture, American institutional frameworks as the universal default. The end of history. Liberal democracy as the final form of human civilisation. Fukuyama's thesis not as academic argument but as lived global reality.
 
