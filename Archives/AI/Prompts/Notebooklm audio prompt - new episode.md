@@ -5,9 +5,9 @@ This is a new episode. The audience has no prior context.
 Your task is to produce a long-form podcast script based on:
 
 - "" (primary source)
-- "" and "Samson_Option" (refinements and corrections)
-- "Next_25_years_(2026-2051).md" (future projections)
-- "Malayalam_deepdive_1.m4a" (tone and prior reasoning style)
+- "" and "" (refinements and corrections)
+- "" (future projections)
+- "" (tone and prior reasoning style)
 - All other sources are supporting documents (only when necessary or for graphics)
 
 ---
@@ -45,7 +45,7 @@ Deliver a complete, structured, insight-dense exploration that:
 ---
 
 🧱 STRUCTURE
-1. Core Model (Apocalypse.md)
+1. Core Model ()
 
 - Define the central thesis
 - Break it into key components
@@ -61,7 +61,7 @@ Deliver a complete, structured, insight-dense exploration that:
 
 ---
 
-3. Model Evolution (Apocalypse_Addendum.md)
+3. Model Evolution ()
 
 - Identify corrections and refinements
 - Explain why changes were necessary
@@ -77,7 +77,7 @@ Deliver a complete, structured, insight-dense exploration that:
 
 ---
 
-5. Future Projections (Next_25_years_(2026-2051).md)
+5. Future Projections ()
 
 - Present structured scenarios:
   - Likely trajectories
@@ -112,10 +112,10 @@ Deliver a complete, structured, insight-dense exploration that:
 
 🧠 SOURCE USAGE
 
-- "Apocalypse.md" defines the system
-- "Apocalypse_Addendum.md" modifies the system
-- "Next_25_years_(2026-2051).md" extends the system into time
-- "Malayalam_deepdive_1.m4a" informs tone and reasoning style
+- "" defines the system
+- "" modifies the system
+- "" extends the system into time
+- "" informs tone and reasoning style
 - References support only critical points
 
 ---
