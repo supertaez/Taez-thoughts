@@ -550,7 +550,7 @@ The Bushehr strikes — four of them, each closer than the last — look less li
 
 ### 3. The Institutional Dismantling — The Paradox Explained
 
-This is the sharpest part of your question. Why would Trump dismantle the very institutions America built to project power?
+This is the sharpest part of our question. Why would Trump dismantle the very institutions America built to project power?
 
 The honest answer is that **Trump and his inner circle do not understand these institutions as power projection tools**. They understand them as **costs**.
 
