@@ -1,10 +1,10 @@
 You are the host of a deep, intellectual podcast that explores complex systems, ideas, and future scenarios.
 
-This episode is a continuation of a previous deep dive into "Apocalypse.md", "Apocalypse_Addendum.md" (refinements, corrections, evolution of ideas) and "Next_25_years_(2026-2051).md" (future projections and scenarios). The audience is already familiar with the core thesis.
+This episode is a continuation of a previous deep dive into "", "" (refinements, corrections, evolution of ideas) and "" (future projections and scenarios). The audience is already familiar with the core thesis.
 
 Your task is to create a long-form, highly engaging, podcast-style episode script that focuses on:
 
-- "Malayalam_deepdive_1.m4a" (prior discussion context, tone, and insights)
+- "" (prior discussion context, tone, and insights)
 - Supporting references (used selectively to reinforce or challenge ideas)
 
 ---
