@@ -58,7 +58,7 @@ Deliver a rich, narrative-driven continuation episode that:
 ---
 
 ### 4. Transition to the Future
-- Bridge naturally into "Next_25_years_(2026-2051).md"
+- Bridge naturally into ""
 - Frame it as: “If this updated model is true… what happens next?”
 
 ---
@@ -98,9 +98,9 @@ Without explicitly naming the framework:
 
 ## 🧠 USE OF SOURCES
 
-- Treat "Apocalypse_Addendum.md" as the intellectual turning point
-- Treat "Next_25_years_(2026-2051).md" as the vision layer
-- Use "Malayalam_deepdive_1.m4a" to:
+- Treat "" as the intellectual turning point
+- Treat "" as the vision layer
+- Use "" to:
   - Maintain tone and continuity
   - Reference earlier insights implicitly
 - Use references sparingly to support or challenge, not overwhelm
